@@ -13,17 +13,6 @@ Die Tox Umgebung ist grundsätzlich so definiert, dass alle Source-Files nach Sp
 ### Java
 Durch das Kopieren des Template-Directories erhällt man alle wichtigen Konfigurationen und Einstellungen für eine neue Aufgabenstellung. Das [setup.py](templates/java/build.gradle) muss dabei an die neuen Informationen angepasst werden.  
 
-## Erstellung des Classroom Links
-Damit die Schüler über den Classroom das Repository clonen können, muss dieser mit einem Init-Repository versehen werden. Dieses muss unter der **TGM-HIT** Organisation erstellt werden - am besten als privates Repository.
-![Erstellung des Repositories](resources/CreateRepository.gif)
-
-Um eine einfache Verwaltung der Schülerrepositories über die Skripte aus dem [Tools-Repository](https://github.com/TGM-HIT/tools) zu ermöglichen, ist eine verschachtelte Anordnung der Verzeichnis von Vorteil (mehr dazu im [Tools-Repository](https://github.com/TGM-HIT/tools)).
-![Init von Repo](resources/InitRepo.gif)
-
-Nun ist es soweit, die Classroom-Aufgabenstellung kann erstellt werden und in elearning eingebunden werden:
-![Erstellung von Classroom](resources/CreateClassroom.gif)
-![Init von Elearning Aufgabe](resources/InitiateElearningAssignment.gif)
-
 ## Quellen
 + [LaTeX template](https://github.com/TGM-HIT/latex-protocol)
 + [Tox tricks and patterns](https://blog.ionelmc.ro/2015/04/14/tox-tricks-and-patterns/)

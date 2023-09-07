@@ -1,0 +1,77 @@
+# Datenmanagement "Distributed Data Structures" - Taskdescription
+
+## Einführung
+Komplexe und aufteilbare Tasks müssen mit Parametern ausgestattet werden und von entsprechenden Koordinatoren gestartet bzw. die erhaltenen Daten wieder zusammengefasst werden. Diese Art von verteilter Programmierung findet in vielen Anwendungsgebieten rege Verwendung (AI Daten Analyse, Lastverteilung, etc.). Hierbei kommt das Prinzip des Master/Worker Patterns (Master-Slave oder Map-Reduce Pattern) zum Einsatz.
+
+## Ziele
+Finden Sie eine Lösung, die in einer Cloud-Umgebung ausrollbar (deployable) ist. Die einzelnen Worker sollen unabhängig voneinander bestehen können und mit Input-Parametern gestartet werden. Die berechneten Daten müssen an den Master bzw. als Zwischenberechnung an andere Worker weitergegeben werden können. Die einzelnen Worker sollen unabhängig von der Umgebung gestartet werden können (unterschiedliche Servereinheiten).
+
+## Kompetenzzuordnung
+**GK SYT10 Dezentrale Systeme | Datenmanagement | Replikation**
+
+* "ausfallsichere, replizierte und dezentrale Systeme entwerfen, installieren und warten"
+
+
+## Voraussetzungen
+* Grundverständnis von Python oder Java
+* Lesen und Umsetzen von APIs
+* Fähigkeit komplexe Programmier-Aufgaben zu implementieren und zu verteilen
+
+## Detailierte Aufgabenbeschreibung
+Recherchieren Sie mögliche Werkzeuge für das "distributed Computing". Vergleichen Sie mögliche Produkte in Bezug auf folgende Parameter:
+
+* Architektur
+* einsetzbare Programmiersprachen
+* Datenverteilung und gemeinsamer Speicher
+* Performance bei Main-Focus
+* Notifikation von Master oder anderen Slaves
+
+Um Technologien auch entsprechend im Einsatz vergleichen zu können, ist die Beschreibung der Schnittstellen ein wichtiger Punkt. Hierfür bietet sich auch eine kurze Sourcecode Gegenüberstellung an, damit die Komplexität des Systems bzw. Frameworks auch veranschaulicht werden kann.
+
+Nehmen Sie eine geeignete Aufgabenstellung/Berechnung (Aufteilung von Daten) und zeigen Sie anhand von einer Beispiel-Konfiguration, wie die Verteilung der Berechnung und anschließende Zusammenführung der Daten funktioniert. Bei ähnlichen oder gleichen Berechnungen wäre ein direkter Vergleich (Benchmark) der gewählten Tools/Technologien von Vorteil.
+
+## Abgabe
+Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
+
+### Classroom Git-Repository
+[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+
+## Bewertung
+Gruppengrösse: 1-2 Person(en)
+### Grundanforderungen **überwiegend erfüllt**
+- [ ] Vergleich von Technologien
+	* Architektur
+	* einsetzbare Programmiersprachen
+	* Datenverteilung und gemeinsamer Speicher
+	* Performance bei Main-Focus
+	* Notifikation von Master oder anderen Slaves
+- [ ] Beschreibung der gewählten Systeme bzw. Frameworks
+- [ ] Dokumentation der gewählten Schnittstellen
+
+### Grundanforderungen **zur Gänze erfüllt**
+- [ ] Implementierung der gewählten Umgebung auf lokalem System
+- [ ] Einsatz eines Beispiels zur Veranschaulichung der Funktionsweise
+- [ ] Verteilung der Berechnung und anschließende Zusammenführung der Daten
+
+
+## Quellen
+* "A reactive Java framework for building fault-tolerant distributed systems" Atomix [github](https://github.com/atomix/atomix)
+* "What is Atomix?" [atomix.io](https://atomix.io/docs/latest/user-manual/introduction/what-is-atomix/)
+* "Introduction to Atomix" [baeldung](https://www.baeldung.com/atomix)
+* "Primitive Protocols" [atomix.io](https://atomix.io/docs/latest/user-manual/primitives/primitive-protocols/)
+* "The Raft Consensus Algorithm" [online](https://raft.github.io/)
+* "In Search of an Understandable Consensus Algorithm" Raft-Paper; Stanford University; [online](https://raft.github.io/raft.pdf)
+* "How to Create a distributed Datastore in 10 Minutes" Jonathan Halterman [online](https://jodah.net/create-a-distributed-datastore-in-10-minutes)
+* "Spark Quickstart" [online](http://spark.apache.org/docs/latest/quick-start.html)  
+* "Spark Github repository with examples" [online](https://github.com/apache/spark)
+* "Spark Tutorial: Real Time Cluster Computing Framework" [online](https://www.edureka.co/blog/spark-tutorial/)
+* "Apache Spark Dockerimage" [online](https://github.com/gettyimages/docker-spark)  
+* "Open-source software for reliable, scalable, distributed computing" [Apache Hadoop](https://hadoop.apache.org/)  
+* "High-performance coordination service for distributed applications" [Apache Zookeeper](https://zookeeper.apache.org/doc/current/)  
+* "Distributed data store" [wikipedia](https://en.wikipedia.org/wiki/Distributed_data_store)
+* "Understanding Hadoop v/s Spark v/s Storm" [cognixia.com](https://www.cognixia.com/blog/understanding-hadoop-vs-spark-vs-storm)
+* "Comparison Storm and Spark" [whizlabs.com](https://www.whizlabs.com/blog/apache-storm-vs-apache-spark/)
+* "etcd - A distributed, reliable key-value store" [online](https://etcd.io/)
+
+---
+**Version** *20220217v3*

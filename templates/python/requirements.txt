@@ -1,0 +1,4 @@
+pytest
+pytest-cov
+pytest-html
+sphinx >= 1.8.1

@@ -1,0 +1,13 @@
+.idea
+.tox
+.coverage
+docs
+testreport.html
+__pycache__
+*egg-info
+.project
+.settings
+.gradle
+.classpath
+bin
+build

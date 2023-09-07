@@ -1,0 +1,15 @@
+target
+bin
+build
+gradle
+gradlew
+gradlew.bat
+.gradle
+.classpath
+.project
+.settings/
+out/
+*.iml
+*.iws
+*.ipr
+db/testing.trace.db

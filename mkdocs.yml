@@ -1,0 +1,34 @@
+site_name: Systemtechnik Exercises
+repo_url: https://github.com/dominikhoebert/ideal-chainsaw
+
+
+theme:
+  name: material
+  palette: 
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/brightness-7 
+      name: Switch to dark mode
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+    - content.action.edit
+    - content.action.view
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+edit_uri: 'edit/main/docs/'

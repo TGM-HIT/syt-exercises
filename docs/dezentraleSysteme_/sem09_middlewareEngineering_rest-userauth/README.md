@@ -7,6 +7,7 @@ Die detaillierte [Aufgabenstellung](TASK.md) beschreibt die notwendigen Schritte
 Kurze Beschreibung der implementierten Architektur bzw. Schnittstelle und der verwendeten Docker Umgebung.
 
 ## Implementierung
+Wichtige Schritte der Implementierung mit Code-Snippets.
 
 ## Deployment
 

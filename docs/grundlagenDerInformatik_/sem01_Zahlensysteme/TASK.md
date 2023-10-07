@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Zahlensysteme*" - Taskdescription
 
 ## Einführung

@@ -43,7 +43,7 @@ build
 out/
 
 # Reports
-docs
+
 testreport.html
 industrielleInformationstechnik_/.DS_Store
 .DS_Store

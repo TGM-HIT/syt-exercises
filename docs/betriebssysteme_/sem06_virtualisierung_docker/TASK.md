@@ -61,7 +61,7 @@ _"... but it works on my machine!"_ ist als Ausrede bei einem Kunden in der heut
 
 Die Aufgabenstellung beruht auf den in den Quellen angegebenen Tutorials und soll die wichtigsten Befehle und Möglichkeiten mit Docker vorstellen und trainieren. Es ist sehr hilfreich die kurzen Vorstellungen von _redhat_ [1, 2] und auch die Übersicht von _docker_ selbst [3] zu lesen, besonders sollte die Architektur klar sein:  
 
-![Docker architecture](https://docs.docker.com/engine/images/architecture.svg)
+![Docker architecture](https://www.whizlabs.com/blog/wp-content/uploads/2021/09/Docker-Architecture.png)
 
 ### 1. Der erste Container
 Container sind Instanzen von Docker-Images, die mit dem Befehl `docker run` ausgeführt werden können. Der Hauptzweck von Docker ist das Ausführen von Containern.

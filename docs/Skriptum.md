@@ -1,4 +1,4 @@
-# Systemtechnik Skriptum
+# Skriptum
 
 ## 1. Semester
 

@@ -96,10 +96,10 @@ Dies ist optional und für geübte Entwickler gedacht.
 [15] **"Pullup- und Pulldown-Widerstände" elektro.turanis; zuletzt besucht am 2022-09-14 [online](https://elektro.turanis.de/html/prj035/index.html)**   
 [16] **"ESP32 PWM with Arduino IDE (Analog Output)" andomnerdtutorials; zuletzt besucht am 2022-09-14 [online](https://randomnerdtutorials.com/esp32-pwm-arduino-ide/)**    
 [17] **"ATmega2560 Blockschaltbild" Microchip.com; Seite 5; zuletzt besucht am 2022-10-07 [online](https://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf)**    
-[18] „Alles, was Sie über Mikrocontroller wissen müssen | RS“. Zugegriffen: 15. Oktober 2023. [Online]. Verfügbar unter: https://at.rs-online.com/web/content/discovery-portal/produktratgeber/mikrocontroller-leitfaden
-[19] „Basics of Microcontrollers - Structure, Appications, Pros & Cons“, Electronic Circuits and Diagrams-Electronic Projects and Design. Zugegriffen: 15. Oktober 2023. [Online]. Verfügbar unter: https://www.circuitstoday.com/basics-of-microcontrollers
+[18] **„Alles, was Sie über Mikrocontroller wissen müssen | RS“. Zugegriffen: 15. Oktober 2023. [Online]. Verfügbar unter: https://at.rs-online.com/web/content/discovery-portal/produktratgeber/mikrocontroller-leitfaden**  
+[19] **„Basics of Microcontrollers - Structure, Appications, Pros & Cons“, Electronic Circuits and Diagrams-Electronic Projects and Design. Zugegriffen: 15. Oktober 2023. [Online]. Verfügbar unter: https://www.circuitstoday.com/basics-of-microcontrollers**  
 
-
+Quellen in **FETT** sind besonders wichtig für die Überprüfung.
 
 ---
 **Version** *20231015v3*

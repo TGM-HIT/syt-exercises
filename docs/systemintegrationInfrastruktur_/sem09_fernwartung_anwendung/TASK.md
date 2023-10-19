@@ -20,15 +20,17 @@ Diese Aufgabe soll die Möglichkeit bieten SSH-Tunnling, ferngesteuerte Desktop-
 
 ### SSH
 
-Es soll ein SSH-Zugang für eine Authentifizierung mittels Public-Key-Verfahren konfiguriert werden. Dazu soll am Client ein Schlüsselpaar mit Passwort erstellt, der öffentliche Teil der Schlüssel auf den Server übertragen und anschließend der Server für die Schlüssel-Authentifizierung eingerichtet werden. Anschließend soll sich der Benutzer mit Login-Passwort und Key am Server anmelden können.
+Die Grundlegende Funktion von SSH ist die Herstellungen einer sicheren Verbindung zwischen zwei Systemen. Üblicherweise werden über diese Verbindung Shell Eingaben und Ausgaben ausgetauscht, was Fernwartung ermöglicht, aber auch andere Dienste können über die SSH-Verbindung übertragen werden.
+
+Richte zwei Instanzen (Docker Container - empfohlen, VMs, ...) ein, die folgend beispielhaft "Client" und "Server" genannt werden. Beide benötigen für die Aufgabe einen laufenden SSH Server (`openssh`). Zur Sicherheit des Servers soll dieser nur bereits bestehende Verbindungen von außerhalb akzeptieren. Nun soll eine Möglichkeit gefunden werden, eine SSH-Verbindung vom Client zum Server herzustellen, ohne die Sicherheit des Servers gegenüber eingehenden Netzwerkverbindungen zu beeinträchtigen.
 
 #### Tunneling
 
-Starte 2 Instanzen und richte SSH-Keys mit Passwort ein die zur  Authentifizierung zwischen den Maschinenen verwendet werden können. Anschließend soll ein SSH-Tunnel aufgebaut werden, der es ermöglichen soll auf einen Port, der normalerweise nicht zugänglich ist (z.B. durch eine Firewall blockiert), zuzugreifen. Einfacherweise bietet sich hier der Port `22` (SSH) an, man kann natürlich aber auch andere Dienste Tunneln.
+SSH-Tunnel leiten unter anderem beliebige TCP-Verbindungen über die SSH-Verbindung weiter. Sie können daher auch verwendet werden um weitere SSH-Verbindungen weiterzuleiten. Richte also einen SSH-Tunnel vom Server zum Client ein, der es möglich macht, den SSH-Server am Server vom Client aus zu erreichen. Zur (automatischen) Authentifizierung soll das Public-Key-Verfahren verwendet werden, generiere also am Server ein zur Automatisierung geeignetes Schlüsselpar und installiere es am Client.
 
 #### Automatisierte Verbindung
 
-Der Tunnel soll nun automatisch beim Start zwischen zwei Instanzen hergestellt werden. Dies kann mittels eines Systemd-Services umgesetzt werden:
+Der Tunnel soll automatisch beim Start des Servers hergestellt werden. Wenn Systemd als Init-System verwendet wird kann dies mit einem Service umgesetzt werden:
 
 ```bash
 [Unit]
@@ -48,7 +50,11 @@ WantedBy=multi-user.target
 ```
 Es fehlt hierbei noch die **ExecStart** Definition. Welcher Befehl gehört da hinein? Wiederholung: Wie aktiviert man nun dieses Systemd-Service?
 
-Achtung: Der Key, der im vorherigen Schritt Tunneling erstellt wurde, kann nicht ohne Passwort verwendet werden. Erstelle daher einen neuen Key mit zur Automatisierung geeigneten Eigenschaften.
+Achtung: Docker bietet keine Systemd Umgebung (in Docker startet normalerweise nur der Dienst, den man verwenden möchte, KEIN Init-System). Unter Docker muss man stattdessen dafür sorgen, dass der Befehl beim Start des Containers ausgeführt wird (z.B. mit `ENTRYPOINT` und einem Startskript, welches `sshd` von `openssh` startet und den Tunnel aufbaut).
+
+#### Fernwartung
+
+Über den bisher erstellten Tunnel gibt es nun eine Möglichkeit den SSH-Server am Server vom Client aus zu erreichen. Die Authentifizierung vom Client zum Server soll auch auf einem Schlüssel basieren, richte also auch hier einen Schlüssel ein, der allerdings für die interaktive Nutzung geeignet ist.
 
 ### Webaccessed Desktop Environment
 
@@ -127,20 +133,51 @@ Gruppengrösse: 1-2 Person(en)
 
 ## Help! "Oh, I need somebody ..."
 
+### SSH
+
+#### IP-Tables auf Docker
+
+In docker: `--cap-add NET_ADMIN --cap-add NET_RAW`
+
+In docker compose:
+
+```yaml
+services:
+    [name]:
+        cap_add:
+            - NET_ADMIN
+            - NET_RAW
+```
+
+#### IP-Tables zur Isolation
+
+```bash
+# iptables -A INPUT -s localhost -j ACCEPT # Accept all connections from localhost
+# iptables -A INPUT -p tcp -m conntrack --ctstate INVALID,NEW -j REJECT # Reject new and invalid TCP Connections
+```
+
 #### SSH Key generieren
-`ssh-keygen`, Fragen mit default Werten bestätigen (oder Passwort setzen), erzeugt `~/.ssh/id_rsa` (private key) `~/.ssh/id_rsa.pub` (public key).
+`ssh-keygen`, Konfigurationswerte dem Einsatzzweck entsprechend wählen (Leer lassen für Standardwerte), erzeugt `~/.ssh/id_rsa` (private key) `~/.ssh/id_rsa.pub` (public key).
 
 #### SSH key teilen
 Den public key in die Datei `~/.ssh/authorized_keys` auf dem Zielserver kopieren. Dies kann vereinfacht werden mit dem Befehl `ssh-copy-id`.
 
 #### SSH Tunnel aufbauen
-`ssh -L` und `ssh -R`
+`ssh -L` (Leitet von lokal zu entfernt weiter) und `ssh -R` (Leitet von entfernt zu lokal weiter)
 
 #### Automatisiert
-`ExecStart=/bin/bash -c "ssh -N -R ZIELIP:2222:QUELLIP:22 ZIELIP"`
+```shell
+ExecStart=/bin/bash -c "ssh -N -R [host@remote:]port@remote:host@local:port@local remote-address"
+```
+
+Wenn host@remote leer oder '*' ist, dann empfängt SSH auf allen Adressen Verbindungen.
 
 ## Quellen
 * https://wiki.archlinux.org/title/OpenSSH
+* https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
+* https://docs.docker.com/compose/compose-file/compose-file-v3/#cap_add-cap_drop
+* https://linux.die.net/man/8/iptables
+* https://linux.die.net/man/1/ssh
 * https://wiki.archlinux.org/title/TigerVNC
 * https://guacamole.apache.org/
 * https://hub.docker.com/r/linuxserver/webtop
@@ -150,6 +187,5 @@ Den public key in die Datei `~/.ssh/authorized_keys` auf dem Zielserver kopieren
 * https://www.wireguard.com/protocol/
 * https://www.wireguard.com/papers/wireguard.pdf
 * https://noip.com
-* https://my.noip.com/dynamic-dns/duc
-
+* https://my.noip.com/dynamic-dns/duc (nur angemeldet erreichbar!)
 

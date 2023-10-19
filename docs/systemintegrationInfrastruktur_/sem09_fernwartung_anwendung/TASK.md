@@ -12,7 +12,7 @@ Diese Aufgabe soll die Möglichkeit bieten SSH-Tunnling, ferngesteuerte Desktop-
 **GK SYT9 Systemintegration und Infrastruktur | Fernwartung | Anwendung**  
 * "Fernwartungstechniken beschreiben und diese im Unternehmen geeignet einsetzen"
 
-**GK SYT9 Systemintegration und Infrastruktur | Fernwartung | Mathematik**  
+**EK SYT9 Systemintegration und Infrastruktur | Fernwartung | Mathematik**  
 * "die mathematischen Grundlagen für Verschlüsselung verstehen und anwenden"
 
 
@@ -22,7 +22,7 @@ Diese Aufgabe soll die Möglichkeit bieten SSH-Tunnling, ferngesteuerte Desktop-
 
 Die Grundlegende Funktion von SSH ist die Herstellungen einer sicheren Verbindung zwischen zwei Systemen. Üblicherweise werden über diese Verbindung Shell Eingaben und Ausgaben ausgetauscht, was Fernwartung ermöglicht, aber auch andere Dienste können über die SSH-Verbindung übertragen werden.
 
-Richte zwei Instanzen (Docker Container - empfohlen, VMs, ...) ein, die folgend beispielhaft "Client" und "Server" genannt werden. Beide benötigen für die Aufgabe einen laufenden SSH Server (`openssh`). Zur Sicherheit des Servers soll dieser nur bereits bestehende Verbindungen von außerhalb akzeptieren. Nun soll eine Möglichkeit gefunden werden, eine SSH-Verbindung vom Client zum Server herzustellen, ohne die Sicherheit des Servers gegenüber eingehenden Netzwerkverbindungen zu beeinträchtigen.
+Richte zwei Instanzen (Docker Container, VMs) ein, die folgend beispielhaft "Client" und "Server" genannt werden. Beide benötigen für die Aufgabe einen laufenden SSH Server (`openssh`). Zur Sicherheit des Servers soll dieser nur bereits bestehende Verbindungen von außerhalb akzeptieren. Nun soll eine Möglichkeit gefunden werden, eine SSH-Verbindung vom Client zum Server herzustellen, ohne die Sicherheit des Servers gegenüber eingehenden Netzwerkverbindungen zu beeinträchtigen.
 
 #### Tunneling
 
@@ -50,7 +50,7 @@ WantedBy=multi-user.target
 ```
 Es fehlt hierbei noch die **ExecStart** Definition. Welcher Befehl gehört da hinein? Wiederholung: Wie aktiviert man nun dieses Systemd-Service?
 
-Achtung: Docker bietet keine Systemd Umgebung (in Docker startet normalerweise nur der Dienst, den man verwenden möchte, KEIN Init-System). Unter Docker muss man stattdessen dafür sorgen, dass der Befehl beim Start des Containers ausgeführt wird (z.B. mit `ENTRYPOINT` und einem Startskript, welches `sshd` von `openssh` startet und den Tunnel aufbaut).
+*Achtung*: Docker bietet keine Systemd Umgebung (in Docker startet normalerweise nur der Dienst, den man verwenden möchte, KEIN Init-System). Unter Docker muss man stattdessen dafür sorgen, dass der Befehl beim Start des Containers ausgeführt wird (z.B. mit `ENTRYPOINT` und einem Startskript, welches `sshd` von `openssh` startet und den Tunnel aufbaut). Besser wäre die Server-Einheit auf einer virtuellen Instanz (VMware oder Virtualbox) zu installieren, damit die automatisierte Konfiguration leichter umgesetzt werden kann.
 
 #### Fernwartung
 
@@ -64,6 +64,10 @@ Um mehreren Benutzern den Zugriff auf graphische Oberflächen zu gestatten, kann
 
 Die Aufgabenstellung zeigt eine einfache Umsetzung einer Desktopumgebung im Browser mit [webtop](https://github.com/linuxserver/docker-webtop), die über einen Docker-Container konfiguriert und gestartet werden kann. Es soll eine einfache Benutzerkennung mit entsprechendem Volumen für das Home-Directory im Host-System bereitgestellt werden. Dabei soll eine resourcenschonende Desktopumgebung ausgewählt werden (z.B. arch und xfce4).
 
+#### Remote Desktop Tools
+Um auf den entfernten Rechner einer anderen Person zuzugreifen und dieser bei administrativen Tätigkeiten zu unterstützen, bieten sich zwei einfache Lösungen an: TeamViewer und Anydesk. Unterschiede bei den Sicherheitsaspekten könnten zu einer dieser Lösung tendieren, welche wäre diese?
+
+Nach der Installation von AnyDesk soll eine Verbindung zum Gruppenmitglied erfolgen, um die Standard-Einstellungen zu testen.
 
 ### VPN
 
@@ -123,6 +127,7 @@ Gruppengrösse: 1-2 Person(en)
 ### Grundanforderungen überwiegend erfüllt
 - [ ] SSH Tunnel erstellen
 - [ ] Webaccess auf Desktop Umgebung eingerichtet
+- [ ] Standard-Einstellungen von AnyDesk dokumentiert
 
 ### Grundanforderungen zur Gänze erfüllt
 - [ ] automatisierte Verbindung von SSH-Server auf Zwischenstation
@@ -173,6 +178,7 @@ ExecStart=/bin/bash -c "ssh -N -R [host@remote:]port@remote:host@local:port@loca
 Wenn host@remote leer oder '*' ist, dann empfängt SSH auf allen Adressen Verbindungen.
 
 ## Quellen
+* "AnyDesk vs TeamViewer: Remote desktop software comparison" Brenna Miles, TechRepublic [online](https://www.techrepublic.com/article/anydesk-vs-teamviewer/)
 * https://wiki.archlinux.org/title/OpenSSH
 * https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
 * https://docs.docker.com/compose/compose-file/compose-file-v3/#cap_add-cap_drop

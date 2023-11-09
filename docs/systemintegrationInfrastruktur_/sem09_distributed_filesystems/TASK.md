@@ -25,7 +25,7 @@ Diese Aufgabe soll die Möglichkeit von gemeinsam genutzten Speicher in Cloud un
 
 *"Minio ist ein in Go geschriebener Open-Source-Server zur verteilten Objektspeicherung, der für die private Cloud-Infrastruktur entwickelt wurde und S3-Speicherfunktionalität bietet. Minio ist der beste Server, der sich zum Speichern unstrukturierter Daten wie Fotos, Videos, Protokolldateien, Backups und Container eignet. Die Größe eines Objekts kann zwischen 1 KB und maximal 5 TB liegen."* [MinIO Overview](https://min.io/product/overview#)
 
-Um große Datenfiles (Images, große binäre Files) einfach bereit stellen zu können, soll eine CRUD Schnitttelle in einer selbstgewählten Sprachumgebung (Java - [Baeldung](https://www.baeldung.com/minio), Python - [Medium](https://medium.com/featurepreneur/upload-files-in-minio-using-python-4f987f9020769), JS - [betterprogramming](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d), etc.) implementiert werden, die diese Dateien speichert und als URL-Endpunkt zur Verfügung stellt.
+Um große Datenfiles (Images, große binäre Files) einfach bereit stellen zu können, soll eine CRUD Schnitttelle in einer selbstgewählten Sprachumgebung (Java - [Baeldung](https://www.baeldung.com/minio), Python - [Medium](https://medium.com/featurepreneur/upload-files-in-minio-using-python-4f987f902076), JS - [betterprogramming](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d), etc.) implementiert werden, die diese Dateien speichert und als URL-Endpunkt zur Verfügung stellt.
 
 Dabei soll MinIO mit Kubernetes deployed werden und so einfach erweiterbar sein, um erhöhte Anfragen und Datenmengen leicht zu managen.
 
@@ -64,7 +64,7 @@ Gruppengrösse: 1-2 Person(en)
 * "Object Management" MinIO [online](https://min.io/docs/minio/kubernetes/upstream/administration/object-management.html)
 * "Upload and Retrieve Images by Integrating MinIO With NestJS" [online](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d)
 * "Introduction to MinIO" [online](https://www.baeldung.com/minio)
-* "Upload files in MinIO using Python" [online](https://medium.com/featurepreneur/upload-files-in-minio-using-python-4f987f9020769)
+* "Upload files in MinIO using Python" [online](https://medium.com/featurepreneur/upload-files-in-minio-using-python-4f987f902076)
 * "HDFS Architecture Guide" Hadoop [online](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 * "The Google File System" Sanjay Ghemawat Howard Gobioff Shun-Tak Leung; Proceedings of the 19th ACM Symposium on Operating Systems Principles, ACM, Bolton Landing, NY (2003), pp. 20-43 [online](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
 * "Comparative Analysis of GFS and HDFS: Technology and Architectural landscape," C. Verma and R. Pandey; 2018 10th International Conference on Computational Intelligence and Communication Networks (CICN), Esbjerg, Denmark, 2018, pp. 54-58 [online](https://ieeexplore.ieee.org/document/8864934)

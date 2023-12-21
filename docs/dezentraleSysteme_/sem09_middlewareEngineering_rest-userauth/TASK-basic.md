@@ -48,7 +48,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Login und Rückgabe einer Willkommensnachricht
 
 ### Classroom Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/3PuAu_nQ) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Quellen
 * Android Restful Webservice Tutorial – Introduction to RESTful webservice – Part 1"; Posted By Android Guru on May 1, 2014; [online](http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-part-1/)

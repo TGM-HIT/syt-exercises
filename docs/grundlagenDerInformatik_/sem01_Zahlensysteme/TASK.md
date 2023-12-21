@@ -28,6 +28,9 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 ### Grundanforderungen
 Sieh dir die [Einführung Zahlensysteme](https://elearning.tgm.ac.at/pluginfile.php/11012/mod_folder/content/0/Einf%C3%BChrung%20Zahlensysteme.pdf) an. 
+Nach einmaligen Durchlesen des Skriptums kannst du dir als Hilfe folgende 2 Videos anschauen:
+* [Umrechnung Binärsystem <-> Dezimalsystem](https://elearning.tgm.ac.at/pluginfile.php/121490/mod_label/intro/Zahlensystem_Einf%C3%BChrung%2BBin%C3%A4r.mp4)
+* [Umrechnung weiteren Zahlensysteme](https://elearning.tgm.ac.at/pluginfile.php/121491/mod_label/intro/Zahlensysteme_Oktal_Hexadezimal.mp4)
 
 Notiere dir dann die 2er Potenzen von 2<sup>0</sup> bis 2<sup>10</sup>. Diese Reihe ist wichtig für dich als Informatiker und du solltest sie auswendig wissen.
 

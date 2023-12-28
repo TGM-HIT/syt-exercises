@@ -9,9 +9,6 @@ Diese Übung soll die Grundlagen der Kapazität und Induktivität festigen. Am p
 ## Kompetenzzuordnung
 ###  GK SYT4 Elektrotechnik und Elektronik | Wechselspannung | analoge Signale
 * "induktive und kapazitive Widerstände erklären"
-###  EK SYT4 Elektrotechnik und Elektronik | Wechselspannung | analoge Signale
-* "induktive und kapazitive Widerstände berechnen"
-
 ## Voraussetzungen
 * Grundverständnis von Strom, Spannung und Zeit
 * mathematisches Verständnis von Funktionen
@@ -30,12 +27,6 @@ Welche Kenndaten gibt es bei diesen zwei Bauteilen? Welche Prinzipien stehen hin
 
 Baue eine Schaltung auf (z.B. mittels Tinkercad), die über einen 100kΩ Widerstand einen 10µF Elektrolytkondensator auflädt. Lege parallel zum Kondensator einen Kreis mit einem Taster oder Schiebeschalter und einer roten LED mit einem Vorwiderstand von 4,7kΩ. Das ganze versorge bitte mit einer Spannung von 30V. Beschreibe deine Beobachtung? Was musst du beim Kondensator beachten? Verwende zur Analyse und Begründung deiner Annahmen das Oszilloskop bzw. das Multimeter!
 
-#### Erweiterungen
-Kondensatoren und Spulen werden in der Wechselstromtechnik als Widerstände eingesetzt. Beschreibe die drei verschiedenen Widerstandsarten bei einer sinusförmigen Wechselspannung. Warum ist zum Beispiel der Widerstand einer Spule an Sinusspannungen größer als bei Gleichspannung? Wie berechnet man diese Widerstände und wieso spielt die Kreisfrequenz hier eine Rolle?
-
-Nimm die vorige Schaltung und mache folgenden kleinen Änderungen: Tausche den Kondensator mit dem Taster bzw. Schiebeschalter und lege parallel zu der roten LED eine grüne LED gegengleich (in Sperrrichtung) dazu. Was passiert, wenn du nun den Taster drückst? Welche LED leuchtet wann?  
-Tausche nun die Spannungsversorgung mit einem Funktionsgenerator aus und stelle diesen wie folgt ein: Frequenz 1kHz, Amplitude 10V, Offset 5V, Funktion Sinus. Was passiert nun?
-
 ## Abgabe
 Bitte erstelle ein Grafiz und gebe dieses eingescannt/fotografiert als PDF zum Abgabegespräch hier ab. Es ist auch erlaubt eine elektronische Dokumentation zu erstellen. Beim Abgabegespräch ist auch die Schaltung zu präsentieren.
 
@@ -44,10 +35,6 @@ Bitte erstelle ein Grafiz und gebe dieses eingescannt/fotografiert als PDF zum A
 * Was ist der Kondensator bzw. die Spule bei Gleichspannung?
 * Was ist 𝜏 (Tau) und wie kommt dieser Wert zum Einsatz?
 * Wie lange braucht ein 10µF Kondensator bei einer Versorgungsspannung von 30V mit einem Widerstand von 100kΩ bis er ca. zu 86% geladen ist?
-
-### Erweitert
-* Wie definieren sich die kapazitiven und induktiven Widerstände bei sinusförmiger Wechselspannung?
-* Wo liegen dabei die Unterschiede in der Leistungsaufnahme?
 
 ## Quellen
 * "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
@@ -61,4 +48,4 @@ Bitte erstelle ein Grafiz und gebe dieses eingescannt/fotografiert als PDF zum A
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 4.3, 4.4, 5.5, 5.6
 
 ---
-**Version** *20230103v1*
+**Version** *20231228v2*

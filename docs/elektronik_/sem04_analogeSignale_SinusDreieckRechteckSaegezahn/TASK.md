@@ -31,14 +31,6 @@ Lies dir die "Charakterisierung elektrischer Signale" durch. Welche Unterschiede
 
 Welche Kenndaten gibt es bei periodischen Signalen? Erkläre kurz den Unterschied und zeichne die vier Signalformen aus dem Titel der Übung. Analysiere dabei den Sinus genauer! Welche Zeiteinheit wird dabei gewählt?
 
-**Erweiterungen**
-
-Wie kann man nun die Effektivwerte der einzelnen Signaltypen berechnen? Dies wird im Video "Effektivwert" gut erklärt. Erstelle vier Funktionsdiagramme und nehme dabei an, dass der Spitzenwert 5V beträgt. Berechne daneben immer den Effektivwert und erläutere in kurzen Worten oder mit grafischen Hilfsmitteln, wie das Ergebnis zustande kommt.
-
-Wieso ist bei der Wechselspannung der Sinus so weit verbreitet? Welche Gründe gibt es für den Einsatz der Wechselspannung in der Energietechnik?
-
-Welche Signalform wird bei digitalen Übertragungsarten oft gewählt und wieso? Welche Rolle spielt dabei des Scheitelfaktor bzw. Crestfaktor?
-
 ## Abgabe
 
 Bitte erstelle ein Grafiz und gebe dieses eingescannt vor dem Abgabegespräch hier ab.
@@ -60,4 +52,4 @@ Bitte erstelle ein Grafiz und gebe dieses eingescannt vor dem Abgabegespräch hi
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 7.1.1-7.2.6
 
 ---
-**Version** *20230103v1*
+**Version** *20231218v2*

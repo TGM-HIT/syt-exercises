@@ -11,9 +11,6 @@ Diese Übung soll die Grundlagen der Signalübermittlung vermitteln. Es soll die
 * "analoge und digitale Signale unterscheiden und erklären"
 * "sinusförmige Wechselgrößen und deren mathematische Zusammenhänge erklären"
 * "induktive und kapazitive Widerstände erklären"
-###  EK SYT4 Elektrotechnik und Elektronik | Wechselspannung | analoge Signale
-* "induktive und kapazitive Widerstände berechnen"
-
 ## Voraussetzungen
 * Grundverständnis von Strom, Spannung und Zeit
 * mathematisches Verständnis von Funktionen
@@ -33,13 +30,6 @@ Die Rolle des Senders und Empfängers werden bei der Datenübertragung sehr oft 
 
 Um nur bestimmte Signale bzw. Frequenzen zu verarbeiten, werden Hoch-, Tief- bzw. Bandpässe verwendet. Wie kommen diese drei Schaltungen zur Anwendung? Wie kann zum Beispiel ein Tiefpass helfen, das schnelle Drücken eines Tasters zu *"entschärfen"*?
 
-#### Erweiterungen
-Wenn die Bandbreite und die Übertragungsqualität verbessert werden soll müssen bestimmte Verfahren eingesetzt werden, um dies auch konstensparend umsetzen zu können. Welche Multiplexing-Verfahren werden hier eingesetzt?
-
-In der Nachrichtentechnik wird der Begriff Modulation verwendet, um welche Vorgänge zu beschreiben? Welche drei Parameter werden dabei angepasst? Welche Unterschiede werden bei analogen und digitalen Signalen getroffen?
-
-Wie berechnet man die Grenzfrequenz eines Tiefpassfilters? Baue eine Schaltung auf, die nur 1 kHz *"durchlässt"*, und höhere Frequenzen filtert. Verwende dabei Tinkercad zur Überprüfung deiner Berechnung.
-
 ## Abgabe
 Bitte erstelle ein Grafviz und gebe dieses eingescannt/fotografiert als PDF zum Abgabegespräch hier ab. Es ist auch erlaubt eine elektronische Dokumentation zu erstellen. Beim Abgabegespräch ist auch die Schaltung zu präsentieren.
 
@@ -50,11 +40,6 @@ Bitte erstelle ein Grafviz und gebe dieses eingescannt/fotografiert als PDF zum 
 * Welche Einteilungen gibt es bei der Vermittlungstechnik?
 * Welche Duplexingarten gibt es? Wo liegen hier die Unterschiede?
 * Wie unterscheiden sich die einzelnen Frequenzfilter?
-
-### Erweitert
-* Welche Multiplexingverfahren kommen in der modernen Telekommunikation zum Einsatz?
-* Welche Modulationsverfahren gibt es bei analogen und digitalen Übertragungsarten?
-* Was ist eine Grenzfrequenz und wie wird diese berechnet?
 
 ## Quellen
 * "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
@@ -70,4 +55,4 @@ Bitte erstelle ein Grafviz und gebe dieses eingescannt/fotografiert als PDF zum 
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 7.8
 
 ---
-**Version** *20230103v1*
+**Version** *20231228v2*

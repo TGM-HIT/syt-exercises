@@ -27,6 +27,10 @@ Welche Kenndaten gibt es bei diesen zwei Bauteilen? Welche Prinzipien stehen hin
 
 Baue eine Schaltung auf (z.B. mittels Tinkercad), die über einen 100kΩ Widerstand einen 10µF Elektrolytkondensator auflädt. Lege parallel zum Kondensator einen Kreis mit einem Taster oder Schiebeschalter und einer roten LED mit einem Vorwiderstand von 4,7kΩ. Das ganze versorge bitte mit einer Spannung von 30V. Beschreibe deine Beobachtung? Was musst du beim Kondensator beachten? Verwende zur Analyse und Begründung deiner Annahmen das Oszilloskop bzw. das Multimeter!
 
+##### ESP Übung
+
+Nimm die Lade/Entlade Kurve des Kondensators mit dem ESP32 auf. Wähle einen passenden Ladewiderstand, schließe beide seriell an einen digitalen Pin. Messe die Spannung am Kondensator mit einem ADC Pin ([Pinout](https://elearning.tgm.ac.at/pluginfile.php/93820/mod_folder/content/0/ESP32-30PIN-DEVBOARD.png)). Schreibe ein Programm, dass den digitalen Pin HIGH setzt um den Kondensator zu laden. Sobald dieser (fast) voll ist, soll der Pin auf LOW gesetzt werden um den Kondensator zu entladen. Dann soll der Kondensator wieder geladen werden.
+
 ## Abgabe
 Bitte erstelle ein Grafiz und gebe dieses eingescannt/fotografiert als PDF zum Abgabegespräch hier ab. Es ist auch erlaubt eine elektronische Dokumentation zu erstellen. Beim Abgabegespräch ist auch die Schaltung zu präsentieren.
 

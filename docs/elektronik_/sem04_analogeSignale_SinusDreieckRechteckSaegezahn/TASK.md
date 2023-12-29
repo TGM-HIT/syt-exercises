@@ -108,15 +108,14 @@ analogWrite(PIN, HELLIGKEIT);  // kann dacWrite ersetzen
 * "Digitale und analoge Signale – ein Vergleich" elektroniktutor.de; zuletzt besucht 2020-02-15; [online](https://www.elektroniktutor.de/digitaltechnik/ad_vergl.html)
 * "Effektivwert" studyflix.de; zuletzt besucht 2020-02-15; [online](https://studyflix.de/elektrotechnik/effektivwert-1592)
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 7.1.1-7.2.6
-
-[1] „Arduino Tutorial - Pulsweitenmodulation (PWM)“, EXP Tech. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://exp-tech.de/blogs/blog/arduino-tutorial-pulsweitenmodulation-pwm  
-[2] „DAC — Arduino-ESP32 2.0.14 documentation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://docs.espressif.com/projects/arduino-esp32/en/latest/api/dac.html  
-[3] „Digital To Analog Converter (DAC) - ESP32 - — ESP-IDF Programming Guide latest documentation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/dac.html  
-[4] „ESP32 - Potentiometer“, ESP32 Tutorial. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://esp32io.com/tutorials/esp32-potentiometer  
-[5] K. Magdy, „ESP32 DAC Audio Analog Output With Examples (Arduino IDE)“, DeepBlue. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://deepbluembedded.com/esp32-dac-audio-arduino-examples/  
-[6] „ESP32-30PIN-DEVBOARD.png (PNG-Grafik, 2466 × 1341 Pixel)“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://elearning.tgm.ac.at/pluginfile.php/93820/mod_folder/content/0/ESP32-30PIN-DEVBOARD.png  
-[7] „map() - Arduino Reference“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://www.arduino.cc/reference/en/language/functions/math/map/
-[8] „SYT xHIT Theorie: ESP32 Installation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://elearning.tgm.ac.at/mod/page/view.php?id=90535  
+* „Arduino Tutorial - Pulsweitenmodulation (PWM)“, EXP Tech. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://exp-tech.de/blogs/blog/arduino-tutorial-pulsweitenmodulation-pwm  
+* „DAC — Arduino-ESP32 2.0.14 documentation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://docs.espressif.com/projects/arduino-esp32/en/latest/api/dac.html  
+* „Digital To Analog Converter (DAC) - ESP32 - — ESP-IDF Programming Guide latest documentation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/dac.html  
+* „ESP32 - Potentiometer“, ESP32 Tutorial. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://esp32io.com/tutorials/esp32-potentiometer  
+* K. Magdy, „ESP32 DAC Audio Analog Output With Examples (Arduino IDE)“, DeepBlue. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://deepbluembedded.com/esp32-dac-audio-arduino-examples/  
+* „ESP32-30PIN-DEVBOARD.png (PNG-Grafik, 2466 × 1341 Pixel)“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://elearning.tgm.ac.at/pluginfile.php/93820/mod_folder/content/0/ESP32-30PIN-DEVBOARD.png  
+* „map() - Arduino Reference“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://www.arduino.cc/reference/en/language/functions/math/map/  
+* „SYT xHIT Theorie: ESP32 Installation“. Zugegriffen: 28. Dezember 2023. [Online]. Verfügbar unter: https://elearning.tgm.ac.at/mod/page/view.php?id=90535  
 
 
 ---

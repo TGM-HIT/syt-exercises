@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Betriebssysteme Advanced*" - Taskdescription
 
 ## Einführung

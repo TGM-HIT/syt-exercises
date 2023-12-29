@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "GIT Einführung" - Taskdescription
 
 ## Einführung

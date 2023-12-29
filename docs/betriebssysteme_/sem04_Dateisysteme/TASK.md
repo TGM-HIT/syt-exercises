@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Dateisysteme*" - Taskdescription
 
 ## Einführung
@@ -29,10 +34,6 @@ Ließ Kapitel 6 Dateisysteme im Buch Betriebssysteme Kompakt. Beantworte dann mi
 * Wo sind deine Daten auf deinem PC gespeichert? Was passiert mit deinen Daten bei Hardwareversagen/Diebstahl? (Backup)
 * Welches Dateisystem verwendet dein Laptop/Handy/Playstation?
 
-### Erweitert
-
-* Wie können Dateisysteme verschlüsselt werden?
-
 ## Detaillierte Aufgabenbeschreibung
 **Grundanforderungen**
 
@@ -43,12 +44,6 @@ Binde das TGM Schueler Netzwerk erfolgreich in dein Betriebssystem ein. [Anleitu
 #### Übung 2
 
 Suche dir einen USB Stick. Formatiere ihn in einem Dateisystem deiner Wahl. Begründe diese Entscheidung. **Vorsicht: bei der Formatierung werden alle auf dem USB-Stick gespeicherten Dateien gelöscht!**
-
-**Erweiterungen**
-
-Recherchiere über mögliche Verschlüsselungsmethoden von Dateisystemen, Möglichkeiten, Sicherheit, Gefahren.
-
-Binde ein Linux Laufwerk mit ext4 in Windows ein.
 
 ## Abgabe
 
@@ -62,4 +57,4 @@ Bitte erstelle ein Grafiz und gebe dieses eingescannt vor dem Abgabegespräch hi
 * "Betriebssysteme Kompakt" IT kompakt; Christian Braun; Springer Vieweg; 2. Auflage; ISBN 978-3-662-61410-5; [online](https://elearning.tgm.ac.at/pluginfile.php/9744/mod_resource/content/0/2020_Book_BetriebssystemeKompakt.pdf)
 
 ---
-**Version** *20230320v1*
+**Version** *20231229v2*

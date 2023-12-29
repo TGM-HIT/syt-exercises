@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*WSL Windows Subsystem for Linux*" - Taskdescription
 
 ## Einführung

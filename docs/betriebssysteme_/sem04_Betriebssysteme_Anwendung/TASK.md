@@ -148,10 +148,13 @@ Gruppengröße: 1 Person
 [3] „Homepage - VMware IT Academy“. https://itacademy.brightspace.com/d2l/home (zugegriffen 8. Jänner 2023).  
 [4] „NDG Linux Essentials“, Networking Academy, 22. Jänner 2018. https://www.netacad.com/courses/os-it/ndg-linux-essentials (zugegriffen 8. Jänner 2023).  
 [5] „Oracle VM VirtualBox“. https://www.virtualbox.org/ (zugegriffen 8. Jänner 2023).  
-[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)  
+[7] „Get Started | Docker“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://www.docker.com/get-started/  
+[8] „ghost - Official Image“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/_/ghost  
+[9] „ubuntu/nginx - Docker Image“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/r/ubuntu/nginx
 
 ---
-**Version** *20231229v2*
+**Version** *20231229v3*
 
 <style>
 table, th, td {

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Analoge Signale - Vertiefung
 
 ## Einführung

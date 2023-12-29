@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Analoge Signale - "Kapazität und Induktivität - Prinzip und Anwendung"
 
 ## Einführung

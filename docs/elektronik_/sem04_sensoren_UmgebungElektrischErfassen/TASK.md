@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Sensoren "*Umgebung elektrisch erfassen*" - Taskdescription
 
 ## Einführung

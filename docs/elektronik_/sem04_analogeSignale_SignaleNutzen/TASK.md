@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Analoge Signale - "Signale weiterleiten und nutzen"
 
 ## Einführung

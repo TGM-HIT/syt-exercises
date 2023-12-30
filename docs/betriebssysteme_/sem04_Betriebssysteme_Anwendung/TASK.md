@@ -31,32 +31,6 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 ### Grundlegend
 
-#### Docker
-
-Installiere dir [Docker](https://www.docker.com/get-started/). Mit Docker lassen sich kleine virtuelle Maschinen, genannt Container, starten. Es soll nun eine Webserver mithilfe von Docker aufgesetzt werden.
-
-##### Nginx
-
-1. Öffne die Docker Desktop GUI, suche oben in der Suchleiste nach `ubuntu/nginx`, klicke auf `Pull`.
-2. Nachdem das Image heruntergeladen wurde kann es links unter `Images` gefunden werden. Klicke neben dem Image auf `Run`.
-3. Klappe `Optional Settings`auf. Gib dem Container einen sprechenden Namen (z.B. `ubuntu-nginx`).
-4. Wähle Host Port 81. Volumes: Host path: wähle einen neuen leeren Ordner auf der Festplatte; Container path: `/var/www/html`
-5. RUN. Nachdem der Container erfolgreich gestartet wurde (grünes Container Symbol), kann die Webseite des Webservers im Browser aufgerufen werden [http://localhost:81/](http://localhost:81/) (Eventuell wird eine Fehlerseite oder ein Willkommen Seite angezeigt)
-6. Erstelle in dem neuen leeren Ordner aus Schritt 4 eine neue `index.html` mit einem kurzen Text als Inhalt. [http://localhost:81/](http://localhost:81/) sollte nun diese Seite anzeigen.
-7. Versuche die Webseite eines Klassenkollegen in deinem Browser zu öffnen: `http://ip:81/`
-
-##### Ghost
-
-Selten soll eine Webseite von Grund auf gebaut werden, stattdessen können fertige CMS verwendet werden.
-
-1. Öffne die Docker Desktop GUI, suche oben in der Suchleiste nach `ghost`, klicke auf `Pull`.
-2. Nachdem das Image heruntergeladen wurde kann es links unter `Images` gefunden werden. Klicke neben dem Image auf `Run`.
-3. Klappe `Optional Settings`auf. Gib dem Container einen sprechenden Namen (z.B. `ghost`).
-4. Wähle Host Port 82. Es muss noch eine Environments Variable gesetzt werden: NODE_ENV=development (Variable=Value)
-5. RUN. Nachdem der Container erfolgreich gestartet wurde (grünes Container Symbol), kann die Webseite des Webservers im Browser aufgerufen werden [http://localhost:82/](http://localhost:82/) (Eventuell wird eine Fehlerseite oder ein Willkommen Seite angezeigt)
-6. [http://localhost:82/ghost](http://localhost:82/ghost) führt zum Backend des CMS. Erstelle einen Login (Email kann fake sein, Ghost kann keine Emails schicken) und erstelle einen neuen Artikel.
-7. Versuche die Webseite eines Klassenkollegen in deinem Browser zu öffnen: `http://ip:82/`
-
 #### Linux Essentials
 
 Erstelle dir einen [Cisco Netacad Academy](https://www.netacad.com/) Account und schreibe dich in den [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) Kurs ein. Arbeite Kapitel 5 *Command Line Skills* durch. Probiere die Befehle auch in einem Linux Terminal aus.
@@ -148,13 +122,10 @@ Gruppengröße: 1 Person
 [3] „Homepage - VMware IT Academy“. https://itacademy.brightspace.com/d2l/home (zugegriffen 8. Jänner 2023).  
 [4] „NDG Linux Essentials“, Networking Academy, 22. Jänner 2018. https://www.netacad.com/courses/os-it/ndg-linux-essentials (zugegriffen 8. Jänner 2023).  
 [5] „Oracle VM VirtualBox“. https://www.virtualbox.org/ (zugegriffen 8. Jänner 2023).  
-[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)  
-[7] „Get Started | Docker“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://www.docker.com/get-started/  
-[8] „ghost - Official Image“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/_/ghost  
-[9] „ubuntu/nginx - Docker Image“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/r/ubuntu/nginx
+[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
 
 ---
-**Version** *20231229v3*
+**Version** *20231230v4*
 
 <style>
 table, th, td {

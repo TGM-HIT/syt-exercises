@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Datenerfassung "Mindeststandards bei Messverfahren einhalten" - Taskdescription
 
 ## Einführung
@@ -30,13 +35,17 @@ Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein 
 [2] "Arduino Web Editor Plugin" Arduino Create; zuletzt besucht am 2019-10-17 [online](https://create.arduino.cc/getting-started/plugin)  
 [3] "Datasheet ATmega2560" Atmel [online](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)  
 [4] "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
-[5] "Kalibrieren, Justieren, Verifizieren und Eichen von Messgeräten" Endress+Hauser, zuletzt besucht am 2020-03-20 [online](https://www.at.endress.com/de/dienstleistungsportfolio/messgeraete-kalibrierservice/service-kalibrieren-messger%C3%A4te)  
+**[5] "Kalibrieren, Justieren, Verifizieren und Eichen von Messgeräten" Endress+Hauser, zuletzt besucht am 2020-03-20 [online](https://www.at.endress.com/de/dienstleistungsportfolio/messgeraete-kalibrierservice/service-kalibrieren-messger%C3%A4te)**  
 [6] "Messtechnik - Grundlagen und Anwendungen der elektrischen Messtechnik" Rainer Parthier, Springer Vieweg, 8. Auflage, 2016  
 [7] "KY-028 Digital Temperature Sensor Module" ArduinoModules, zuletzt besucht am 2020-03-20 [online](https://arduinomodules.info/ky-028-digital-temperature-sensor-module/)  
 [8] "Messtechnik und Sensorik" Jörg Böttcher; zuletzt besucht am 2020-03-20 [online](https://messtechnik-und-sensorik.org/inhaltsverzeichnis/)    
-[9] "Sensoren und Sensorenschnittstellen" Felix Hüning, De Gruyter Oldenbourg, 1. Auflage, 2016    
+**[9] "Sensoren und Sensorenschnittstellen" Felix Hüning, De Gruyter Oldenbourg, 1. Auflage, 2016**    
 [10] "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)      
-
+[11] "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)      
+**[12] "Systematische Abweichung" Wikipedia; zuletzt besucht am 2023-02-21 [online](https://de.wikipedia.org/wiki/Systematische_Abweichung)**   
+**[13] "Störsignal" Wikipedia; zuletzt besucht am 2023-02-21 [online](https://de.wikipedia.org/wiki/St%C3%B6rsignal)**   
+**[14] "Ultraschallsensor FAQ: Außeneinflüsse auf die Sensorik" Pepperl-Fuchs; zuletzt besucht am 2023-02-21 [online](https://blog.pepperl-fuchs.com/de/2018/ausseneinfluesse-auf-ultraschallsensoren/)**   
+**[15] "Messunsicherheit" Wikipedia; zuletzt besucht am 2023-02-21 [online](https://de.wikipedia.org/wiki/Messunsicherheit)**   
 
 ---
 **Version** *20230210*

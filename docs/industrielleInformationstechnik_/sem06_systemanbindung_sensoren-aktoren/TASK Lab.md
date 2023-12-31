@@ -54,10 +54,10 @@ Die Abgabe wird elektronisch als generiertes PDF-Dokument erwartet. Dabei sollen
 ## Bewertung
 Gruppengrösse: 1 Person
 ### Erweiterte Anforderungen **überwiegend erfüllt**
-- [ ] Ausarbeitung der Fragestellungen auch für die erweiterten Anforderungen
+- [ ] Funktionstüchtiger, erweiterter Code auf Arduino Board oder ESP32 upgeloadet und richtig beschaltet
 
 ### Erweiterte Anforderungen **zur Gänze erfüllt**
-- [ ] Funktionstüchtiger, erweiterter Code auf Arduino Board oder ESP32 upgeloadet und richtig beschaltet
+- [ ] Ausarbeitung der Fragestellungen auch für die erweiterten Anforderungen
 
 ## Quellen
 [1] "Arduino Web Editor Plugin" Arduino Create; zuletzt besucht am 2019-10-17 [online](https://create.arduino.cc/getting-started/plugin)  

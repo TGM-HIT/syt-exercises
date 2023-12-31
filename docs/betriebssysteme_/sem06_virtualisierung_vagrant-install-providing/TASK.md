@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Virtualisierungsumgebung installieren und nutzen" - Taskdescription
 
 ## Einführung

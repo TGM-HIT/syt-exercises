@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Datenerfassung "Analoge Signale aufnehmen und verarbeiten" - Taskdescription
 
 ## Einführung

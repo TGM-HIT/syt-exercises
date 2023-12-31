@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Virtualisierung öffentlich bereitstellen" - Taskdescription
 
 ## Einführung

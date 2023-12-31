@@ -11,9 +11,11 @@ Die Wifi Funktion des ESP32 zu verwenden um sich zu einem MQTT Server zu verbind
 
 ## Kompetenzzuordnung
 **GK SYT6 Industrielle Informationstechnik | Datenerfassung | Aufnahme und Verarbeitung**  
+
 * "analoge Signale aufnehmen und in einer entsprechenden Qualität verarbeiten"
 
 **GK SYT6 Industrielle Informationstechnik | Datenerfassung | Aufnahme und Verarbeitung**  
+
 * "aufgenommene Signale bearbeiten"
 
 ## Voraussetzungen
@@ -98,14 +100,14 @@ Gruppengrösse: 1 Person
 
 ## Quellen
 
-[1] „Configuring & Handling ESP32 GPIO Interrupts In Arduino IDE“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/
-[2] „ESP32 Deep Sleep with Arduino IDE and Wake Up Sources | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/
-[3] K. Magdy, „ESP32 Interrupt Pins (External Interrupts in Arduino) GPIO Interrupt“, DeepBlue. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://deepbluembedded.com/esp32-external-interrupts-pins-arduino-examples/
-[4] „ESP32 MQTT Publish Subscribe with Arduino IDE | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
-[5] „In-Depth: ESP32 Deep Sleep & Wakeup Sources | Timer, Touch & External“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://lastminuteengineers.com/esp32-deep-sleep-wakeup-sources/
-[6] T. Nordquist, „MQTT Explorer“, MQTT Explorer. Zugegriffen: 5. Dezember 2023. [Online]. Verfügbar unter: http://mqtt-explorer.com/
-[7] D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker
+[1] „Configuring & Handling ESP32 GPIO Interrupts In Arduino IDE“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/  
+[2] „ESP32 Deep Sleep with Arduino IDE and Wake Up Sources | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/  
+[3] K. Magdy, „ESP32 Interrupt Pins (External Interrupts in Arduino) GPIO Interrupt“, DeepBlue. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://deepbluembedded.com/esp32-external-interrupts-pins-arduino-examples/  
+[4] „ESP32 MQTT Publish Subscribe with Arduino IDE | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/  
+[5] „In-Depth: ESP32 Deep Sleep & Wakeup Sources | Timer, Touch & External“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://lastminuteengineers.com/esp32-deep-sleep-wakeup-sources/  
+[6] T. Nordquist, „MQTT Explorer“, MQTT Explorer. Zugegriffen: 5. Dezember 2023. [Online]. Verfügbar unter: http://mqtt-explorer.com/  
+[7] D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker  
 
 ---
-**Version** *20231205v1*
+**Version** *20231231v2*
 

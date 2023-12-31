@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Linux Systemwartung*" - Taskdescription
 
 ## Kompetenzzuordnung

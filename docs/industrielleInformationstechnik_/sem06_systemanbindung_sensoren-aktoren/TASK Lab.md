@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Systemanbindung "Sensoren und Aktoren" - Taskdescription
 
 ## Einführung
@@ -28,7 +33,7 @@ Die Schaltung soll vor dem physischen Aufbau entsprechend dokumentiert werden. D
 ### Grundlegend
 
 * Wie funktioniert der eingesetzte Ultraschall-Entfernungssensors (HC-SR04)? Welche Faktoren sind dabei zu beachten?
-* Was ist ein Aktor? Nenne Beispiele?
+* Was ist ein Aktor? Was ist eine Regelgröße? Nenne Beispiele?
 * Wie funktioniert der Servo Motor? Worauf ist bei der Verwendung zu Achten?
 * Was für ein Signal wird verwendet um einen Servo zu steuern? Wie ist das aufgebaut? Wo wird es noch verwendet?
 * Was muss bei der Verarbeitung der Sensordaten beachtet werden?
@@ -59,13 +64,17 @@ Gruppengrösse: 1 Person
 [2] "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
 [3] "Arduino Mega 2560" Arduino Shop; zuletzt besucht am 2019-10-17 [online](https://store.arduino.cc/arduino-mega-2560-rev3)  
 [4] "Datasheet ATmega2560" Atmel [online](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)  
-[5] "HC-SR04 Ultrasonic Sensor" components101.com Datasheet [online](https://components101.com/ultrasonic-sensor-working-pinout-datasheet)   
-[6] "Ultraschall Messmodul HC-SR04" mikrocontroller.net [online](https://www.mikrocontroller.net/attachment/218122/HC-SR04_ultraschallmodul_beschreibung_3.pdf)
+**[5] "HC-SR04 Ultrasonic Sensor" components101.com Datasheet [online](https://components101.com/ultrasonic-sensor-working-pinout-datasheet)**   
+**[6] "Ultraschall Messmodul HC-SR04" mikrocontroller.net [online](https://www.mikrocontroller.net/attachment/218122/HC-SR04_ultraschallmodul_beschreibung_3.pdf)**   
 [7] "How to Set Up an Ultrasonic Range Finder on an Arduino" circuitbasics.com [online](http://www.circuitbasics.com/how-to-set-up-an-ultrasonic-range-finder-on-an-arduino)  
 [8] "Servo ansteuern" starthardware.org; zuletzt besucht 2021-02-27; [online](https://starthardware.org/servo/)  
 [9] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=1939)  
 [10] "Fritzing 0.9.4 Download" (sponsored by MBorko) [online](https://fritzing.org/download/0.9.4/windows-64bit/fritzing.0.9.4.64.pc_and_dll.zip)     
-[11] "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)
+[11] "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)   
+**[12] "Regelgröße" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Regelgr%C3%B6%C3%9Fe)**  
+**[13] "Pulsdauermodulation" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Pulsdauermodulation)**  
+**[14] "Servomotor" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Servomotor)**  
+**[15] "Elektronik für Informatiker" Dr. Manfred Rost, Dr. Sandro Wefel; zuletzt besucht 2023-03-03; [online](https://elearning.tgm.ac.at/pluginfile.php/73626/mod_resource/content/0/ElektronikFuerInformatiker_2013.pdf) [Kapitel 9]**  
 
 
 ---

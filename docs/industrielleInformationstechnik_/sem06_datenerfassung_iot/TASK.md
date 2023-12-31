@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Datenerfassung "Internet of Things" - Taskdescription
 
 ## Einführung

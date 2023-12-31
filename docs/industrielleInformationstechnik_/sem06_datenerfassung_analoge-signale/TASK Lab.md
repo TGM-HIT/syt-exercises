@@ -41,8 +41,8 @@ Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein 
 [2] "Arduino Web Editor Plugin" Arduino Create; zuletzt besucht am 2019-10-17 [online](https://create.arduino.cc/getting-started/plugin)  
 [3] "Datasheet ATmega2560" Atmel [online](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)  
 [4] "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
-[5] "DHT11 Humidity & Temperature Sensor" mouser.com Datasheet [online](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)  
-[6] "How to Set Up the DHT11 Humidity Sensor on an Arduino" circuitbasics.com [online](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)  
+** [5] "DHT11 Humidity & Temperature Sensor" mouser.com Datasheet [online](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)**  
+**[6] "How to Set Up the DHT11 Humidity Sensor on an Arduino" circuitbasics.com [online](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)**  
 [7] "How to Set Up an Ultrasonic Range Finder on an Arduino" circuitbasics.com [online](http://www.circuitbasics.com/how-to-set-up-an-ultrasonic-range-finder-on-an-arduino)  
 [8] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=1939)  
 [9] "HC-SR04 Ultrasonic Sensor" components101.com Datasheet [online](https://components101.com/ultrasonic-sensor-working-pinout-datasheet)   

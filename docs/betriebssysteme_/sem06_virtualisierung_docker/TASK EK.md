@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Containerization" - Taskdescription
 
 ## Einführung

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Cloud Computing
 
 ## Einführung

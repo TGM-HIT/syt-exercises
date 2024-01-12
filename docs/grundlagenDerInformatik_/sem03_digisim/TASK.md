@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Digital Logic Sim*" - Taskdescription
 
 ## Einführung

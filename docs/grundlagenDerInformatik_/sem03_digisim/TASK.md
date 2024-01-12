@@ -36,73 +36,75 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 1. NAND (AND --> NOT)
 
-<img src="sources\WT NAND.png" alt="WT NAND" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\NAND.png" alt="NAND" style="zoom: 50%;" />
+![WT NAND](sources\WT NAND.png)
 
 2. OR (2xNOT --> NAND)
 
-<img src="sources\WT OR.png" alt="WT OR" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\OR.png" alt="OR" style="zoom:50%;" />
+![WT OR](sources\WT OR.png)
 
 3. XOR (OR+NAND --> AND)
 
-<img src="sources\XOR.png" alt="XOR" style="zoom:50%;" />
+![XOR](sources\XOR.png)
+
+
 
 4. ADDER
 
-<img src="sources\WT Halbaddierer.png" alt="WT Halbaddierer" style="zoom: 33%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\ADDER.png" alt="ADDER" style="zoom:50%;" />
+![WT Halbaddierer](sources\WT Halbaddierer.png)
 
 5. 4Bit ADDER
 
-<img src="sources\4Bit ADDER.png" alt="4Bit ADDER" style="zoom:50%;" />
+![4Bit ADDER](sources\4Bit ADDER.png)
 
 6. ALU
 
-<img src="sources\ALU.png" alt="ALU" style="zoom:50%;" />
+![ALU](sources\ALU.png)
 
 ### Register
 
 1. SR LATCH (2. Video)
 
-<img src="sources\SR LATCH.png" alt="SR LATCH" style="zoom:50%;" />
+![SR LATCH](sources\SR LATCH.png)
 
 2. NOR
 
-<img src="sources\NOR.png" alt="NOR" style="zoom:50%;" />
+![NOR](sources\NOR.png)
 
 3. D LATCH
 
-<img src="sources\D LATCH.png" alt="D LATCH" style="zoom:50%;" />
+![D LATCH](sources\D LATCH.png)
 
 4. REGISTER
 
-<img src="sources\REGISTER.png" alt="REGISTER" style="zoom:50%;" />
+![REGISTER](sources\REGISTER.png)
 
 5. D-FLIP-FLOP
 
-<img src="sources\D FLIP-FLOP.png" alt="D FLIP-FLOP" style="zoom:50%;" />
+![D FLIP-FLOP](sources\D FLIP-FLOP.png)
 
 6. 1-BIT REGISTER
 
-<img src="sources\1-BIT REGISTER.png" alt="1-BIT REGISTER" style="zoom:50%;" />
+![1-BIT REGISTER](sources\1-BIT REGISTER.png)
 
 7. 4-BIT REGISTER
 
-<img src="sources\4-BIT REGISTER.png" alt="4-BIT REGISTER" style="zoom:50%;" />
+![4-BIT REGISTER](sources\4-BIT REGISTER.png)
 
 ### 7-Segment Display
 
 1. 7 Segment Driver
 
-<img src="sources\7S Driver.png" alt="7S Driver" style="zoom:50%;" />
+![7S Driver](sources\7S Driver.png)
 
 ### Bus and Tri-State
 
 1. Bus Buffer
 
-<img src="sources\BUS Buffer.png" alt="BUS Buffer" style="zoom:50%;" />
+![BUS Buffer](sources\BUS Buffer.png)
 
 2. Simple CPU
 
-<img src="sources\Simple CPU.png" alt="Simple CPU" style="zoom:50%;" />
+![Simple CPU](sources\Simple CPU.png)
 
 
 ## Fragestellungen

@@ -31,41 +31,41 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 1. NAND (AND --> NOT)
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\WT NAND.png" alt="WT NAND" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\NAND.png" alt="NAND" style="zoom: 50%;" />
+<img src="sources\WT NAND.png" alt="WT NAND" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\NAND.png" alt="NAND" style="zoom: 50%;" />
 
 2. OR (2xNOT --> NAND)
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\WT OR.png" alt="WT OR" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\OR.png" alt="OR" style="zoom:50%;" />
+<img src="sources\WT OR.png" alt="WT OR" style="zoom:50%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\OR.png" alt="OR" style="zoom:50%;" />
 
 3. XOR (OR+NAND --> AND)
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\XOR.png" alt="XOR" style="zoom:50%;" />
+<img src="sources\XOR.png" alt="XOR" style="zoom:50%;" />
 
 4. ADDER
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\WT Halbaddierer.png" alt="WT Halbaddierer" style="zoom: 33%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\ADDER.png" alt="ADDER" style="zoom:50%;" />
+<img src="sources\WT Halbaddierer.png" alt="WT Halbaddierer" style="zoom: 33%;" /><img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\ADDER.png" alt="ADDER" style="zoom:50%;" />
 
 5. 4Bit ADDER
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\4Bit ADDER.png" alt="4Bit ADDER" style="zoom:50%;" />
+<img src="sources\4Bit ADDER.png" alt="4Bit ADDER" style="zoom:50%;" />
 
 6. ALU
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\ALU.png" alt="ALU" style="zoom:50%;" />
+<img src="sources\ALU.png" alt="ALU" style="zoom:50%;" />
 
 ### Register
 
 1. SR LATCH (2. Video)
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\SR LATCH.png" alt="SR LATCH" style="zoom:50%;" />
+<img src="sources\SR LATCH.png" alt="SR LATCH" style="zoom:50%;" />
 
 2. NOR
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\NOR.png" alt="NOR" style="zoom:50%;" />
+<img src="sources\NOR.png" alt="NOR" style="zoom:50%;" />
 
 3. D LATCH
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\D LATCH.png" alt="D LATCH" style="zoom:50%;" />
+<img src="sources\D LATCH.png" alt="D LATCH" style="zoom:50%;" />
 
 4. REGISTER
 
@@ -73,31 +73,31 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 5. D-FLIP-FLOP
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\D FLIP-FLOP.png" alt="D FLIP-FLOP" style="zoom:50%;" />
+<img src="sources\D FLIP-FLOP.png" alt="D FLIP-FLOP" style="zoom:50%;" />
 
 6. 1-BIT REGISTER
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\1-BIT REGISTER.png" alt="1-BIT REGISTER" style="zoom:50%;" />
+<img src="sources\1-BIT REGISTER.png" alt="1-BIT REGISTER" style="zoom:50%;" />
 
 7. 4-BIT REGISTER
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\4-BIT REGISTER.png" alt="4-BIT REGISTER" style="zoom:50%;" />
+<img src="sources\4-BIT REGISTER.png" alt="4-BIT REGISTER" style="zoom:50%;" />
 
 ### 7-Segment Display
 
 1. 7 Segment Driver
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\7S Driver.png" alt="7S Driver" style="zoom:50%;" />
+<img src="sources\7S Driver.png" alt="7S Driver" style="zoom:50%;" />
 
 ### Bus and Tri-State
 
 1. Bus Buffer
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\BUS Buffer.png" alt="BUS Buffer" style="zoom:50%;" />
+<img src="sources\BUS Buffer.png" alt="BUS Buffer" style="zoom:50%;" />
 
 2. Simple CPU
 
-<img src="C:\Users\Dominik\Documents\Github\syt-exercises\grundlagenDerInformatik_\sem03_digisim\sources\Simple CPU.png" alt="Simple CPU" style="zoom:50%;" />
+<img src="sources\Simple CPU.png" alt="Simple CPU" style="zoom:50%;" />
 
 
 ## Fragestellungen

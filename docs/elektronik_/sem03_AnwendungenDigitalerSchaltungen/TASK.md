@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Anwendung digitaler Schaltungen*" - Taskdescription
 
 ## Einführung
@@ -28,6 +33,8 @@ Du kannst für die Simulation [Tinkercad](https://www.tinkercad.com/) verwenden.
 ## Fragestellungen
 
 * Erläutere die Funktionsweise des OPVs
+* Warum hat dieser zwei Eingänge? Welcher wird verstärkt?
+* Wie wird der OPV mit Strom versorgt?
 * Welche Anwendung hat der OPV
 * Erkläre Sinnhaftigkeit von Rückkopplung von Signalen bei OPV
 * Erläutere eine Auswahl der OPV Grundschaltungen
@@ -36,9 +43,9 @@ Du kannst für die Simulation [Tinkercad](https://www.tinkercad.com/) verwenden.
 * Was beschränkt die Verstärkung eines realen OPVs?
 
 ## Abgabe
-Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
+Die durchgeführten Tätigkeiten und gewünschten Elemente müssen laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) dokumentiert werden und vor dem Abgabgespräch hochzuladen. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden. 
 
-Bei einem Abgabegespräch sind die laufende Umgebung sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Nach diesem Gespräch ist das Grafiz eingescannt als **PDF** File auf moodle abzugeben.
+Bei einem Abgabegespräch sind die Übungen in einer eigenen laufende Umgebung (eigene Hardware) live der Lehrperson vorzuführen sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Die Fragestellungen dienen als Richtlinie, bei einem Abgabegespräch müssen auch weiterführende Fragestellungen zum Thema beantwortet werden können.
 
 ## Bewertung
 Gruppengrösse: 1 Person
@@ -61,4 +68,4 @@ Gruppengrösse: 1 Person
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 9.7
 
 ---
-**Version**  *20230725v1*
+**Version**  *20240129v2*

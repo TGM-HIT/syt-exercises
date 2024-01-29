@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Transistor Vertiefung*" - Taskdescription
 
 ## Einführung
@@ -26,7 +31,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 Finde und simuliere noch weitere Transistor Grundschaltungen (UND, ODER, NICHT). Erläutere dabei die grundlegenden Funktionsweisen und beschreibe die Wahrheitstabelle. Zum Einstieg kann dabei die "Elektronik-Fibel" von Patrick Schnabel dienen.
 
-Die simulierte Schaltung soll mit den vorhanden Bauteilen im Labor aufgebaut werden. Dabei soll der Strom bei den beiden Leuchtdioden in den jeweiligen Zuständen gemessen werden. Die Messschaltung soll dabei korrekt in der Dokumentation festgehalten werden.
+**Die simulierte Schaltung soll mit den vorhanden Bauteilen im Labor aufgebaut werden.** (Melde dich für die Bauteile bei deiner Lehrperson.) Dabei soll der Strom bei den beiden Leuchtdioden in den jeweiligen Zuständen gemessen werden. Die Messschaltung soll dabei korrekt in der Dokumentation festgehalten werden.
 
 Um zu verstehen wie ein OPV Signale verstärken kann, müssen wir uns noch einmal den Transistor genauer ansehen. Dieser kann nämlich nicht nur als Schalter verwendet werden, sondern auch zur Verstärkung. Dazu soll eine Transistor Verstärkerschaltung, ähnlich wie mit dem OPV, mit Phototransistor simuliert und aufgebaut werden. Dazu findest du im [Franzis Elektronik Handbuch](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513) den Dämmerungsschalter. Zeige auch hier wieder die Verstärkung mittels Voltmeters. Wie kann der Schwellwert der LED eingestellt werden?
 
@@ -39,9 +44,9 @@ Um zu verstehen wie ein OPV Signale verstärken kann, müssen wir uns noch einma
 
 ## Abgabe
 
-Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
+Die durchgeführten Tätigkeiten und gewünschten Elemente müssen laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) dokumentiert werden und vor dem Abgabgespräch hochzuladen. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden. 
 
-Bei einem Abgabegespräch sind die laufende Umgebung sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Nach diesem Gespräch ist das Grafiz eingescannt als **PDF** File auf moodle abzugeben.
+Bei einem Abgabegespräch sind die Übungen in einer eigenen laufende Umgebung (eigene Hardware) live der Lehrperson vorzuführen sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Die Fragestellungen dienen als Richtlinie, bei einem Abgabegespräch müssen auch weiterführende Fragestellungen zum Thema beantwortet werden können.
 
 ## Bewertung
 
@@ -68,4 +73,4 @@ Gruppengrösse: 1 Person
 
 ---
 
-**Version**  *20230725v1*
+**Version**  *20240129v2*

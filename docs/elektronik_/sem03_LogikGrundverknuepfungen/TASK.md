@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Logik- und Grundverknüpfungen" - Taskdescription
 
 ## Einführung
@@ -14,8 +19,8 @@ Die Grundschaltungen von LED, Transistor, Timer und Flip Flop kennenlernen.
 ## Voraussetzungen
 * Grundsätzliches Verständnis von Elektrotechnik und Elektronik
 * Lesen und Umsetzen von Arbeitsanweisungen
-* GK341 Wiederholung der Grundlagen
-* GK342 Grundschaltungen der Elektronik
+* Wiederholung der Grundlagen
+* Grundschaltungen der Elektronik
 
 
 ## Detaillierte Aufgabenbeschreibung
@@ -40,9 +45,9 @@ Baue die Schaltung physisch auf. Hohle dir dazu die Bauelemente von deinem Lehre
 * Versuche die Funktionsweise von Computern (ALU) mit den bis jetzt besprochenen Komponenten zu erklären.
 
 ## Abgabe
-Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
+Die durchgeführten Tätigkeiten und gewünschten Elemente müssen laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) dokumentiert werden und vor dem Abgabgespräch hochzuladen. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden. 
 
-Bei einem Abgabegespräch sind die laufende Umgebung sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Nach diesem Gespräch ist das Grafiz eingescannt als **PDF** File auf moodle abzugeben.
+Bei einem Abgabegespräch sind die Übungen in einer eigenen laufende Umgebung (eigene Hardware) live der Lehrperson vorzuführen sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Die Fragestellungen dienen als Richtlinie, bei einem Abgabegespräch müssen auch weiterführende Fragestellungen zum Thema beantwortet werden können.
 
 ## Bewertung
 
@@ -72,4 +77,4 @@ Gruppengrösse: 1 Person
 
 ---
 
-**Version**  *20201123v1*
+**Version**  *20240129v2*

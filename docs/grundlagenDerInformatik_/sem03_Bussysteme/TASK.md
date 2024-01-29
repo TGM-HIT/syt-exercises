@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Bussysteme*" - Taskdescription
 
 ## Einführung
@@ -36,9 +41,9 @@ Simuliere einen Halb- und Volladdierer in einer Simulationsumgebung deiner Wahl 
 
 ## Abgabe
 
-Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
+Die durchgeführten Tätigkeiten und gewünschten Elemente müssen laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) dokumentiert werden und vor dem Abgabgespräch als ein **PDF** hochzuladen (Microsoft Office Lens [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059); Online PDF Editor [pdffiller](https://www.pdffiller.com/de/)). Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden. 
 
-Bei einem Abgabegespräch sind die laufende Umgebung sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Vor diesem Gespräch ist das Grafiz eingescannt als ein **PDF** File auf moodle abzugeben. (Microsoft Office Lens [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059); Online PDF Editor [pdffiller](https://www.pdffiller.com/de/))
+Bei einem Abgabegespräch sind die Übungen in einer eigenen laufende Umgebung (eigene Hardware) live der Lehrperson vorzuführen sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Die Fragestellungen dienen als Richtlinie, bei einem Abgabegespräch müssen auch weiterführende Fragestellungen zum Thema beantwortet werden können.
 
 ## Bewertung
 
@@ -65,4 +70,4 @@ Gruppengröße: 1 Person
 
 ---
 
-**Version**  *20230725v1*
+**Version**  *20240129v2*

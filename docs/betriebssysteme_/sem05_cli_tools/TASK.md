@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "CLI Tools" - Taskdescription
 
 ## Einführung
@@ -10,7 +15,7 @@ Programme in der CLI installieren und Konfigurationen vornehmen
 * Umgang mit einer CLI
 
 ## Detaillierte Aufgabenbeschreibung
-Installiere dir Exa, Zoxoid, Bat und zmux in deiner CLI. Erstelle dir permanente Alias für bat (cat), z (cd), ls (exa). Installiere dir eine alternative Shell und ein alternatives Terminal. Passe diese auf deinen Geschmack an.
+Installiere dir Exa, Zoxoid, Bat und zmux in deiner CLI. Erstelle dir permanente Alias für bat (cat), z (cd), ls (exa). Installiere dir eine alternative Shell und ein alternatives Terminal. Passe diese auf deinen Geschmack an. Übung kann auch in Windows durchgeführt werden. Zeige vor wie die Tools zu verwenden sind.
 
 ### Fragestellungen
 * Welche Funktion erfüllen diese Tools?
@@ -23,8 +28,9 @@ Installiere dir Exa, Zoxoid, Bat und zmux in deiner CLI. Erstelle dir permanente
 Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein leichter Einstieg und eine mühelose Verwendung der einzelnen Tools und der Hardware sichergestellt ist.
 
 ## Abgabe
-Die Abgabe wird elektronisch als generiertes PDF-Dokument erwartet. Dabei sollen die einzelnen Arbeitsschritte beschrieben und die Fragen entsprechend ausgearbeitet werden.
-Bei dem obligatorischen Abgabegespräch wird die Dokumentation und die praktische Durchführung überprüft.
+Die durchgeführten Tätigkeiten und gewünschten Elemente müssen laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) dokumentiert werden und vor dem Abgabgespräch als ein **PDF** hochzuladen (Microsoft Office Lens [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059); Online PDF Editor [pdffiller](https://www.pdffiller.com/de/)). Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden. 
+
+Bei einem Abgabegespräch sind die Übungen in einer eigenen laufende Umgebung (eigene Hardware) live der Lehrperson vorzuführen sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Die Fragestellungen dienen als Richtlinie, bei einem Abgabegespräch müssen auch weiterführende Fragestellungen zum Thema beantwortet werden können.
 
 ## Bewertung Labor
 Gruppengröße: 1 Person
@@ -78,4 +84,4 @@ Gruppengröße: 1 Person
 
 
 ---
-**Version** *20230925v1*
+**Version** *20240129v2*

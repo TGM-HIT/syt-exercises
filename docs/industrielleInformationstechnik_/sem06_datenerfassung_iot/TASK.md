@@ -34,7 +34,12 @@ Die Wifi Funktion des ESP32 zu verwenden um sich zu einem MQTT Server zu verbind
 
 [ESP32 Installation und Pinout](https://elearning.tgm.ac.at/mod/page/view.php?id=90535)
 
-#### 1. WiFi verbinden
+#### 1. Sensorwerte ausgeben
+
+Verbinden den von der Lehrperson erhaltenen Sensor mit dem ESP und gib dessen Sensorwerte auf dem Seriellen Monitor aus.
+
+#### 2. WiFi verbinden
+
 Binde `WiFi.h` ein und erstelle im Projektordner `secrets.h` mit folgendem Inhalt: 
 
 ```C
@@ -46,13 +51,12 @@ Binde `WiFi.h` ein und erstelle im Projektordner `secrets.h` mit folgendem Inhal
 #define MQTT_USER "schueler3xhit"
 #define MQTT_PASSWORD "mqttHIT"
 ```
+
 Binde auch dieses ein. Die Namen können nun im Programm verwendet werden. Verbinde dich zum IOT WiFi und gibt deine IP im Monitor aus [4, 7].
 
-#### 2. MQTT verbinden
-Stelle eine Verbindung zum MQTT Server her [4, 7]. Verwende dazu folgende Library "PubSubClient" by Nick O'Leary (>=v2.8.0). Verwende `esp32-nachname` als MQTT Client ID.
+#### 3. MQTT verbinden
 
-#### 3. Button Interrupt
-Schließe einen Button an (INPUT_PULLUP/INPUT_PULLDOWN) und verwende Interrupts [1, 3], um beim Button Druck die Sensorwerte an folgendes MQTT Topic zu senden:
+Stelle eine Verbindung zum MQTT Server her [4, 7]. Verwende dazu folgende Library "PubSubClient" by Nick O'Leary (>=v2.8.0). Verwende `esp32-nachname` als MQTT Client ID. Sende deine Sensorwerte an folgendes MQTT Topic zu senden:
 
 ```
 hit/3x/nachname/sensor_typ
@@ -70,7 +74,8 @@ String(sensorValue).toCharArray(charBuf, 50);
 client.publish(topic, charBuf);
 ```
 
-Versuche die ISR (Interrupt Service Routine) so kurz wie möglich zu halten.
+#### 4. Button Interrupt
+Schließe einen Button an (INPUT_PULLUP/INPUT_PULLDOWN) und verwende Interrupts [1, 3], um beim Button Druck die Sensorwerte senden. Versuche die ISR (Interrupt Service Routine) so kurz wie möglich zu halten.
 
 ```c
 bool pressed = false;
@@ -87,7 +92,7 @@ void loop() {
 	}
 ```
 
-### 4. Sleep
+#### 5. Sleep
 Sende den Mikrocontroller in den Deep Sleep, wenn der Button für 5 Sekunden nicht gedrückt wird. Wecke ihn mit dem Button wieder auf [2, 5].
 
 ## Abgabe
@@ -114,5 +119,5 @@ Gruppengrösse: 1 Person
 [7] D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online]. Verfügbar unter: https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker  
 
 ---
-**Version** *20231231v2*
+**Version** *20240203v3*
 

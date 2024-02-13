@@ -31,42 +31,18 @@ Das Ziel dieser Übung ist die Anpassung von containerbasierten Virtualisierungs
 * **Lauffähige Docker-Umgebung**
 
 ## Installation
-Um diese Übung in der vorgegebenen Zeit umsetzen zu können, ist die erfolgreiche Installation der _**Docker-Engine**_ vor dem Antritt zur Laborübung verpflichtend. Es wird empfohlen, diese in einer Linux-Umgebung auszuführen. Die Anleitungen sind auf der offiziellen Docker Seite zu finden: https://docs.docker.com/engine/install/
+Um diese Übung in der vorgegebenen Zeit umsetzen zu können, ist die erfolgreiche Installation der _**Docker-Engine**_ vor dem Antritt zur Laborübung verpflichtend. Es wird empfohlen, [Docker Desktop](https://www.docker.com/products/docker-desktop/) am Host System zu installieren.
 
-_**Es wird empfohlen Docker-Desktop zusätlich nativ am Host System zu installieren.**_
-
-Für *Debian* sind die Installations-Befehle hier kurz zusammengefasst:
-```bash
-## All following commands must be executed as root, therefore we are switching to the root account
-sudo su -
-
-apt update
-apt install ca-certificates curl gnupg lsb-release
-curl -fsSL https://download.docker.com/linux/debian/gpg | gpg --dearmor -o /etc/apt/trusted.gpg.d/docker.gpg
-echo \
-  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/trusted.gpg.d/docker.gpg] https://download.docker.com/linux/debian \
-  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-
-apt update && apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-## Here we are testing the installed Docker Engine
-docker run hello-world
-
-## Now installing the handy docker-compose for faster configuration and deployment
-apt install python3-pip
-pip3 install setuptools && pip3 install docker-compose
-```
+Realitätsnäher wäre es diese auf einem Server (VM) diese in einer Linux-Umgebung auszuführen. Die Anleitungen sind auf der offiziellen Docker Seite zu finden: https://docs.docker.com/engine/install/
 
 Die erfolgreiche Installation kann auch mit dem Aufruf von `docker run docker/whalesay cowsay boo` getestet werden.
-
-Sollte die Installation trotz Warnung, unbedingt auf der Host-Maschine unter Windows oder MacOS durchgeführt werden, ist die gebündelte Version der Docker-Desktop Variante zu präferieren, da dort alle Abhängigkeiten automatisch nachgereicht werden. Es wird hier aber aus Zeitgründen kein Support angeboten!
 
 ## Detaillierte Aufgabenbeschreibung
 ### 1. Der erste Container
 Container sind Instanzen von Docker-Images, die mit dem Befehl `docker run` ausgeführt werden können. Der Hauptzweck von Docker ist das Ausführen von Containern.
-Um die Berechtigung zu haben, mit den Docker-Befehlen zu hantieren, sollte der Benutzer in der Gruppe `docker` hinzugefügt werden, dies kann durch das Kommando `sudo usermod -aG docker $USER` vollzogen werden (im Anschluss ist ein Logout/Session-Refresh notwendig). Dies erübrigt dann die dauernde Voranstellung des `sudo` Kommandos!
+Um die Berechtigung zu haben, mit den Docker-Befehlen zu hantieren, sollte der Benutzer in der Gruppe `docker` hinzugefügt werden, dies kann durch das Kommando `sudo usermod -aG docker $USER` vollzogen werden (im Anschluss ist ein Logout/Session-Refresh notwendig). Dies erübrigt dann die dauernde Voranstellung des `sudo` Kommandos! (Unter Windows nicht notwendig)
 
-Um daher mit dem _Docker client_ Images und Container steuern zu können, muss der _Docker daemon_ als System-Dienst aktiviert und gestartet werden! In Debian-basierten Systemen kann dies mit `systemctl status docker.service` überprüft werden. Wie kann dann der Dienst gestartet bzw. gestoppt werden?
+Um daher mit dem _Docker client_ Images und Container steuern zu können, muss der _Docker daemon_ als System-Dienst aktiviert und gestartet werden! In Debian-basierten Systemen kann dies mit `systemctl status docker.service` überprüft werden. Wie funktioniert das unter Windows? Wie kann dann der Dienst gestartet bzw. gestoppt werden?
 
 Wir haben nach der Installation schon unseren ersten Container initialisiert und gestartet. Dies ist mit dem Kommando `docker run hello-world` geschehen. Der Output hat so ausgesehen:
 
@@ -100,7 +76,7 @@ Wir wollen nun einfach und schnell einen Blog deployen. [Ghost](https://hub.dock
 
 `docker run -d --name some-ghost -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 ghost:latest`
 
-Aber viel schöner ist eigentlich der Outcome des Befehls, öffne deinen Browser und klick auf [http://localhost:3001](http://localhost:3001)! Ließ dir die [Ghost Documentation auf Docker Hub](https://hub.docker.com/_/ghost) durch und finde heraus, wie man auf das Admin Backend kommt. Publishe einen neuen Artikel auf deinem Ghost Blog!
+Was bedeutet der Befehl und dessen Einzelteile? Aber viel schöner ist eigentlich der Outcome des Befehls, öffne deinen Browser und klick auf [http://localhost:3001](http://localhost:3001)! Ließ dir die [Ghost Documentation auf Docker Hub](https://hub.docker.com/_/ghost) durch und finde heraus, wie man auf das Admin Backend kommt. Publishe einen neuen Artikel auf deinem Ghost Blog!
 
 ### 3. Images verwalten
 Wie wir bereits wissen, können mehrere Container auf ein und demselben Image beruhen, welche von offizieller Seite heruntergeladen werden können. Mit dem Befehl `docker images` bzw. `docker image ls` können alle lokal herunter geladenen als auch selbst erstellten Images angezeigt werden. Welche Informationen werden dabei angezeigt? Will man ein Image nur herunterladen (ohne es gleich in einem Container zu verwenden), kann der Befehl `docker pull` verwendet werden. 
@@ -193,15 +169,15 @@ Gruppengrösse: 1 Person
 - [ ] Teil 1: Aufruf und Verwendung von Containern
 - [ ] Teil 2: Bereitgestellte Images nutzen
 - [ ] Teil 3: Images verwalten
-### Grundanforderungen **zur Gänze erfüllt**
 - [ ] Teil 4: Container verwalten
+### Grundanforderungen **zur Gänze erfüllt**
 - [ ] Teil 5: Docker-Compose verwenden
 - [ ] Teil 6: Container mittels eigenen Dockerfiles erstellen und deployen
 
 ## Quellen
-* [1] "Was ist Docker? Welche Vorteile bietet Containerisierung?" redhat.com; zuletzt besucht 2023-02-12; [online](https://www.redhat.com/de/topics/containers/what-is-docker)
-* [2] "Vergleich zwischen Containern und VMs" redhat.com; zuletzt besucht 2023-02-12; [online](https://www.redhat.com/de/topics/containers/containers-vs-vms)
-* [3] "Docker overview" docker docs; zuletzt besucht 2023-02-12; [online](https://docs.docker.com/get-started/overview/)
+* "Was ist Docker? Welche Vorteile bietet Containerisierung?" redhat.com; zuletzt besucht 2023-02-12; [online](https://www.redhat.com/de/topics/containers/what-is-docker)
+* "Vergleich zwischen Containern und VMs" redhat.com; zuletzt besucht 2023-02-12; [online](https://www.redhat.com/de/topics/containers/containers-vs-vms)
+* "Docker overview" docker docs; zuletzt besucht 2023-02-12; [online](https://docs.docker.com/get-started/overview/)
 * "Docker – die revolutionäre Container-Technologie" Ionos - Digital Guide; zuletzt besucht 2023-02-14; [online](https://www.ionos.de/digitalguide/server/knowhow/was-ist-docker/)
 * "Docker Documentation: How to Build, Share and Run" docker docs; zuletzt besucht 2023-02-12; [online](https://docs.docker.com/)
 * "Docker Hub Overview" docker docs; zuletzt besucht 2023-02-14; [online](https://docs.docker.com/docker-hub/)
@@ -216,4 +192,4 @@ Gruppengrösse: 1 Person
 * "Docker Tutorial" tutorialspoint - simply easy learning; zuletzt besucht 2023-02-14; [online](https://www.tutorialspoint.com/docker/index.htm)
 
 ---
-**Version** *20230325v1*
+**Version** *20240213v2*

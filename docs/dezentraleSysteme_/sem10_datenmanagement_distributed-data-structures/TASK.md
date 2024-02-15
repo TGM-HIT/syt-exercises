@@ -24,7 +24,7 @@ Recherchieren Sie mögliche Werkzeuge für das "distributed Computing". Vergleic
 * einsetzbare Programmiersprachen
 * Datenverteilung und gemeinsamer Speicher
 * Performance bei Main-Focus
-* Notifikation von Master oder anderen Slaves
+* Notifikation von Master oder anderen Workern
 
 Um Technologien auch entsprechend im Einsatz vergleichen zu können, ist die Beschreibung der Schnittstellen ein wichtiger Punkt. Hierfür bietet sich auch eine kurze Sourcecode Gegenüberstellung an, damit die Komplexität des Systems bzw. Frameworks auch veranschaulicht werden kann.
 
@@ -34,7 +34,7 @@ Nehmen Sie eine geeignete Aufgabenstellung/Berechnung (Aufteilung von Daten) und
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/cBjpwKT_) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -44,7 +44,7 @@ Gruppengrösse: 1-2 Person(en)
 	* einsetzbare Programmiersprachen
 	* Datenverteilung und gemeinsamer Speicher
 	* Performance bei Main-Focus
-	* Notifikation von Master oder anderen Slaves
+	* Notifikation von Master oder anderen Workern
 - [ ] Beschreibung der gewählten Systeme bzw. Frameworks
 - [ ] Dokumentation der gewählten Schnittstellen
 
@@ -56,22 +56,26 @@ Gruppengrösse: 1-2 Person(en)
 
 ## Quellen
 * "A reactive Java framework for building fault-tolerant distributed systems" Atomix [github](https://github.com/atomix/atomix)
-* "What is Atomix?" [atomix.io](https://atomix.io/docs/latest/user-manual/introduction/what-is-atomix/)
+* "What is Atomix?" [atomix.io](https://atomix.io/user-guide/architecture/)
 * "Introduction to Atomix" [baeldung](https://www.baeldung.com/atomix)
-* "Primitive Protocols" [atomix.io](https://atomix.io/docs/latest/user-manual/primitives/primitive-protocols/)
 * "The Raft Consensus Algorithm" [online](https://raft.github.io/)
 * "In Search of an Understandable Consensus Algorithm" Raft-Paper; Stanford University; [online](https://raft.github.io/raft.pdf)
-* "How to Create a distributed Datastore in 10 Minutes" Jonathan Halterman [online](https://jodah.net/create-a-distributed-datastore-in-10-minutes)
+* "Getting started with Kafka" [kafka](https://kafka.apache.org/documentation/#gettingStarted)
+* "How to Set up Kafka and Stream Data to MinIO in Kubernetes" [online](https://blog.min.io/stream-data-to-minio-using-kafka-kubernetes/)
+* "Spark Structured Streaming With Kafka and MinIO" [online](https://blog.min.io/spark-structured-streaming-with-kafka-and-minio/)
+* "The Difference Between Kafka and Spark" [aws](https://aws.amazon.com/compare/the-difference-between-kafka-and-spark/)
 * "Spark Quickstart" [online](http://spark.apache.org/docs/latest/quick-start.html)  
 * "Spark Github repository with examples" [online](https://github.com/apache/spark)
 * "Spark Tutorial: Real Time Cluster Computing Framework" [online](https://www.edureka.co/blog/spark-tutorial/)
-* "Apache Spark Dockerimage" [online](https://github.com/gettyimages/docker-spark)  
 * "Open-source software for reliable, scalable, distributed computing" [Apache Hadoop](https://hadoop.apache.org/)  
 * "High-performance coordination service for distributed applications" [Apache Zookeeper](https://zookeeper.apache.org/doc/current/)  
 * "Distributed data store" [wikipedia](https://en.wikipedia.org/wiki/Distributed_data_store)
-* "Understanding Hadoop v/s Spark v/s Storm" [cognixia.com](https://www.cognixia.com/blog/understanding-hadoop-vs-spark-vs-storm)
-* "Comparison Storm and Spark" [whizlabs.com](https://www.whizlabs.com/blog/apache-storm-vs-apache-spark/)
 * "etcd - A distributed, reliable key-value store" [online](https://etcd.io/)
 
+### Beispiele
+* "Reddit-Realtime-Streaming-Pipeline" [github](https://github.com/Hungreeee/Reddit-Realtime-Streaming-Pipeline?tab=readme-ov-file)
+* "Realtime Voting System - Kafka & Spark Example" [github](https://github.com/rajuranjan00/Real-time-voting-system)
+* "Kafka With Spark Streaming" [github](https://github.com/asaf-erlich/docker-kafka-spark)
+
 ---
-**Version** *20220217v3*
+**Version** *20240215v4*

@@ -66,6 +66,9 @@ Gruppengrösse: 3-4 Personen
 * [1] "Creating a Vue Application" vuejs.org [online](https://vuejs.org/guide/essentials/application.html)
 * [2] "Introducing Couchbase Lite" couchbase [online](https://docs.couchbase.com/couchbase-lite/current/index.html)
 * [3] "Shopping Lists" borko.at [online](https://shopping.borko.at/)
+* "About task lists" [github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
+* "Git Commit Good Practice" [openstack](https://wiki.openstack.org/wiki/GitCommitMessages#Examples_of_good_practice)
+* "How to write Git-Commit-Messages" [elearning](https://elearning.tgm.ac.at/mod/page/view.php?id=3508)
 
 ---
-**Version** *20230303v3*
+**Version** *20240215v4*

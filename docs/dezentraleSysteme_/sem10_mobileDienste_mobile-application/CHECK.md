@@ -1,20 +1,5 @@
 # "Mobile Application" - Checklist
 
-### Getting newest changes and view generated Report
-```bash
-python ~/bin/getRepositoriesByAssigment.py -a syt5-gek1033-mobile-application
-python ~/bin/assignmentGradeReport.py -a syt5-gek1033-mobile-application -t ~/repositories/tgm_/tools/assignments/report-templates/overview.xhtml
-google-chrome-stable syt5-gek1033-mobile-application/report/index.html &
-```
-
-### Check the implementation
-```bash
-gradle clean run
-gradle test
-
-gedit `find | grep "^./src.*\.java$" & find | grep "^./src.*\.xml$"` &
-```
-
 ## Bewertung
 Gruppengrösse: 2 Personen
 Gruppenmitglieder:
@@ -37,16 +22,4 @@ URL: [github]()
 - [ ] Offline-Verfügbarkeit
 - [ ] System global erreichbar
 - [ ] funktionale Implementierung der should-have Userstories
-
-
-### Kommentare
-- Start nicht beschrieben
-- Userstory nicht (thematisch, prioritäts) sortiert
-- `flutter run` Devices fehlt
--  Sync auf UseCase hin beleuchten!
-- Datastore Informationen noch nicht beschrieben
-- API Verwendung und Umsetzung des UseCases nicht beschrieben
-- Code-Struktur und Code-Design nicht beschrieben (zweck einfachen Einstiegs)
-- Keine Fehlermeldungen (Registrierung, Anmeldung, etc.)
-- mindestens 6 Testcases für die Registrierung und Anmeldung
 

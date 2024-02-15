@@ -63,6 +63,7 @@ hit/3x/nachname/sensor_typ
 ```
 
 [MQTT-Explorer](https://mqtt-explorer.com/) kann verwendet werden, um die gesendeten Messages zu überprüfen.
+Konfiguration: siehe Credentials oben; zusätzlich Advanced --> "hit/3x/#" zu den Subscriptions hinzufügen.
 
 Sensorwerte müssen zu einem Char Array umgewandelt werden.
 

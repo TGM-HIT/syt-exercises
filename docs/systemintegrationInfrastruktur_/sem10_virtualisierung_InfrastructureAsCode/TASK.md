@@ -4,7 +4,8 @@
 In dieser Übung sollen 3 virtuelle Maschinen: 2 Webserver sowie ein Load-Balancer mittels Ansible konfiguriert werden.
 
 ## Ziele
-- Ziel dieser Übung ist es virtuelle Maschinen automatisiert provisionieren zu können. 
+- Ziel dieser Übung ist es virtuelle Maschinen automatisiert provisionieren zu können.
+- Ansible hat mehrere Use Cases, die analysiert und entsprechend für aktuelle Projekte umgesetzt werden sollen
 
 ## Kompetenzzuordnung
 
@@ -66,3 +67,7 @@ Verbindungstest mittels: `ansible all -m`
 - "Ansible Tutorial: Installation, Playbook, Roles, Commands" [online](https://www.guru99.com/ansible-tutorial.html)
 - "A step by step guide to Ansible (Tutorial)" [online](https://www.ssdnodes.com/blog/step-by-step-ansible-guide/)
 - "Ansible Tutorial: Multi Tier Deployment mit Ansible" [online](https://entwickler.de/devops/ansible-tutorial-multi-tier-deployment-mit-ansible/)
+
+---
+**Version** *20240215v2*
+

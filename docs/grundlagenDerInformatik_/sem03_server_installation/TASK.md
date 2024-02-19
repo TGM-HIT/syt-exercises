@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Server Installation*" - Taskdescription
 
 ## Einführung
@@ -77,9 +82,12 @@ Gruppengröße: 1 Person
 ## Quellen
 * "Microsoft Office Lens";  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059)
 * "Online PDF Editor"; zuletzt besucht 2021-08-06; [pdffiller](https://www.pdffiller.com/de/)
+* „Developing on Remote Machines using SSH and Visual Studio Code“. Zugegriffen: 19. Februar 2024. [Online]. Verfügbar unter: https://code.visualstudio.com/docs/remote/ssh
 * D. McKay, „How to Create and Install SSH Keys From the Linux Shell“, How-To Geek. Zugegriffen: 19. Februar 2024. [Online]. Verfügbar unter: https://www.howtogeek.com/424510/how-to-create-and-install-ssh-keys-from-the-linux-shell/
+* „Visual Studio Code - Code Editing. Redefined“. Zugegriffen: 19. Februar 2024. [Online]. Verfügbar unter: https://code.visualstudio.com/
 * „Windows 10 OpenSSH Equivalent of ssh-copy-id“, Christopher Hart. Zugegriffen: 19. Februar 2024. [Online]. Verfügbar unter: https://www.chrisjhart.com/Windows-10-ssh-copy-id/
 
 
+
 ---
-**Version** *20240218v1*
+**Version** *20240218v2*

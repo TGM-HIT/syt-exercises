@@ -73,8 +73,8 @@ Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein 
 [^29]: „ESP32 MQTT Publish Subscribe with Arduino IDE | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)  
 [^30]: „In-Depth: ESP32 Deep Sleep & Wakeup Sources | Timer, Touch & External“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online](https://lastminuteengineers.com/esp32-deep-sleep-wakeup-sources/)  
 [^31]: T. Nordquist, „MQTT Explorer“, MQTT Explorer. Zugegriffen: 5. Dezember 2023. [Online](http://mqtt-explorer.com/)  
-[^32]: D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online](https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker)     
-[^33]: K. Magdy, „ESP32 Timers & Timer Interrupt Tutorial (Arduino IDE)“, DeepBlue. Zugegriffen: 20. Februar 2024. [Online](https://deepbluembedded.com/esp32-timers-timer-interrupt-tutorial-arduino-ide/)
+[^32]: D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online](https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker)    
+[^33]: K. Magdy, „ESP32 Timers & Timer Interrupt Tutorial (Arduino IDE)“, DeepBlue. Zugegriffen: 20. Februar 2024. [Online](https://deepbluembedded.com/esp32-timers-timer-interrupt-tutorial-arduino-ide/)  
 [^34]: „Timer - - — Arduino ESP32 latest documentation“. Zugegriffen: 20. Februar 2024. [Online](https://docs.espressif.com/projects/arduino-esp32/en/latest/api/timer.html)
 
 

@@ -52,11 +52,11 @@ Binde `WiFi.h` ein und erstelle im Projektordner `secrets.h` mit folgendem Inhal
 #define MQTT_PASSWORD "mqttHIT"
 ```
 
-Binde auch dieses ein. Die Namen können nun im Programm verwendet werden. Verbinde dich zum IOT WiFi und gibt deine IP im Monitor aus [4, 7].
+Binde auch dieses ein. Die Namen können nun im Programm verwendet werden. Verbinde dich zum IOT WiFi und gibt deine IP im Monitor aus [^4][^7].
 
 #### 3. MQTT verbinden
 
-Stelle eine Verbindung zum MQTT Server her [4, 7]. Verwende dazu folgende Library "PubSubClient" by Nick O'Leary (>=v2.8.0). Verwende `esp32-nachname` als MQTT Client ID. Sende deine Sensorwerte an folgendes MQTT Topic zu senden:
+Stelle eine Verbindung zum MQTT Server her [^4][^7]. Verwende dazu folgende Library "PubSubClient" by Nick O'Leary (>=v2.8.0). Verwende `esp32-nachname` als MQTT Client ID. Sende deine Sensorwerte an folgendes MQTT Topic zu senden:
 
 ```
 hit/3x/nachname/sensor_typ
@@ -76,7 +76,7 @@ client.publish(topic, charBuf);
 ```
 
 #### 4. Button Interrupt
-Schließe einen Button an (INPUT_PULLUP/INPUT_PULLDOWN) und verwende Interrupts [1, 3], um beim Button Druck die Sensorwerte senden. Versuche die ISR (Interrupt Service Routine) so kurz wie möglich zu halten.
+Schließe einen Button an (INPUT_PULLUP/INPUT_PULLDOWN) und verwende Interrupts [^1][^3], um beim Button Druck die Sensorwerte senden. Versuche die ISR (Interrupt Service Routine) so kurz wie möglich zu halten.
 
 ```c
 bool pressed = false;
@@ -94,7 +94,7 @@ void loop() {
 ```
 
 #### 5. Sleep
-Sende den Mikrocontroller in den Deep Sleep, wenn der Button für 5 Sekunden nicht gedrückt wird. Wecke ihn mit dem Button wieder auf [2, 5].
+Sende den Mikrocontroller in den Deep Sleep, wenn der Button für 5 Sekunden nicht gedrückt wird. Wecke ihn mit dem Button wieder auf [^2][^5].
 
 ## Abgabe
 Die Abgabe wird elektronisch als generiertes PDF-Dokument erwartet. Dabei sollen die einzelnen Arbeitsschritte beschrieben und die Fragen entsprechend ausgearbeitet werden. Dokumentation laut Dokumentationsrichtlinie, soll außerdem enthalten: Schaltplan (verwende [Fritzing](https://fritzing.org/home/), [Tinkercad](https://www.tinkercad.com/), [Wokwi](https://wokwi.com/), ...), Fotos der realen Schaltung, sowie Screenshots. Gruppenarbeiten sind nicht gestattet, Übung ist auf eigener Hardware (Laptop, Microcontroller) durchzuführen. Bei dem obligatorischen Abgabegespräch wird die Dokumentation und die praktische Durchführung überprüft.
@@ -109,16 +109,15 @@ Gruppengrösse: 1 Person
 - [ ] Button Interrupt durchgeführt
 - [ ] Sleep durchgeführt
 
-## Quellen
 
-[1] „Configuring & Handling ESP32 GPIO Interrupts In Arduino IDE“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online](https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/)  
-[2] „ESP32 Deep Sleep with Arduino IDE and Wake Up Sources | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online](https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/)  
-[3] K. Magdy, „ESP32 Interrupt Pins (External Interrupts in Arduino) GPIO Interrupt“, DeepBlue. Zugegriffen: 21. November 2023. [Online](https://deepbluembedded.com/esp32-external-interrupts-pins-arduino-examples/)  
-[4] „ESP32 MQTT Publish Subscribe with Arduino IDE | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)  
-[5] „In-Depth: ESP32 Deep Sleep & Wakeup Sources | Timer, Touch & External“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online](https://lastminuteengineers.com/esp32-deep-sleep-wakeup-sources/)  
-[6] T. Nordquist, „MQTT Explorer“, MQTT Explorer. Zugegriffen: 5. Dezember 2023. [Online](http://mqtt-explorer.com/)  
-[7] D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online](https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker)  
+[^1]: „Configuring & Handling ESP32 GPIO Interrupts In Arduino IDE“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online](https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/)  
+[^2]: „ESP32 Deep Sleep with Arduino IDE and Wake Up Sources | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online](https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/)  
+[^3]: K. Magdy, „ESP32 Interrupt Pins (External Interrupts in Arduino) GPIO Interrupt“, DeepBlue. Zugegriffen: 21. November 2023. [Online](https://deepbluembedded.com/esp32-external-interrupts-pins-arduino-examples/)  
+[^4]: „ESP32 MQTT Publish Subscribe with Arduino IDE | Random Nerd Tutorials“. Zugegriffen: 21. November 2023. [Online](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)  
+[^5]: „In-Depth: ESP32 Deep Sleep & Wakeup Sources | Timer, Touch & External“, Last Minute Engineers. Zugegriffen: 21. November 2023. [Online](https://lastminuteengineers.com/esp32-deep-sleep-wakeup-sources/)  
+[^6]: T. Nordquist, „MQTT Explorer“, MQTT Explorer. Zugegriffen: 5. Dezember 2023. [Online](http://mqtt-explorer.com/)  
+[^7]: D. Tao, „MQTT on ESP32: A Beginner’s Guide“, www.emqx.com. Zugegriffen: 21. November 2023. [Online](https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker)  
 
 ---
-**Version** *20240203v3*
+**Version** *20240220v4*
 

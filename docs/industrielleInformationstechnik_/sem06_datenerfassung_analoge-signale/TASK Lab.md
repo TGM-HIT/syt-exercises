@@ -54,7 +54,7 @@ Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein 
 [^10]: "Fritzing 0.9.4 Download" (sponsored by MBorko) [online](https://fritzing.org/download/0.9.4/windows-64bit/fritzing.0.9.4.64.pc_and_dll.zip)  
 [^11]: "DHT Arduino Library" github.com; Mark Ruys [online](https://github.com/markruys/arduino-DHT)    
 [^12]: "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)   
-[^13]: "Kalibrieren, Justieren, Verifizieren und Eichen von Messgeräten" Endress+Hauser, zuletzt besucht am 2020-03-20 [online](https://www.at.endress.com/de/dienstleistungsportfolio/messgeraete-kalibrierservice/service-kalibrieren-messger%C3%A4te)  
+[^13]: "Kalibrieren, Justieren, Verifizieren und Eichen von Messgeräten" Endress+Hauser, zuletzt besucht am 2020-03-20 [online](https://www.at.endress.com/de/dienstleistungsportfolio/industrielle-instandhaltungsservices/service-kalibrieren-messgeraete)  
 [^14]: "Messtechnik - Grundlagen und Anwendungen der elektrischen Messtechnik" Rainer Parthier, Springer Vieweg, 8. Auflage, 2016  
 [^15]: "KY-028 Digital Temperature Sensor Module" ArduinoModules, zuletzt besucht am 2020-03-20 [online](https://arduinomodules.info/ky-028-digital-temperature-sensor-module/)  
 [^16]: "Messtechnik und Sensorik" Jörg Böttcher; zuletzt besucht am 2020-03-20 [online](https://messtechnik-und-sensorik.org/inhaltsverzeichnis/)    

@@ -33,7 +33,7 @@ Verwenden Sie zur Implementierung eine konsolen-basierte Deployment-Umgebung zur
 | Gelb          | 1-0-0-0   |
 | Gelb blinkend | 0-0-0-1   |
 
-Sollte für mehr als 60 ms kein HIGH Signal am Bus beobachtet werden, muss die Ampelsteuerung entsprechend neu gestartet werden. Dies soll mittels eines "Check-Tasks" erfolgen. Dabei bietet sich der Einstaz eines Echtzeit-Betriebssystems (z.B. FreeRTOS). Nach dem Neustart ist zuerst der Fehlerzustand zu starten (Gelb blinkend). Nur nach erfolgreicher Verbindung zum SPI-Bus soll die Ampel neu gestartet werden.
+Sollte für mehr als 60 ms kein HIGH Signal am Bus beobachtet werden, muss die Ampelsteuerung entsprechend neu gestartet werden. Dies soll mittels eines "Check-Tasks" erfolgen. Dabei ist der Einstaz eines Echtzeit-Betriebssystems (z.B. FreeRTOS) verpflichtend. Nach dem Neustart ist zuerst der Fehlerzustand zu starten (Gelb blinkend). Nur nach erfolgreicher Verbindung zum SPI-Bus soll die Ampel neu gestartet werden.
 
 ## Fragestellungen
 + Was ist ein SPI-Bus und wie ist dieser aufgebaut?
@@ -48,7 +48,7 @@ Sollte für mehr als 60 ms kein HIGH Signal am Bus beobachtet werden, muss die A
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Etwaiger Programmcode zur Sensordaten-Verarbeitung ist ebenfalls zu dokumentieren. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/Ky1qCxcs) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -74,8 +74,8 @@ Gruppengrösse: 1-2 Person(en)
 * [SPI for RaspberryPi](https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md)
 * [Logic Analyzer](https://www.saleae.com/de/downloads/)
 * [FreeRTOS Demo Implementations for RP2040](https://github.com/FreeRTOS/FreeRTOS-SMP-Demos/tree/main/FreeRTOS/Demo/CORTEX_M0%2B_RP2040)
-* [FreeRTOS on Raspberry Pi Pico](https://lochnerweb.de/freertos-on-raspberry-pi-pico)
+* [Multitasking on Raspberry Pico](https://lochnerweb.de/index.php/pico_multitasking)
 
 ---
-**Version** *20220217v3*
+**Version** *20240222v4*
 

@@ -58,7 +58,7 @@ Die Fragen sollen soweit erläutert und mit Quellen versehen werden, sodass ein 
 [^14]: "Messtechnik - Grundlagen und Anwendungen der elektrischen Messtechnik" Rainer Parthier, Springer Vieweg, 8. Auflage, 2016  
 [^15]: "KY-028 Digital Temperature Sensor Module" ArduinoModules, zuletzt besucht am 2020-03-20 [online](https://arduinomodules.info/ky-028-digital-temperature-sensor-module/)  
 [^16]: "Messtechnik und Sensorik" Jörg Böttcher; zuletzt besucht am 2020-03-20 [online](https://messtechnik-und-sensorik.org/inhaltsverzeichnis/)    
-[^17]: "Sensoren und Sensorenschnittstellen" Felix Hüning, De Gruyter Oldenbourg, 1. Auflage, 2016  
+[^17]: "Sensoren und Sensorenschnittstellen" Felix Hüning, De Gruyter Oldenbourg, 1. Auflage, 2016 [online](https://elearning.tgm.ac.at/pluginfile.php/9775/mod_resource/content/0/SensorenSensorschnittstellen_2016.pdf)  
 [^18]: "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)      
 [^19]: "Systematische Abweichung" Wikipedia; zuletzt besucht am 2023-02-21 [online](https://de.wikipedia.org/wiki/Systematische_Abweichung)   
 [^20]: "Störsignal" Wikipedia; zuletzt besucht am 2023-02-21 [online](https://de.wikipedia.org/wiki/St%C3%B6rsignal)   

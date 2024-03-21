@@ -59,18 +59,18 @@ Gruppengrösse: 1 Person
 - [ ] Ausarbeitung der Fragestellungen auch für die erweiterten Anforderungen
 
 ## Quellen
-[^1] "Arduino Web Editor Plugin" Arduino Create; zuletzt besucht am 2019-10-17 [online](https://create.arduino.cc/getting-started/plugin)  
-[^2] "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
-[^3] "Arduino Mega 2560" Arduino Shop; zuletzt besucht am 2019-10-17 [online](https://store.arduino.cc/arduino-mega-2560-rev3)  
-[^4] "Datasheet ATmega2560" Atmel [online](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)   
-[^5] "Servo ansteuern" starthardware.org; zuletzt besucht 2021-02-27; [online](https://starthardware.org/servo/)  
-[^6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=1939)  
-[^7] "Fritzing 0.9.4 Download" (sponsored by MBorko) [online](https://fritzing.org/download/0.9.4/windows-64bit/fritzing.0.9.4.64.pc_and_dll.zip)     
-[^8] "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)   
-[^9] "Regelgröße" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Regelgr%C3%B6%C3%9Fe)  
-[^10] "Pulsdauermodulation" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Pulsdauermodulation)  
-[^11] "Servomotor" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Servomotor)  
-[^12] "Elektronik für Informatiker" Dr. Manfred Rost, Dr. Sandro Wefel; zuletzt besucht 2023-03-03; [online](https://elearning.tgm.ac.at/pluginfile.php/73626/mod_resource/content/0/ElektronikFuerInformatiker_2013.pdf) [Kapitel 9]  
+[^1]: "Arduino Web Editor Plugin" Arduino Create; zuletzt besucht am 2019-10-17 [online](https://create.arduino.cc/getting-started/plugin)  
+[^2]: "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
+[^3]: "Arduino Mega 2560" Arduino Shop; zuletzt besucht am 2019-10-17 [online](https://store.arduino.cc/arduino-mega-2560-rev3)  
+[^4]: "Datasheet ATmega2560" Atmel [online](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)   
+[^5]: "Servo ansteuern" starthardware.org; zuletzt besucht 2021-02-27; [online](https://starthardware.org/servo/)  
+[^6]: "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=1939)  
+[^7]: "Fritzing 0.9.4 Download" (sponsored by MBorko) [online](https://fritzing.org/download/0.9.4/windows-64bit/fritzing.0.9.4.64.pc_and_dll.zip)     
+[^8]: "NodeMCU ESP32" joy-it.net; zuletzt besucht am 2022-13-02 [online](https://joy-it.net/de/products/SBC-NodeMCU-ESP32)   
+[^9]: "Regelgröße" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Regelgr%C3%B6%C3%9Fe)  
+[^10]: "Pulsdauermodulation" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Pulsdauermodulation)  
+[^11]: "Servomotor" wikipedia; zuletzt besucht 2023-03-03; [online](https://de.wikipedia.org/wiki/Servomotor)  
+[^12]: "Elektronik für Informatiker" Dr. Manfred Rost, Dr. Sandro Wefel; zuletzt besucht 2023-03-03; [online](https://elearning.tgm.ac.at/pluginfile.php/73626/mod_resource/content/0/ElektronikFuerInformatiker_2013.pdf) [Kapitel 9]  
 
 
 ---

@@ -31,16 +31,15 @@ Das Ziel dieser Übung ist die Anpassung von containerbasierten Virtualisierungs
 * **Lauffähige Docker-Umgebung**
 
 ## Installation
-Um diese Übung in der vorgegebenen Zeit umsetzen zu können, ist die erfolgreiche Installation der _**Docker-Engine**_ vor dem Antritt zur Laborübung verpflichtend. Es wird empfohlen, [Docker Desktop](https://www.docker.com/products/docker-desktop/) am Host System zu installieren.
-
-Realitätsnäher wäre es diese auf einem Server (VM) diese in einer Linux-Umgebung auszuführen. Die Anleitungen sind auf der offiziellen Docker Seite zu finden: https://docs.docker.com/engine/install/
+Um diese Übung in der vorgegebenen Zeit umsetzen zu können, ist die erfolgreiche Installation der _**Docker-Engine**_ vor dem Antritt zur Laborübung verpflichtend. Es wird empfohlen, [Docker Desktop](https://www.docker.com/products/docker-desktop/) am Host System zu installieren. Realitätsnäher wäre es diese auf einem Server (VM) diese in einer Linux-Umgebung auszuführen. Für diese Übung ist das nicht notwendig, sondern Docker am nativen Betriebssystem zu verwenden.
+Die Anleitungen sind auf der offiziellen Docker Seite zu finden: https://docs.docker.com/engine/install/
 
 Die erfolgreiche Installation kann auch mit dem Aufruf von `docker run docker/whalesay cowsay boo` getestet werden.
 
 ## Detaillierte Aufgabenbeschreibung
 ### 1. Der erste Container
 Container sind Instanzen von Docker-Images, die mit dem Befehl `docker run` ausgeführt werden können. Der Hauptzweck von Docker ist das Ausführen von Containern.
-Um die Berechtigung zu haben, mit den Docker-Befehlen zu hantieren, sollte der Benutzer in der Gruppe `docker` hinzugefügt werden, dies kann durch das Kommando `sudo usermod -aG docker $USER` vollzogen werden (im Anschluss ist ein Logout/Session-Refresh notwendig). Dies erübrigt dann die dauernde Voranstellung des `sudo` Kommandos! (Unter Windows nicht notwendig)
+Um die Berechtigung zu haben, mit den Docker-Befehlen zu hantieren, sollte der Benutzer in der Gruppe `docker` hinzugefügt werden, dies kann durch das Kommando `sudo usermod -aG docker $USER` vollzogen werden (im Anschluss ist ein Logout/Session-Refresh notwendig). Dies erübrigt dann die dauernde Voranstellung des `sudo` Kommandos! (Unter Windows und macOS nicht notwendig, kann übersprungen werden).
 
 Um daher mit dem _Docker client_ Images und Container steuern zu können, muss der _Docker daemon_ als System-Dienst aktiviert und gestartet werden! In Debian-basierten Systemen kann dies mit `systemctl status docker.service` überprüft werden. Wie funktioniert das unter Windows? Wie kann dann der Dienst gestartet bzw. gestoppt werden?
 

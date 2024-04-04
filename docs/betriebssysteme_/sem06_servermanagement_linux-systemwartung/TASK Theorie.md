@@ -37,7 +37,7 @@ hide:
 Die einzelnen Teile sind der Reihe nach zu lösen, da gewisse Abhängigkeiten in der Umsetzung als auch in der Komplexität gegeben sind. Meist ist die Verwendung der Manpage ausreichend. Die ausgeführten Befehle sind entsprechend zu dokumentieren und auch verwendete Hilfsmittel sind als Quellen anzugeben. Es bietet sich an, die Dokumentation in Markdown zu verfassen und diese auch für den Eigengebrauch abzulegen. Screenshots sind nur bedingt hilfreich, wenn man Befehle oder Quellcode schnell wieder verwenden möchte.
 
 ## Quellen
-[^1]: M. Dancuk, „28 Netstat Commands {A Comprehensive List With Examples}“, Knowledge Base by phoenixNAP, 28. Jänner 2021. [online]https://phoenixnap.com/kb/netstat-command) (zugegriffen 19. März 2023).   
+[^1]: M. Dancuk, „28 Netstat Commands {A Comprehensive List With Examples}“, Knowledge Base by phoenixNAP, 28. Jänner 2021. [online](https://phoenixnap.com/kb/netstat-command) (zugegriffen 19. März 2023).   
 [^2]: „Automatische Updates (Debian) – MattWiki“. [online](https://otremba.net/wiki/Automatische_Updates_(Debian)) (zugegriffen 19. März 2023).   
 [^3]: „Crontab Explained in Linux [With Examples]“, Linux Handbook, 26. November 2019. [online](https://linuxhandbook.com/crontab/) (zugegriffen 19. März 2023).   
 [^4]: „Crontab Generator - Generate crontab syntax“. [online](https://crontab-generator.org/) (zugegriffen 23. April 2023).   
@@ -58,14 +58,14 @@ Die einzelnen Teile sind der Reihe nach zu lösen, da gewisse Abhängigkeiten in
 [^19]:  vpandey devbot5S arvindpdmn, „Linux Signals“, Devopedia, 9. Juli 2019. [online](https://devopedia.org/linux-signals) (zugegriffen 19. März 2023).   
 [^20]: „Linux Signals Help“. [online](https://www.computerhope.com/unix/signals.htm) (zugegriffen 19. März 2023).   
 [^21]: „LinuxCommand.org: Learn The Linux Command Line. Write Shell Scripts.“ [online](https://linuxcommand.org/) (zugegriffen 20. März 2023).   
-[^22]: „proc(5) - Linux manual page“. [online](https://man7.org/linux/man-pages/man5/proc.5.html (zugegriffen 23. April 2023).   
-[^23]: „Releases - Ubuntu Wiki“. [online](https://wiki.ubuntu.com/Releases (zugegriffen 22. März 2023).   
+[^22]: „proc(5) - Linux manual page“. [online](https://man7.org/linux/man-pages/man5/proc.5.html) (zugegriffen 23. April 2023).   
+[^23]: „Releases - Ubuntu Wiki“. [online](https://wiki.ubuntu.com/Releases) (zugegriffen 22. März 2023).   
 [^24]: „Releases › Ubuntu › Wiki › ubuntuusers.de“. [online](https://wiki.ubuntuusers.de/Ubuntu/Releases/) (zugegriffen 22. März 2023).   
 [^25]: P. Brown, „Setting Up a Timer with systemd in Linux“, Linux.com, 23. Juli 2018. [online](https://www.linux.com/topic/desktop/setting-timer-systemd-linux/) (zugegriffen 19. März 2023).   
 [^26]: „signal(7) - Linux manual page“. [online](https://www.man7.org/linux/man-pages/man7/signal.7.html) (zugegriffen 19. März 2023).   
 [^27]: „SSH/OpenSSH/PortForwarding - Community Help Wiki“. [online](https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding) (zugegriffen 23. April 2023).   
 [^28]: „sysfs(5) - Linux manual page“. [online](https://man7.org/linux/man-pages/man5/sysfs.5.html) (zugegriffen 23. April 2023).   
-[^29]: [online](https://www.commandlinux.com, „systemctl linux command man page“, www.commandlinux.com. [online](https://www.commandlinux.com/man-page/man1/systemctl.1.html) (zugegriffen 19. März 2023).   
+[^29]: commandlinux.com, „systemctl linux command man page“, www.commandlinux.com. [online](https://www.commandlinux.com/man-page/man1/systemctl.1.html) (zugegriffen 19. März 2023).   
 [^30]: „systemd/Timers - ArchWiki“. [online](https://wiki.archlinux.org/title/systemd/Timers) (zugegriffen 19. März 2023).   
 [^31]: W. Shotts, „The Linux Command Line“. [online](https://deac-ams.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf)   
 [^32]: S. Simic, „Ubuntu 16.04 End of Life (EOL) in April 2021“, Knowledge Base by phoenixNAP, 21. Oktober 2020. [online](https://phoenixnap.com/kb/ubuntu-16-04-end-of-life) (zugegriffen 23. April 2023).   

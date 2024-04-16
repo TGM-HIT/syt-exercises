@@ -133,7 +133,7 @@ Der größte Vorteil des Compose Tools ist jedoch die Verbindung von mehreren Co
 
 Öffne das Frontend von Uptime Kuma und erstelle einen Account. Erstelle einen Monitor für https://elearning.tgm.ac.at/ und einen weiteren für deinen Homepage Container (Add New Monior --> Type: Ping --> Hostname: `homepage`). Eventuell schaffst du es auch Notificationen zu senden falls ein Service down geht.
 
-Öffne auch das Frontend von Homepage. Dieses lässt sich anders konfigurieren: im Ordner wo auch das docker-compose.yml liegt wurden zwei neue Ordner erstellt. Öffne die `Serives.yml` im Homepage Ordner. Füge Uptime-Kuma mit `http://localhost:3001/` hinzu. Lade das Frontend von Homepage neu um den neuen Eintrag zu sehen.
+Öffne auch das Frontend von Homepage. Dieses lässt sich anders konfigurieren: im Ordner wo auch das docker-compose.yml liegt wurden zwei neue Ordner erstellt. Öffne die `Servies.yml` im Homepage Ordner. Füge Uptime-Kuma mit `http://localhost:3001/` hinzu. Lade das Frontend von Homepage neu um den neuen Eintrag zu sehen.
 
 Was lässt sich noch alles mit Uptime-Kuma und Homepage überwachen?
 

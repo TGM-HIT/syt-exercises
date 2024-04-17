@@ -36,6 +36,8 @@ hide:
 ## Abgabe
 Die einzelnen Teile sind der Reihe nach zu lösen, da gewisse Abhängigkeiten in der Umsetzung als auch in der Komplexität gegeben sind. Meist ist die Verwendung der Manpage ausreichend. Die ausgeführten Befehle sind entsprechend zu dokumentieren und auch verwendete Hilfsmittel sind als Quellen anzugeben. Es bietet sich an, die Dokumentation in Markdown zu verfassen und diese auch für den Eigengebrauch abzulegen. Screenshots sind nur bedingt hilfreich, wenn man Befehle oder Quellcode schnell wieder verwenden möchte.
 
+![linux roulette](commitstrip.jpeg)
+
 ## Quellen
 [^1]: M. Dancuk, „28 Netstat Commands {A Comprehensive List With Examples}“, Knowledge Base by phoenixNAP, 28. Jänner 2021. [online](https://phoenixnap.com/kb/netstat-command) (zugegriffen 19. März 2023).   
 [^2]: „Automatische Updates (Debian) – MattWiki“. [online](https://otremba.net/wiki/Automatische_Updates_(Debian)) (zugegriffen 19. März 2023).   

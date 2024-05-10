@@ -107,6 +107,7 @@ Finde heraus, was die Schritte 1. bis 4. zu bedeuten haben, und was da genau pas
 * [18] "Demystifying ENTRYPOINT and CMD in Docker" aws.amazon.com; zuletzt besucht 2023-03-14; [online](https://aws.amazon.com/blogs/opensource/demystifying-entrypoint-cmd-docker/)
 * [19] "dominikhoebert/Docker-ENTRYPOINT-CMD-Container-Test" Dominik Höbert; github.com; zuletzt besucht 2023-04-26; [online](https://github.com/dominikhoebert/Docker-ENTRYPOINT-CMD-Container-Test)
 * [20] "Docker Showcase" Dominik Höbert; SYT Theorie; [online](https://elearning.tgm.ac.at/mod/page/view.php?id=51254)
+* [21] "docker-projects" - Github; Dominik Höbert; [Online](https://github.com/dominikhoebert/docker-projects) Zugegriffen: 2024-05-10
 
 ---
 **Version** *20230426v1*

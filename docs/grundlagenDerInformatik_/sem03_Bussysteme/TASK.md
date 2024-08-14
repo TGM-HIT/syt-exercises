@@ -30,12 +30,19 @@ Den Aufbau einer CPU kennenlernen, besonders die ALU und das Bussystem
 
 Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu verschriftlichen.
 
-Simuliere einen Halb- und Volladdierer in einer Simulationsumgebung deiner Wahl (Empfehlung: [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim)).
+!!! note "2AB"
+
+    Erweitere nun im [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim) die ALU und simuliere eine einfache CPU. [Lösungen](https://tgm-hit.github.io/syt-exercises/grundlagenDerInformatik_/sem03_digisim/TASK/)
+
+!!! note "2CD"
+
+    Erweitere nun im [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim) die ALU und füge eine Multiplizier Funktion hinzu [Lösungen](https://tgm-hit.github.io/syt-exercises/grundlagenDerInformatik_/sem03_digisim/TASK/)
 
 ## Fragestellungen
 
-* Was ist der Unterschied zwischen dem Halb- und Volladdierer? Was ist das Carry Bit?
-* Wie funktionieren diese?
+* Was für Komponenten hat diese CPU? Wie funktionieren diese?
+* Ekläre die funktionsweiße dieser CPU. Wie ist diese zu verwenden?
+* Verwende die CPU um 7+2 zu berechnen und subtrahiere dann 2 vom Ergebnis.
 * Was sind North- und Southbridge? Was sind die Unterschiede?
 * Beschreibe ein beispielhaftes komplettes Bussystem im Rechner vollständig.
 
@@ -70,4 +77,4 @@ Gruppengröße: 1 Person
 
 ---
 
-**Version**  *20240129v2*
+**Version**  *20240814v3*

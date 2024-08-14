@@ -33,7 +33,7 @@ Finde und simuliere noch weitere Transistor Grundschaltungen (UND, ODER, NICHT).
 
 **Die simulierte Schaltung soll mit den vorhanden Bauteilen im Labor aufgebaut werden.** (Melde dich für die Bauteile bei deiner Lehrperson.) Dabei soll der Strom bei den beiden Leuchtdioden in den jeweiligen Zuständen gemessen werden. Die Messschaltung soll dabei korrekt in der Dokumentation festgehalten werden.
 
-Um zu verstehen wie ein OPV Signale verstärken kann, müssen wir uns noch einmal den Transistor genauer ansehen. Dieser kann nämlich nicht nur als Schalter verwendet werden, sondern auch zur Verstärkung. Dazu soll eine Transistor Verstärkerschaltung, ähnlich wie mit dem OPV, mit Phototransistor simuliert und aufgebaut werden. Dazu findest du im [Franzis Elektronik Handbuch](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513) den Dämmerungsschalter. Zeige auch hier wieder die Verstärkung mittels Voltmeters. Wie kann der Schwellwert der LED eingestellt werden?
+Um zu verstehen wie ein OPV Signale verstärken kann, müssen wir uns noch einmal den Transistor genauer ansehen. Dieser kann nämlich nicht nur als Schalter verwendet werden, sondern auch zur Verstärkung. Dazu soll eine Transistor Verstärkerschaltung, ähnlich wie mit dem OPV, simuliert und aufgebaut werden. Wähle aus *Grundkurs Elektronik* eine Transistorübung aus: zur Auswahl stehen Übungen 6-9. Baue sie auf und dokumentiere sie. Zeige auch hier wieder die Verstärkung mittels Voltmeters.
 
 ## Fragestellungen
 
@@ -41,6 +41,7 @@ Um zu verstehen wie ein OPV Signale verstärken kann, müssen wir uns noch einma
 * Welche Einschränkungen sind dabei zu beachten?
 * Wie funktioniert die Verstärkung von Signalen mittels Transistor?
 * Wie hoch ist der Verstärkungsfaktor eines Transistors, und wie berechnet sich dieser?
+* Erkläre deine aufgebaute Schaltung.
 
 ## Abgabe
 
@@ -73,4 +74,4 @@ Gruppengrösse: 1 Person
 
 ---
 
-**Version**  *20240129v2*
+**Version**  *20240814v3*

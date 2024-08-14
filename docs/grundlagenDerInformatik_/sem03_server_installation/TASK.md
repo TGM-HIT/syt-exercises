@@ -54,14 +54,9 @@ Für eine sicherere Verwendung von SSH soll der lokale SSH Key installiert werde
 ``` bash title="Wichtigesten Behele"
 ssh-keygen # ssh Key erzeugen 3x Enter für Standartwerte
 ssh-copy-id username@vm_ip # kopiert den Key in die VM; fragt nach Passwort; Windows Befehl siehe unten
-
 ```
 
-
-
-Windows: ssh-copy-id Ersatz:
-
-```powershell
+``` powershell title="Windows: ssh-copy-id Ersatz"
 type $env:USERPROFILE\.ssh\id_rsa.pub | ssh vm_username@vm_ip "cat >> .ssh/authorized_keys"
 ```
 

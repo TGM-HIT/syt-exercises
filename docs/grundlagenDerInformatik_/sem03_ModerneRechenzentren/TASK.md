@@ -5,6 +5,10 @@ hide:
 
 # "*Moderne Rechenzentren*" - Taskdescription
 
+!!! warning
+
+    Diese Übung kann ausnahmsweiße nur im Wintersemester abgegeben werden.
+
 ## Einführung
 
 Über die Zeit wurden immer bessere Technologien entwickelt um Daten zu speichern. Diese Technologien werden nicht nur zuhause sondern auch in Rechenzentren verwendet.
@@ -71,4 +75,4 @@ Gruppengröße: 1 Person
 
 ---
 
-**Version**  *20240129v2*
+**Version**  *20240814v3*

@@ -107,6 +107,8 @@ Gruppengröße: 1 Person
 [3] „itzg/minecraft-server - Docker Image | Docker Hub“. Zugegriffen: 30. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/r/itzg/minecraft-server/  
 [4] „Minecraft Server on Docker (Java Edition)“. Zugegriffen: 30. Dezember 2023. [Online]. Verfügbar unter: https://docker-minecraft-server.readthedocs.io/en/latest/#using-docker-compose  
 [5] „ubuntu/nginx - Docker Image“. Zugegriffen: 29. Dezember 2023. [Online]. Verfügbar unter: https://hub.docker.com/r/ubuntu/nginx  
+[6] "docker-projects" - Github; Dominik Höbert; [Online](https://github.com/dominikhoebert/docker-projects) Zugegriffen: 2024-05-10  
+[7] "Docker Showcase" Dominik Höbert; SYT Theorie; [online](https://elearning.tgm.ac.at/mod/page/view.php?id=51254)
 
 
 ---

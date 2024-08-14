@@ -97,6 +97,7 @@ Der Docker client ist sehr mächtig und hilft bei allen notwendigen administrati
 Docker Compose ist ein Tool zum Definieren und Ausführen von Docker-Anwendungen mit mehreren Containern. Mit Compose kommt eine YAML-Datei zum Einsatz, um die Dienste der kompletten Anwendung zu konfigurieren. Anschließend erstellt und startet man mit einem einzigen Befehl alle Dienste aus der Konfiguration, wie im letzten Semester in INSY mit MariaDB und Adminer geschehen.
 
 [Uptime Kuma](https://github.com/louislam/uptime-kuma) ist ein einfaches Tool um zu überwachen, ob Webseiten oder Services online sind.
+Mit [Homepage](https://gethomepage.dev) lässt sich ein ansprechendes Dashboard und Startseite mit Links erstellen. Auch der Status von vielen Services lässt sich anzeigen.
 
 ```yaml
 version: '3.3'
@@ -107,12 +108,22 @@ services:
     container_name: uptime-kuma
     volumes:
       - ./uptime-kuma-data:/app/data
+      - /var/run/docker.sock:/var/run/docker.sock
     ports:
       - 3001:3001
     restart: always
+
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - 3045:3000
+    volumes:
+      - ./homepage-config:/app/config # Make sure your local config directory exists
+      - /var/run/docker.sock:/var/run/docker.sock # (optional) For docker integrations
 ```
 
-Wenn dieses File als `docker-compose.yml` abgespeichert wird, muss bei allen Aufrufen das Datei-Argument nicht angehängt werden. Die Datei sollte ihren eigenen Ordner bekommen. Dieser sollte auch nicht in einem Cloud Speicher Ordner (OneDrive, Dropbox, ...) abgelegt werden, da hier ein Volume verwendet wird. Wenn der Installations-Prozess erfolgreich abgeschlossen wurde, ist das Tool docker-compose lauffähig und kann nun Uptime Kuma als Container und komplettes Service gestartet werden. Dies kann durch `docker-compose up -d` bewerkstelligt werden. Starte den Container mit dem compose Befehl.
+Wenn dieses File als `docker-compose.yml` abgespeichert wird, muss bei allen Aufrufen das Datei-Argument nicht angehängt werden. Die Datei sollte ihren eigenen Ordner bekommen. Dieser sollte auch nicht in einem Cloud Speicher Ordner (OneDrive, Dropbox, ...) abgelegt werden, da hier Volumes verwendet werden. Wenn der Installations-Prozess erfolgreich abgeschlossen wurde, ist das Tool docker-compose lauffähig und kann nun Uptime Kuma und Homepage als Container und komplette Services gestartet werden. Dies kann durch `docker-compose up -d` bewerkstelligt werden. Starte die Container mit dem compose Befehl.
 
 Du wirst einen Error beim Starten erhalten (wenn nicht, ist schon vorher etwas nicht nach Plan verlaufen.). Wieso? Wie ist dieser zu lösen? (Ließ die Error Message genau)
 
@@ -120,7 +131,11 @@ Welche zusätzlichen Konfigurationen sind nun in die YAML-Datei aufgenommen word
 
 Der größte Vorteil des Compose Tools ist jedoch die Verbindung von mehreren Containern zu einer Applikation, ob eben mit Volumes, dem Netzwerk aber auch von der Environment-Konfiguration. Der beste Punkt ist jedoch die leichte Start-, Stop- und Update-Möglichkeit. Wie werden nun alle Container in einem YAML mit nur einem Befehl gestoppt, upgedatet bzw. gelöscht?
 
-Öffne das Frontend von Uptime Kuma und erstelle einen Account. Erstelle einen Monitor für https://elearning.tgm.ac.at/ und einen weiteren für deinen Ghost Container. Eventuell schaffst du es auch Notificationen zu senden falls eines Webseiten down geht.
+Öffne das Frontend von Uptime Kuma und erstelle einen Account. Erstelle einen Monitor für https://elearning.tgm.ac.at/ und einen weiteren für deinen Homepage Container (Add New Monior --> Type: Ping --> Hostname: `homepage`). Eventuell schaffst du es auch Notificationen zu senden falls ein Service down geht.
+
+Öffne auch das Frontend von Homepage. Dieses lässt sich anders konfigurieren: im Ordner wo auch das docker-compose.yml liegt wurden zwei neue Ordner erstellt. Öffne die `Servies.yml` im Homepage Ordner. Füge Uptime-Kuma mit `http://localhost:3001/` hinzu. Lade das Frontend von Homepage neu um den neuen Eintrag zu sehen.
+
+Was lässt sich noch alles mit Uptime-Kuma und Homepage überwachen?
 
 ### 6. Eigene Images erstellen und deployen
 Wie sicher schon bekannt ist, kann ein Image nur sehr schwer im nachhinein verändert werden. Um eigene Anpassungen durchzuführen, bietet sich an, sein eigenes Image zu erstellen. Hierfür ist das `Dockerfile` notwendig:
@@ -180,4 +195,4 @@ Gruppengrösse: 1 Person
 * "Docker Tutorial" tutorialspoint - simply easy learning; zuletzt besucht 2023-02-14; [online](https://www.tutorialspoint.com/docker/index.htm)
 
 ---
-**Version** *20240324v3*
+**Version** *20240404v4*

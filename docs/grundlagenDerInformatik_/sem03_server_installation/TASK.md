@@ -31,7 +31,7 @@ Diese VM wird in den kommenden Semester (SYT4-6) für Übungen benötigt.
 
 #### VM Installation
 
-Installiere [Ubuntu Server](https://ubuntu.com/download/server) in [VMware](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=16a020b5-ed3c-df11-b4ab-0030487d8897&ws=2bd99bb6-fa8c-de11-8cd1-0030487d8897&vsro=8) ([Virtualbox](https://www.virtualbox.org/) falls keine VMware Lizenz vorhanden ist). Stelle sicher, dass der SSH Server mitinstalliert wird.
+Installiere [Ubuntu Server](https://ubuntu.com/download/server) in [VMware](https://www.mikeroysoft.com/post/download-fusion-ws/). Stelle sicher, dass der SSH Server mitinstalliert wird.
 
 Dokumentiere während der Installation den Entscheidungsprozess und erkläre diesen kurz mit eigenen Worten.
 
@@ -50,6 +50,8 @@ ssh vm_username@vm_ip
 Für eine sicherere Verwendung von SSH soll der lokale SSH Key installiert werden.
 
 [Anleitung](https://www.howtogeek.com/424510/how-to-create-and-install-ssh-keys-from-the-linux-shell/)
+
+
 
 Windows: ssh-copy-id Ersatz:
 

@@ -31,13 +31,13 @@ Erstelle ein Graphiz zur Theorie von Halbleitern, Dioden, LEDs und Transistoren.
 
 #### Übung 1
 
-Grundkurs Elektronik Übung 5
+Baue und dokumentiere aus *Grundkurs Elektronik* Übung 5 *Berührungssensor* (Seite 16).
 
 Versuche die Schaltung zu verstehen. Was ist ihre Aufgabe? Wie könnte sie heißen?
 
 #### Übung 2
 
-Grundkurs Elektronik Übung 10
+Baue und dokumentiere aus *Grundkurs Elektronik* Übung 10 *An und Aus* (Seite 22). Hole dir dazu richtige Buttons von deiner Lehrperson.
 
 Beschreibe die grundsätzliche Idee hinter dieser Schaltung. Wann fließt wo ein Strom?
 
@@ -59,6 +59,8 @@ Du kannst für die Simuation auch [Tinkercad](https://www.tinkercad.com/) verwen
 * Erkläre die Funktionsweise von Transistoren am Ersatzschaltbild mit zwei Dioden. 
 * Erkläre den NPN Übergang.
 * Erkläre die simulierten und aufgebauten Schaltungen.
+* Was ist eine Darlington Schaltung?
+* Warum ist die Schaltung aus Übung 2 so wichtig?
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.

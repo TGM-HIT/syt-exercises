@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*RAID*" - Taskdescription
 
 ## Einführung

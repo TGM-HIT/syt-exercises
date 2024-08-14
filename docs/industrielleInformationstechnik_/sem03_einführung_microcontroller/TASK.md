@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Einführung in Mikrocontroller" - Taskdescription
 
 ## Einführung
@@ -16,9 +21,12 @@ Das Ziel ist es den Aufbau von Mikrocontrollern zu verstehen und diese bei versc
 * Kenntnis einer Programmiersprache (z.B. Java)
 
 ## Detaillierte Aufgabenbeschreibung
+
+### [ESP32 Installation](https://elearning.tgm.ac.at/mod/page/view.php?id=90535)
+
 #### Übung 1: Blink
 
-Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](https://elearning.tgm.ac.at/course/view.php?id=199#section-5). 
+Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](https://elearning.tgm.ac.at/mod/page/view.php?id=90535). 
 
 Als Basis kann das Beispiel aus den Arduino Tutorials herangezogen werden [6]. Wenn mit dem Online-Editor gearbeitet wird, muss das Example bei den Basics ausgewählt werden:
 
@@ -69,6 +77,10 @@ Gruppengröße: 1 Person
 - [ ] Übung 3: Dimmen läuft auf eigener Hardware
 - [ ] Übung 4: Button läuft auf eigener Hardware
 
+### Classroom Repository
+[Hier](https://github.com/500) befindet sich das Abgabe-Repository zum Entwickeln und Commiten der Lösung.
+Dies ist optional und für geübte Entwickler gedacht.
+
 ## Quellen
 [1] "Mikrocontroller und Mikroprozessoren", T. Ungerer und U. Brinkschulte, 3. Auflage Berlin Heidelberg New York: Springer-Verlag, 2010.  
 [2] "What is a Microcontroller?" Core Electronics Video, 2017-02-17; zuletzt besucht am 2019-10-17 [online](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)  
@@ -90,4 +102,4 @@ Gruppengröße: 1 Person
 
 
 ---
-**Version** *20231014v2*
+**Version** *20231204v3*

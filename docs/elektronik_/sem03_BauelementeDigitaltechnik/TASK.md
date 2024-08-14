@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Bauelemente der Digitaltechnik" - Taskdescription
 
 ## Einführung

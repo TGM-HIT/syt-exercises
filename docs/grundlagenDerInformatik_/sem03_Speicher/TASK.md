@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Speicher*" - Taskdescription
 
 ## Einführung

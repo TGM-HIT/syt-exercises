@@ -1,6 +1,6 @@
 # Informationen 2cdHIT
 
-Willkommen im Systemtechnik Kurs für das Wintersemester 2023 im 2.Jahrgang! Hier einige grundlegenden Informationen zu den einzelnen Kompetenzen und der Abwicklung.
+Willkommen im Systemtechnik Kurs für das Wintersemester 2024 im 2.Jahrgang! Hier einige grundlegenden Informationen zu den einzelnen Kompetenzen und der Abwicklung.
 
 ## Moodle Test
 
@@ -15,7 +15,7 @@ Versäumte Inhalte aufgrund von Krankheit oder dergleichen, sind eigenständig u
 Für eine bessere Bewertung ist ein Abgabegespräch über ein selbst gewählte erweiterte Aufgabe bei den jeweiligen Lehrkräften abzulegen. Dokumentationen sind laut Dokumentationsrichtlinie in Markdown durchzuführen (Markdown Einführung). Das Abgabegespräch soll sicherstellen, dass alle Kompetenzen selbständig erbracht wurden und mögliche Missverständnisse bei der Wissensaufnahme ausschließen. **An den Abgabegesprächen kann nur teilgenommen werden wenn die Abgabe bereits hochgeladen ist!**
 
 Ein Abgabegespräch nur mehr bei freien Zeitslots und einer Absprache mit den jeweiligen Lehrpersonen möglich.
-Diese Maßnahme soll die Zeit-Organisation verbessern und verdeutlichen, dass eine gesammelte Abgabe am Ende des Semesters aller Beispiele nicht zielführend ist. Die letzte Möglichkeit für Abgaben ist der **x.01.2024**.
+Diese Maßnahme soll die Zeit-Organisation verbessern und verdeutlichen, dass eine gesammelte Abgabe am Ende des Semesters aller Beispiele nicht zielführend ist. Die letzte Möglichkeit für Abgaben ist der **x.01.2025**.
 
 ## Mitarbeit
 
@@ -26,7 +26,7 @@ In einer professionellen Umgebung (Schule) ist es notwendig sich professionell z
 
 ## Kompetenzüberprüfung
 
-Am Ende des Semesters (am **x.01.2024 (2C) / x.01.2024 (2D)**) wird ein letzter Ausbesserungstermin zur Verfügung stehen, der nicht erfüllte oder nicht abgegebene Kompetenzbereiche abdeckt und diese bei positivem Abschluss auch erfolgreich bestehen lässt. Bei nicht erreichen der notwendigen Punkte in einem oder beiden Bereichen ist über den jeweiligen Bereich eine Prüfung abzulegen.
+Am Ende des Semesters (am **x.01.2025**) wird ein letzter Ausbesserungstermin zur Verfügung stehen, der nicht erfüllte oder nicht abgegebene Kompetenzbereiche abdeckt und diese bei positivem Abschluss auch erfolgreich bestehen lässt. Bei nicht erreichen der notwendigen Punkte in einem oder beiden Bereichen ist über den jeweiligen Bereich eine Prüfung abzulegen.
 Module bzw. Abgaben aus dem Wintersemester können im Sommersemester auch noch bewertet werden!
 
 ## Eigene Projekte
@@ -36,7 +36,7 @@ Nach vorheriger Absprache mit der Lehrperson oder dem Systemtechnik Fachbereichs
 
 ## Notengebung
 
-Frühwarnungen werden in der Kalenderwoche **x** elektronisch ausgeteilt, wenn bis zur Woche davor (bis zum **x.x.2023**) keine oder unzureichende Leistungen erbracht wurden.
+Frühwarnungen werden in der Kalenderwoche **x** elektronisch ausgeteilt, wenn bis zur Woche davor (bis zum **x.11.2024**) keine oder unzureichende Leistungen erbracht wurden.
 Die Noten ergeben sich durch die gewissenhafte Umsetzung der Übung, der Moodle Überprüfungen, der Mitarbeit und der Performance bei den Abgabegesprächen, die sich durch die Kompetenzbewertung (EK überwiegend oder vollständig) zusammensetzt.
 
 ### Notenschlüssel
@@ -58,13 +58,13 @@ Die resultierende Note kann noch positiv oder negativ von der Mitarbeit beeinflu
 
 ## Deadlines
 
-**Frühwarnung: x.x.2023**
+**Frühwarnung: x.11.2024**
 
-**Grundkompetenzüberprüfung am: x (2C) / x (2D)**
+**Grundkompetenzüberprüfung am: x.01.2025**
 
-**Letzte Abgabe für EK Module: x**
+**Letzte Abgabe für EK Module: x.01.2025**
 
-*Version 20230904v1*
+*Version 20240814v3*
 
 <style>
 table, th, td {
@@ -73,4 +73,3 @@ table, th, td {
   padding: 6px;
 }
 </style>
-

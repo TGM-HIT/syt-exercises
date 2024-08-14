@@ -51,6 +51,8 @@ Wiederholung aus dem 1. Jahrgang, beantworte folgende Fragestellungen aus dem Ge
 
 ### Grundlegend
 
+Benantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+
 * Was ist ein RAID?
 * Welche Vorteile ergeben sich durch die Verwendung von RAID?
 * Wo werden RAIDs verwendet?
@@ -83,4 +85,4 @@ Gruppengröße: 1 Person
 * "Backing Up Your Life is THIS Easy" Linus Tech Tips; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=mpxBmxj5mP0)
 
 ---
-**Version** *20221113v1*
+**Version** *20240814v2*

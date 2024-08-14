@@ -42,8 +42,9 @@ Löse folgende Rechenaufgaben:
 
 Erfülle folgendes [Arbeitsblatt](https://github.com/TGM-HIT/syt-exercises/raw/main/docs/grundlagenDerInformatik_/sem03_Speicher/%C3%9Cbung%20-%20Speicher%20einordnen.docx).
 
-
 ## Fragestellungen
+
+Benantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "Speicherhierarchie"; Baun, C. (2017). *Betriebssysteme kompakt* (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11035/mod_folder/content/0/Speicherhierarchie.pdf)
 
 * Was sagt die Speicherpyramide aus?
 * Untersuchen Sie die Speicherpyramide in Bezug auf Flüchtigkeit, Zugriffszeit, Kapazität, Kosten und Lebensdauer.

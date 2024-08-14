@@ -34,7 +34,7 @@ Nachdem du die Fragestellungen bearbeitet hast, erfülle folgende Aufgabenstellu
 
 Addiere 27 zu deiner Katalognummer. Wandle diese Nummer in Binär um. Subtrahiere 22<sub>10</sub>/10110<sub>2</sub> von dieser Zahl.
 
-Mache dich mit dem [CPU Simulator](https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/cpusim/index.html) vertraut. Die Kästchen mit links den Pfeilen nach oben und unten sind Register in welche du Werte einstellen kannst. Im gelben Register der ALU kannst du die Operation einstellen. Versuche zwei Zahlen aus den Registern R0 und R1 voneinander zu subtrahieren.
+Verwende nun den [Digital Logic Simulator](https://sebastian.itch.io/digital-logic-sim) um eine ALU aufzubauen. [Lösungen](https://tgm-hit.github.io/syt-exercises/grundlagenDerInformatik_/sem03_digisim/TASK/)
 
 ## Fragestellungen
 
@@ -49,6 +49,8 @@ Mache dich mit dem [CPU Simulator](https://www.mathematik.uni-marburg.de/~thorma
 * Was sind die Aufgaben der einzelnen Bestandteile?
 * Wie lautet der Befehlsablauf?
 * Was sind typische Befehle die die ALU ausführen kann?
+* Erkläre aus welchen Komponenten die im Digital Logic Sim erstellte ALU besteht?
+* Wie bedient man diese ALU?
 * Wie werden im Dualsystem Zahlen addiert/subtrahiert?
 
 ## Abgabe
@@ -76,4 +78,4 @@ Gruppengröße: 1 Person
 * "Subtraktion im Dualsystem"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/11033/mod_folder/content/0/Subtraktion%20im%20Dualsystem.pptx)
 
 ---
-**Version**  *20230725v1*
+**Version**  *20240814v2*

@@ -37,5 +37,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - footnotes
+  - admonition
+  - pymdownx.details
 
 edit_uri: "edit/main/docs/"

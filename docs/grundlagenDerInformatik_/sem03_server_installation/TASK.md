@@ -51,6 +51,12 @@ Für eine sicherere Verwendung von SSH soll der lokale SSH Key installiert werde
 
 [Anleitung](https://www.howtogeek.com/424510/how-to-create-and-install-ssh-keys-from-the-linux-shell/)
 
+``` bash title="Wichtigesten Behele"
+ssh-keygen # ssh Key erzeugen 3x Enter für Standartwerte
+ssh-copy-id username@vm_ip # kopiert den Key in die VM; fragt nach Passwort; Windows Befehl siehe unten
+
+```
+
 
 
 Windows: ssh-copy-id Ersatz:

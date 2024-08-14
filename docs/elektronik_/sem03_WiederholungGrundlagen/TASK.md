@@ -36,7 +36,7 @@ Die Aufgabenstellung beinhaltet alle wichtigen Grundkompetenzen des letzten Schu
 #### Übung 1: Widerstände
 
 Realisiere folgende Schaltung: 
-Die Gesamtgleichspannung beträgt 12 V. Es sollen drei Widerstände der Reihe E12 in Serie geschalten werden. Am ersten Widerstand soll die Hälfte der Gesamtspannung abfallen. Am zweiten Widerstand sollen weitere 3/8 der Gesamtspannung abfallen. Es soll maximal ein Strom von 0,1A und minimal von 100 µA fließen.
+Die Gesamtgleichspannung beträgt 9 V. Es sollen drei Widerstände der Reihe E12 in Serie geschalten werden. Am ersten Widerstand soll die Hälfte der Gesamtspannung abfallen. Am zweiten Widerstand sollen weitere 3/8 der Gesamtspannung abfallen. Es soll maximal ein Strom von 0,1A und minimal von 100 µA fließen.
 
 Erstelle ein korrektes Schaltbild und zeichne alle Spannungen und Ströme ein. Nach der korrekten Berechnung, die nachvollziehbar sein muss, sollen die entsprechende Widerstände aus der E12 Reihe gewählt werden. Welche Abweichungen sind dabei notwendig?
 

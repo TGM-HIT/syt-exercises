@@ -31,21 +31,19 @@ Erstelle ein Graphiz zur Theorie von Halbleitern, Dioden, LEDs und Transistoren.
 
 #### Übung 1
 
-*Nachdem* du die Theoriefragen erarbeitet hast, kannst du folgende Schaltung simulieren.
-
-![schaltung umgekehrt](resources/schaltung-umgekehrt.png)
+Grundkurs Elektronik Übung 5
 
 Versuche die Schaltung zu verstehen. Was ist ihre Aufgabe? Wie könnte sie heißen?
 
 #### Übung 2
 
-Versuche nun die Schaltung so umzubauen, dass auch der zweite Zustand (LED aus) stabil ist. D.h. die LED mit einem Taster nicht nur ausgeschaltet sondern umgeschaltet werden kann. Frage deine Lehrkraft wenn du feststeckst. Wie nennt sich diese Schaltung?
+Grundkurs Elektronik Übung 10
 
 Beschreibe die grundsätzliche Idee hinter dieser Schaltung. Wann fließt wo ein Strom?
 
 Du kannst für die Simuation auch [Tinkercad](https://www.tinkercad.com/) verwenden. Um eine einfache Einführung zu bekommen, gibt es [hier](https://www.tinkercad.com/learn/circuits/lessons) drei kurze Einsteigertutorials. Wir werden diese Onlineumgebung in Zukunft oft benutzen.
 
-[Falstad Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) hat eine genauere Simulationsumgebung. Baue die oben angeführte Schaltung auch in dieser Umgebung nach und überprüfe dort die erwartete Funktionalität. Der angegebene Link hat alle notwendige Bauteile schon vorbereitet. Solltest du die fertige Schaltung speichern wollen, erstelle einen Account mit deiner Schul-Email.
+[Falstad Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) hat eine genauere Simulationsumgebung. Baue die oben angeführte Schaltung auch in dieser Umgebung nach und überprüfe dort die erwartete Funktionalität.
 
 ## Fragestellungen
 ### Grundlegend
@@ -56,10 +54,11 @@ Du kannst für die Simuation auch [Tinkercad](https://www.tinkercad.com/) verwen
 * Wieso werden Halbleiter für die Umsetzung von logischen Schaltungen eingesetzt?
 * Was ist der unterschied zwischen einer Diode und einer LED?
 * Was sagt die Kennlinie einer Diode aus?
-* Was ist die Aufgabe eines Vorwiderstandes?
+* Was ist die Aufgabe eines Vorwiderstandes? Wie berechnet man diesen?
+* Nenne noch andere Aufgaben für den Widerstand.
 * Erkläre die Funktionsweise von Transistoren am Ersatzschaltbild mit zwei Dioden. 
 * Erkläre den NPN Übergang.
-* Erkläre die simulierten und aufgebauten Schaltungen
+* Erkläre die simulierten und aufgebauten Schaltungen.
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
@@ -94,4 +93,4 @@ Gruppengrösse: 1 Person
 
 ---
 
-**Version**  *20231127v2*
+**Version**  *20240814v3*

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Backupstrategien*" - Taskdescription
 
 ## Einführung

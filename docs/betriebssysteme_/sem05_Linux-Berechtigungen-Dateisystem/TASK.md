@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Dateioperationen, Struktur und Rechteverwaltung*" - Taskdescription
 
 ## Einführung

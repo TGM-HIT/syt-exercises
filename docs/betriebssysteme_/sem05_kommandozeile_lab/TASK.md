@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "Kommandozeile" - Taskdescription
 
 ## Einführung

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Qualität von Sensordaten" - Taskdescription
 
 ## Einführung
@@ -86,3 +91,7 @@ Gruppengröße: 1 Person
 [2] "Capacitive Sensing Library" Paul Badger; zuletzt besucht am 2021-09-25 [online](https://playground.arduino.cc/Main/CapacitiveSensor/)    
 [3] "Installing Additional Arduino Libraries" Arduino Foundation; zuletzt besucht am 2021-09-25[online](https://www.arduino.cc/en/guide/libraries)    
 [4] "tone()" Arduino Foundatuion; zuletzt besucht am 2021-09-25[tone](https://www.arduino.cc/reference/de/language/functions/advanced-io/tone/)    
+
+---
+
+**Version** *20240815v2*

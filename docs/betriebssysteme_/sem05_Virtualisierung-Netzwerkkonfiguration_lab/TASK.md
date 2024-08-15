@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Netzwerkkonfiguration*" - Taskdescription
 
 ## Einführung

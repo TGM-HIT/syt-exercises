@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Netzwerke Fehlersuche*" - Taskdescription
 
 ## Einführung

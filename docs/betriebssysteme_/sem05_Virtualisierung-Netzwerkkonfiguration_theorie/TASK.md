@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Netzwerke in virtuellen Umgebungen*" - Taskdescription
 
 ## Einführung

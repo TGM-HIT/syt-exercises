@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Sensoren" - Taskdescription
 
 ## Einführung
@@ -49,3 +54,6 @@ Gruppengröße: 1 Person
 [7] "Arduino API Reference" [online](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)  
 [8] "AVR Tutorial ADC" mikrocontroller.net [online](https://www.mikrocontroller.net/articles/AVR-Tutorial:_ADC)  
 
+---
+
+**Version** *20240815v2*

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Einführung in Mikrocontroller" - Taskdescription
 
 ## Einführung

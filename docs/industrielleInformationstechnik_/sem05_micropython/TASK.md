@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Micropython" - Taskdescription
 
 ## Einführung
@@ -13,7 +18,7 @@ Micropython kennen lernen und mit C/C++ vergleichen
 * Einführung in Microcontroller
 
 ## Detaillierte Aufgabenbeschreibung
-Setzte GKL511 oder GKL521 in Micropython auf deinem ESP32 um. Verwende dazu sowohl Thonny als auch VS Code.
+Setzte GK511 oder GK521 in Micropython auf deinem ESP32 um. Verwende dazu sowohl Thonny als auch VS Code.
 
 ### Fragestellungen
 * Was ist Micropython/Circuitpython? Was ist der Unterschied?

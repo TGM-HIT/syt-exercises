@@ -1,4 +1,9 @@
-# Laborübung Microcontroller "Datenerfassung mit Sensoren und Aktoren" - Taskdescription
+---
+hide:
+  - navigation
+---
+
+# Microcontroller "Datenerfassung mit Sensoren und Aktoren" - Taskdescription
 
 ## Einführung
 Diese Aufgabe soll den Einsatz von Sensoren und analogen Bauteilen mit Mikrocontrollern verständlich machen und die Verarbeitung der Sensordaten näher bringen. Dabei soll die Qualität der gemessenen Daten analysiert werden. Diese Aufgabe soll den Einsatz von Sensoren und Aktoren mit Mikrocontrollern verständlich machen, und das Zusammenspiel der beiden näherbringen .

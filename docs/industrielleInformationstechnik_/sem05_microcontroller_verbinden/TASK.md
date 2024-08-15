@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Embedded Devices "Mikrocontroller verbinden" - Taskdescription
 
 ## Einführung

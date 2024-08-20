@@ -119,15 +119,15 @@ Gruppengrösse: 1 Person
 * "Docker Compose overview" docker docs; zuletzt besucht 2023-02-14; [online](https://docs.docker.com/compose/)
 * "Best practices for writing Dockerfiles" docker docs; zuletzt besucht 2023-02-14; [online](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
-[1] „AdGuard Home | Netzwerkweite Anwendung für alle Betriebssysteme: Windows, MacOS, Linux“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://adguard.com/de/adguard-home/overview.html
-[2] „docker-projects/reverse-proxy-exercise/compose.yml at master · dominikhoebert/docker-projects“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/dominikhoebert/docker-projects/blob/master/reverse-proxy-exercise/compose.yml
-[3] D. Höbert, dominikhoebert/docker-projects. (20. August 2024). CSS. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/dominikhoebert/docker-projects
-[4] „Networking with standalone containers“, Docker Documentation. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://docs.docker.com/engine/network/tutorials/standalone/
-[5] „Nginx Proxy Manager“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://nginxproxymanager.com/
-[6] „NGINX Reverse Proxy | NGINX Documentation“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
-[7] C. W. Server, „Reverse proxy quick-start - Caddy Documentation“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://caddyserver.com/
-[8] „Traefik Proxy Documentation - Traefik“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://doc.traefik.io/traefik/
-[9] traefik/whoami. (20. August 2024). Go. Traefik Labs. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/traefik/whoami
+[1] „AdGuard Home | Netzwerkweite Anwendung für alle Betriebssysteme: Windows, MacOS, Linux“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://adguard.com/de/adguard-home/overview.html  
+[2] „docker-projects/reverse-proxy-exercise/compose.yml at master · dominikhoebert/docker-projects“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/dominikhoebert/docker-projects/blob/master/reverse-proxy-exercise/compose.yml  
+[3] D. Höbert, dominikhoebert/docker-projects. (20. August 2024). CSS. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/dominikhoebert/docker-projects  
+[4] „Networking with standalone containers“, Docker Documentation. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://docs.docker.com/engine/network/tutorials/standalone/  
+[5] „Nginx Proxy Manager“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://nginxproxymanager.com/  
+[6] „NGINX Reverse Proxy | NGINX Documentation“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/  
+[7] C. W. Server, „Reverse proxy quick-start - Caddy Documentation“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://caddyserver.com/  
+[8] „Traefik Proxy Documentation - Traefik“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://doc.traefik.io/traefik/  
+[9] traefik/whoami. (20. August 2024). Go. Traefik Labs. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: https://github.com/traefik/whoami  
 
 
 ---

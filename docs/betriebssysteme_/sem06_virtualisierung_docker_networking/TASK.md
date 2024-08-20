@@ -56,7 +56,7 @@ Rufe die Adguard WebUI [http://localhost:3000/](http://localhost:3000/) auf. Fol
 
 4. #### DNS-Umschreibungen
 
-In der Adguard UI öffne *Filter* → DNS-Umschreibungen. Hiermit können beliebige URLs auf andere URLs oder auch auf IP Adressen umgeleitet werden. ZB. wollen wir die Adguard UI nicht mehr mit *localhost:82* aufrufen, sondern mit zB. *adguard.home*. Dazu kann eine Umschreibung von *adguard.home* auf *localhost* erstellt werden. Besser noch sollen alle URLs die auf *.home* enden auf *localhost* umgeleitet werden. Dazu kann ein Sternchen * als Platzhalter benutzt werden. _*.home_ → *localhost*.
+In der Adguard UI öffne *Filter* → DNS-Umschreibungen. Hiermit können beliebige URLs auf andere URLs oder auch auf IP Adressen umgeleitet werden. ZB. wollen wir die Adguard UI nicht mehr mit *localhost:82* aufrufen, sondern mit zB. *adguard.home*. Dazu kann eine Umschreibung von *adguard.home* auf *localhost* erstellt werden. Besser noch sollen alle URLs die auf *.home* enden auf *localhost* umgeleitet werden. Dazu kann ein Sternchen * als Platzhalter benutzt werden. *\*.home* → *localhost*.
 
 Wenn nun versucht wird Adguard über [http://adguard.home](http://adguard.home) zu erreichen wird dies noch nicht gelingen. 
 

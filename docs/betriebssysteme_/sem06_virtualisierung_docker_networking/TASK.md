@@ -70,7 +70,7 @@ Erstelle noch zwei weitere Proxy Hosts für die Nginx Proxy Manager UI und WhoAm
 
 Verwende nun einen beliebigen anderen Reverse Proxy ([Traefik](https://doc.traefik.io/traefik/), [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/), [Caddy](https://caddyserver.com/docs/quick-starts/reverse-proxy), ...) anstelle von NPM. Erkläre wie dieser zu verwenden ist. Erkläre wieso dieser besser für ein fortgeschrittenes Setup ist (Automation).
 
-Starte eine beliebige zusätzliche App/Service in einem eigenem Compose und erstelle einen Proxy Host für diesen. Auf welches Hindernis stößt du, wie ist dieses zu umgehen?
+Starte eine beliebige zusätzliche App/Service in einem eigenem Compose (von zB. [hier](https://github.com/dominikhoebert/docker-projects)) und erstelle einen Proxy Host für diesen. Auf welches Hindernis stößt du, wie ist dieses zu umgehen?
 
 Welche Schritte sind notwendig, um dieses Setup für Production abzusichern?
 

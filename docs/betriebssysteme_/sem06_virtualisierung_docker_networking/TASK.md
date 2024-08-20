@@ -41,7 +41,7 @@ Arbeite zuerst das [Networking with standalone containers](https://docs.docker.c
 docker compose 
 
 ``` title="test"
---8<-- "test.md"
+--8<-- "betriebssysteme_/sem06_virutalisierung_docker_networking/test.md"
 ```
 
 

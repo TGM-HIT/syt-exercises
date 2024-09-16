@@ -22,7 +22,7 @@ Verwendung von technischen Services unter der Prämisse, dass die Serverinstanze
 ## Voraussetzungen
 * Grundsätzliches Verständnis von Betriebssystemen
 * Lesen und Umsetzen von Installationsanleitungen
-* Download von Xubuntu 20.04 Desktop AMD64 ISO-Image (ca. 1,5 GB)
+* Linux VM ohne Desktop
 
 ## Detaillierte Aufgabenbeschreibung
 Aufbauend auf der letzten Aufgabe geht es nun an die Konfiguration der virtuellen Maschine.
@@ -33,9 +33,9 @@ Je nach Einsatzzweck der virtuellen Maschine gibt es verschiedene Varianten, wie
 
 #### VM Installation
 
-Installiere die neueste *"VMware Workstation Professional"* (nicht den *Player*) bzw. *"VMware Fusion Pro"* für Mac (Lizenz bekommst du als Email zugesandt). Beachte dabei die notwendigen Voraussetzungen! Dokumentiere die wichtigsten Schritte deiner durchgeführten Tätigkeiten (Tipp: Markdown is your friend).
+Installiere die neueste *"VMware Workstation Professional"* (nicht den *Player*) bzw. *"VMware Fusion Pro"* für Mac (Lizenz bekommst du als Email zugesandt) ([Anleitung](https://www.mikeroysoft.com/post/download-fusion-ws/)). Beachte dabei die notwendigen Voraussetzungen! Dokumentiere die wichtigsten Schritte deiner durchgeführten Tätigkeiten (Tipp: Markdown is your friend).
 
-Installiere nun Xubuntu als Gastbetriebssystem in der Desktop-Version (siehe Voraussetzungen). Finde einen Ort auf deiner Festplatte, wo du ausreichend Speicherplatz zur Verfügung hast (ca. 12 GB). Die Default-Werte, die du bei der Installation auswählen kannst sind für den Moment vollkommen ausreichend. Protokolliere die getätigten Entscheidung trotzdem.
+Installiere nun [Ubuntu Server](https://ubuntu.com/download/server) als Gastbetriebssystem (siehe Voraussetzungen). Finde einen Ort auf deiner Festplatte, wo du ausreichend Speicherplatz zur Verfügung hast (ca. 12 GB). Die Default-Werte, die du bei der Installation auswählen kannst sind für den Moment vollkommen ausreichend. Installiere auch den SSH Server Protokolliere die getätigten Entscheidung trotzdem.
 
 Überlege dir dabei, dass diese neu erstellte, virtuelle Maschine deine Arbeitsumgebung im Fach "Systemtechnik" sein wird. Wie sieht deine Backupstrategie aus? Was wenn dein Rechner nicht mehr funktioniert?
 
@@ -79,4 +79,4 @@ Gruppengrösse: 1 Person
 
 
 ---
-**Version** *20230904v5*
+**Version** *20240916v6*

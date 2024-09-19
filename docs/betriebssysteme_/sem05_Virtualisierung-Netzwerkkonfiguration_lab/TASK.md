@@ -39,7 +39,7 @@ Installiere nun [Ubuntu Server](https://ubuntu.com/download/server) als Gastbetr
 
 Überlege dir dabei, dass diese neu erstellte, virtuelle Maschine deine Arbeitsumgebung im Fach "Systemtechnik" sein wird. Wie sieht deine Backupstrategie aus? Was wenn dein Rechner nicht mehr funktioniert?
 
-Die installierte Umgebung ist ein vollwertiges Desktop-Betriebssystem. Wie kannst du nun aus deiner Host-Umgebung diese am besten nutzen? Es sind dazu weitere Schritte notwendig. Aktiviere die grafische Unterstützung, damit du den Vollbildmodus auch nutzen kannst. Gib im Gastbetriebssystem ein Verzeichnis deiner Host-Umgebung frei, damit du einfach Dateien austauschen kannst. Dokumentiere die notwendigen Schritte und deine getätigten Konfigurationen.
+Gib im Gastbetriebssystem ein Verzeichnis deiner Host-Umgebung frei, damit du einfach Dateien austauschen kannst. Dokumentiere die notwendigen Schritte und deine getätigten Konfigurationen.
 
 Nach der erfolgreichen Installation des Gastsystems und allen weiteren, notwendigen Komponenten ist eine Sicherung vorzunehmen. Beschreibe den Nutzen der Snapshots und den Unterschied einer pausierten im Gegensatz zu einer heruntergefahrenen virtuellen Maschine.
 

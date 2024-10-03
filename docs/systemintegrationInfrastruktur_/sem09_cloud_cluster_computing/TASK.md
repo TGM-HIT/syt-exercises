@@ -89,7 +89,7 @@ Gruppengröße: 1-2 Person(en)
 
 ## Classroom Repository
 
-[Hier](https://classroom.github.com/a/XU4IULRK) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/rw8UxoH6) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
@@ -107,3 +107,6 @@ Gruppengröße: 1-2 Person(en)
  - [7] "Expose Your App Publicly" [online](https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/)
  - [8] "Scale Your App" [online](https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/)#
  - [9] "Update Your App" [online](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
+
+---
+**Version** *20241003v2*

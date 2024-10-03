@@ -54,7 +54,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Login und Rückgabe eines JWT Tokens
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/3PuAu_nQ) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/t8sGFKJz) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Quellen
 * "Creating a Spring Security Key for Signing a JWT Token" [baeldung.com](https://www.baeldung.com/spring-security-sign-jwt-token)
@@ -67,4 +67,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Heroku makes it easy to deploy and scale Java apps in the cloud"; [online](https://www.heroku.com)
 
 ---
-**Version** *20221006v3*
+**Version** *20241003v4*

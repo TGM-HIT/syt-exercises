@@ -50,7 +50,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Überprüfung der funktionalen Anforderungen mittels Regressionstests
 
 ### Classroom Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/t8sGFKJz) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Quellen
 * Android Restful Webservice Tutorial – Introduction to RESTful webservice – Part 1"; Posted By Android Guru on May 1, 2014; [online](http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-part-1/)
@@ -63,4 +63,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Heroku makes it easy to deploy and scale Java apps in the cloud"; [online](https://www.heroku.com)
 
 ---
-**Version** *20211214v1*
+**Version** *20241003v2*

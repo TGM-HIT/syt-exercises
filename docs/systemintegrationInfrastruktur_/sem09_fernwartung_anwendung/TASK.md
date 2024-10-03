@@ -134,7 +134,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Einrichtung von Wireguard
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/QsUJ1_xO) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/2g-IYfsy) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
@@ -195,3 +195,5 @@ Wenn host@remote leer oder '*' ist, dann empfängt SSH auf allen Adressen Verbin
 * https://noip.com
 * https://my.noip.com/dynamic-dns/duc (nur angemeldet erreichbar!)
 
+---
+**Version** *20241003v2*

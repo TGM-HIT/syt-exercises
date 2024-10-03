@@ -22,7 +22,7 @@ Die Kommunikation zwischen Client und Service soll mit Hilfe einer REST Schnitts
 + Grundlagenübung Middleware Engineering "Cloud-Datenmanagement"
 
 ## Aufgabenstellung
-Es ist ein Webservice zu implementieren, welches eine einfache Benutzerverwaltung implementiert. Dabei soll die Webapplikation mit den Endpunkten `/register` und `/login` erreichbar sein.
+Es ist ein Webservice zu implementieren, welches eine einfache Benutzerverwaltung implementiert. Dabei soll die Webapplikation mit den Endpunkten `/auth/admin/register`, `/auth/signin` und `/auth/verify` erreichbar sein.
 
 ### Erweiterungen
 

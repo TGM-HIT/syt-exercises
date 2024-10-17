@@ -51,7 +51,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] HDFS vs. GFS ausarbeiten
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/N38h4thg) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/lKlOrio3) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
@@ -70,3 +70,5 @@ Gruppengrösse: 1-2 Person(en)
 * "Comparative Analysis of GFS and HDFS: Technology and Architectural landscape," C. Verma and R. Pandey; 2018 10th International Conference on Computational Intelligence and Communication Networks (CICN), Esbjerg, Denmark, 2018, pp. 54-58 [online](https://ieeexplore.ieee.org/document/8864934)
 * "An overview of Google File System" Roshan Munjal, Medium, last edited 2022-03-22 [online](https://medium.com/@roshan3munjal/google-file-system-gfs-overview-eed15f3e6f6e)
 
+---
+**Version** *20241003v2*

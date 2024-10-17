@@ -29,6 +29,18 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 Diese VM wird in den kommenden Semester (SYT4-6) für Übungen benötigt.
 
+#### Alternatives Terminal
+
+In dieser Übung wird viel im Terminal gearbeitet. Hierfür gibt es u.a. folgende alternativen zum Standart Terminals:
+
+- [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-us&gl=US)
+- [Warp](https://www.warp.dev/)
+- [MobaXterm](https://mobaxterm.mobatek.net/)
+- [Tabby](https://tabby.sh/)
+- [xpipe](https://xpipe.io/)
+
+Grundsätzlich gilt die Windows Powershell der Windows Eingabeaufforderung (CMD) zu bevorzugen.
+
 #### VM Installation
 
 Installiere [Ubuntu Server](https://ubuntu.com/download/server) in [VMware](https://www.mikeroysoft.com/post/download-fusion-ws/). Stelle sicher, dass der SSH Server mitinstalliert wird.
@@ -37,7 +49,7 @@ Dokumentiere während der Installation den Entscheidungsprozess und erkläre die
 
 Es soll ein Snapshot erstellt werden. Teste die Internet Verbindung.
 
-Verwende SSH um auf die VM zuzugreifen (am Host Terminal einzugeben:)
+Verwende SSH um auf die VM zuzugreifen (am Host Terminal einzugeben):
 
 ```bash
 ssh vm_username@vm_ip
@@ -51,13 +63,13 @@ Für eine sicherere Verwendung von SSH soll der lokale SSH Key installiert werde
 
 [Anleitung](https://www.howtogeek.com/424510/how-to-create-and-install-ssh-keys-from-the-linux-shell/)
 
+Folgende Befehle müssen auf dem Client ausgeführt werden (in diesem Fall der Host, und nicht in der VM).
+
 ``` bash title="Wichtigsten Befehle"
 ssh-keygen # ssh Key erzeugen 3x Enter für Standartwerte
-ssh-copy-id username@vm_ip # kopiert den Key in die VM; fragt nach Passwort; Windows Befehl siehe unten
-```
-
-``` powershell title="Windows: ssh-copy-id Ersatz"
-type $env:USERPROFILE\.ssh\id_rsa.pub | ssh vm_username@vm_ip "cat >> .ssh/authorized_keys"
+# kopiert den Key in die VM: (fragt nach Passwort)
+ssh-copy-id vm_username@vm_ip # linux/macOS
+type $env:USERPROFILE\.ssh\id_rsa.pub | ssh vm_username@vm_ip "cat >> .ssh/authorized_keys" # Windows (ersetzte nur vm_username@vm_ip)
 ```
 
 Dann sollte die Anmeldung über SSH ohne Passwort Eingabe möglich sein.
@@ -69,6 +81,10 @@ Verwende [VS Code](https://code.visualstudio.com/) und die [Remote SSH Erweiteru
 Klicke auf das Open Remote Window Symbol unten links. Folge dem Dialog.
 
 Vorteil von VS Code als SSH Client ist das einfache Navigieren und Bearbeiten von Dateien und Verzeichnissen
+
+#### Samba Share
+
+Richte ein [Samba Share](https://wiki.ubuntuusers.de/Samba_Server/) in der VM ein ([Anleitung](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)) 
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
@@ -93,4 +109,4 @@ Gruppengröße: 1 Person
 
 
 ---
-**Version** *20240218v2*
+**Version** *20241013v3*

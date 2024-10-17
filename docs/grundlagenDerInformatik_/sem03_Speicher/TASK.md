@@ -38,7 +38,7 @@ Löse folgende Rechenaufgaben:
 2. Die Speicherkapazität einer DVD beträgt 4,7 GB. Ein MP3-Titel benötigt durchschnittlich 3700 Kilobyte. Wie viele Musiktitel passen auf eine DVD? Geben Sie die Berechnung hierzu an.
 3. Ein Standardbrief von einer A-4 Seite enthält ungefähr 30 Zeilen mit durchschnittlich jeweils 50 Zeichen (1 Zeichen = 1 Byte). Wie viel Speicherplatz wird für den Brief benötigt? Berechnen Sie die Dateigröße in den Größeneinheiten kB und MB.
 4. Sie laden eine Musikdatei mit einer Größe von 3 MB aus dem Internet herunter. Sie haben allerdings nur ein 56k-Modem, d. h., pro Sekunde werden 56 Kibibit Daten übertragen. Wie lange müssen Sie warten, bis der Song vollständig auf Ihre Festplatte kopiert wurde? Für eine korrekte Lösung muss der Rechenweg ersichtlich sein!
-5. Maria will möglichst viele Video-Dateien auf eine 1000 GiB fassende SSD speichern. Im Durchschnitt haben die MP3-Dateien eine Größe von 350 MB. Wie viele Dateien passen auf eine SSD?
+5. Maria will möglichst viele Video-Dateien auf eine 1000 GiB fassende SSD speichern. Im Durchschnitt haben die MP4-Dateien eine Größe von 350 MB. Wie viele Dateien passen auf eine SSD?
 
 Erfülle folgendes [Arbeitsblatt](https://github.com/TGM-HIT/syt-exercises/raw/main/docs/grundlagenDerInformatik_/sem03_Speicher/%C3%9Cbung%20-%20Speicher%20einordnen.docx).
 

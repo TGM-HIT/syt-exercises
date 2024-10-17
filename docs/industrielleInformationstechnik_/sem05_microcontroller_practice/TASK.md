@@ -12,6 +12,9 @@ Um den Umgang mit Microcontrollern zu üben sollen eine Anzahl an Aufgaben im Zu
 * GK *Einführung Microcontroller* abgeschlossen
 
 ## Detaillierte Aufgabenbeschreibung
+
+[ESP32 Installation](https://tgm-hit.github.io/syt-exercises/industrielleInformationstechnik_/sem03_einf%C3%BChrung_microcontroller/Microcontroller_Installation/)
+
 Verwende deinen Microcontroller um folgende Aufgaben zu lösen.
 
 1. Blink LED: lasse eine LED blinken, ohne *delay* zu verwenden. (Tipp: verwende *millis()* stattdessen)

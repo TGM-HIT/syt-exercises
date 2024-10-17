@@ -21,9 +21,12 @@ Das Ziel ist es den Aufbau von Mikrocontrollern zu verstehen und diese bei versc
 * Kenntnis einer Programmiersprache (z.B. Java)
 
 ## Detaillierte Aufgabenbeschreibung
+
+### [ESP32 Installation](https://tgm-hit.github.io/syt-exercises/industrielleInformationstechnik_/sem03_einf%C3%BChrung_microcontroller/Microcontroller_Installation/)
+
 #### Übung 1: Blink
 
-Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](https://elearning.tgm.ac.at/mod/page/view.php?id=90535). 
+Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](https://tgm-hit.github.io/syt-exercises/industrielleInformationstechnik_/sem03_einf%C3%BChrung_microcontroller/Microcontroller_Installation/). 
 
 Als Basis kann das Beispiel aus den Arduino Tutorials herangezogen werden.
 Die Schaltung soll vor dem physischen Aufbau in einer Simulationsumgebung getestet und entsprechend dokumentiert werden. Dabei bietet sich die Umgebung von [Tinkercad](https://www.tinkercad.com) an. Hier kann auch der Arduino-Code getestet werden. 

@@ -22,7 +22,7 @@ Das Ziel ist es den Aufbau von Mikrocontrollern zu verstehen und diese bei versc
 
 ## Detaillierte Aufgabenbeschreibung
 
-### [ESP32 Installation](https://elearning.tgm.ac.at/mod/page/view.php?id=90535)
+### [ESP32 Installation](https://tgm-hit.github.io/syt-exercises/industrielleInformationstechnik_/sem03_einf%C3%BChrung_microcontroller/Microcontroller_Installation/)
 
 #### Übung 1: Blink
 

@@ -94,17 +94,17 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
 ## Quellen
 
-[1] „Arduino - NeoPixel LED Strip | Arduino Tutorial“, Arduino Getting Started. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://arduinogetstarted.com/tutorials/arduino-neopixel-led-strip
+[1] „Arduino - NeoPixel LED Strip | Arduino Tutorial“, Arduino Getting Started. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://arduinogetstarted.com/tutorials/arduino-neopixel-led-strip   
 [2] „Blink | Arduino Documentation“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://docs.arduino.cc/built-in-examples/basics/Blink
-[3] „CP210x USB to UART Bridge VCP Drivers - Silicon Labs“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+[3] „CP210x USB to UART Bridge VCP Drivers - Silicon Labs“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers   
 [4] A. Pieters, „ESP32 – PinOut -“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.studiopieters.nl/esp32-pinout/
-[5] „ESP32 Troubleshooting Guide | Random Nerd Tutorials“. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-troubleshooting-guide/
-[6] „ESP32-C3-DevKitM-1 - - — esp-dev-kits latest documentation“. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html
-[7] „Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
-[8] „NodeMCU ESP32 | Joy-IT“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://joy-it.net/en/products/SBC-NodeMCU-ESP32
-[9] „Software“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.arduino.cc/en/software
-[10] „Tinkercad | From mind to design in minutes“, Tinkercad. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.tinkercad.com/
-[11] „Wokwi - Online ESP32, STM32, Arduino Simulator“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://wokwi.com/
+[5] „ESP32 Troubleshooting Guide | Random Nerd Tutorials“. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://randomnerdtutorials.com/esp32-troubleshooting-guide/   
+[6] „ESP32-C3-DevKitM-1 - - — esp-dev-kits latest documentation“. Zugegriffen: 16. Oktober 2024. [Online]. Verfügbar unter: https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html   
+[7] „Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/   
+[8] „NodeMCU ESP32 | Joy-IT“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://joy-it.net/en/products/SBC-NodeMCU-ESP32   
+[9] „Software“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.arduino.cc/en/software   
+[10] „Tinkercad | From mind to design in minutes“, Tinkercad. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://www.tinkercad.com/   
+[11] „Wokwi - Online ESP32, STM32, Arduino Simulator“. Zugegriffen: 4. Dezember 2023. [Online]. Verfügbar unter: https://wokwi.com/   
 
 
 ---

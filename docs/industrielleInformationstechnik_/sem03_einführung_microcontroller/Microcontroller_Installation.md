@@ -33,7 +33,7 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
 * Kopieren folgenden Code in ein neues Sketch:
 
-??? info ESP-WROOM-32
+??? info "ESP-WROOM-32"
 
     ```c
     // the setup function runs once when you press reset or power the board
@@ -50,8 +50,9 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
     }
     ```
 
-??? example ESP32-C3
+??? example "ESP32-C3"
 
+    ```c
     #include <Adafruit_NeoPixel.h>
     
     #define PIN 8
@@ -67,6 +68,7 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
       pixels.setPixelColor(0, pixels.Color(0, 150, 0));
       pixels.show();
     }
+    ```
 
 * Klicke oben auf das Dropdown für die Board und Port Wahl -> Select other board and port... -> suche bei Boards "ESP32 Dev Module" bzw. "ESP32C3 Dev Module" und wähle den entsprechenden Port (spätestens jetzt muss der μC angeschlossen sein). Solltest du dir unsicher sein welcher Port der richtige ist, kontrolliere welcher Port verschwindet/erscheint beim aus/anstecken. Oder suche im Device Manager nach den COM Ports. Sollte kein Port erscheinen und im Device Manager ein Warnsymbol erscheinen installiere den Treiber im Schritt oben.
 * Wähle OK.
@@ -74,15 +76,13 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
 #### Weiterführend
 
-##### ESP-WROOM-32 30 PIN Develeopment Board PINOUT
-
 ##### PINOUT
 
-??? info ESP-WROOM-32
+??? info "ESP-WROOM-32"
 
-    ![Pinout WROOM](https://elearning.tgm.ac.at/pluginfile.php/93820/mod_folder/content/0/ESP32-30PIN-DEVBOARD.png)
+    ![Pinout WROOM](https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-30PIN-DEVBOARD.png)
 
-??? example ESP32-C3
+??? example "ESP32-C3"
 
     ![Pinout C3](https://docs.espressif.com/projects/esp-dev-kits/en/latest/_images/esp32-c3-devkitm-1-v1-pinout.png)
 

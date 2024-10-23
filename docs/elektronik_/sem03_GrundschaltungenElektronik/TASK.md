@@ -33,7 +33,7 @@ Erstelle ein Graphiz zur Theorie von Halbleitern, Dioden, LEDs und Transistoren.
 
 Baue und dokumentiere aus *Grundkurs Elektronik* Übung 5 *Berührungssensor* (Seite 16).
 
-Versuche die Schaltung zu verstehen. Was ist ihre Aufgabe? Wie könnte sie heißen?
+Versuche die Schaltung zu verstehen. Was ist ihre Aufgabe?
 
 #### Übung 2
 

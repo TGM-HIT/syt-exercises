@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # "*Datenorganisation und Internetrecherche*" - Taskdescription
 
 ## Einführung

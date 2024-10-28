@@ -37,6 +37,14 @@ Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsent
 
 Abgabe des Office Designs (dateiname.thmx).
 
+Verwende ein alternatives Präsentationsprogramm (siehe unten) und baue die Präsentation von oben in dieser nach. Versuche diese [Designrichtlinien](https://www.shutterstock.com/de/blog/ansprechende-powerpoint-praesentationen) einzuhalten und so die Präsentation zu verbessern.
+
+- [Deckset](https://www.deckset.com/)
+- [Haiku Deck](https://www.haikudeck.com/)
+- [Powtoon](https://www.powtoon.com/)
+- [Zoho](https://www.zoho.com/de/show/)
+- [Prezi](https://prezi.com/de/)
+
 
 ## Fragestellungen
 
@@ -50,6 +58,9 @@ TIPP: Alle Antworten zu den Fragestellungen findest du in den Quellen mit nur ei
 ### Erweitert
 
 * Was ist ein Folienmaster?
+* Wie kann man eine Präsentation besser gestalten?
+* Welche Designrichtlinien konntest du anwenden?
+* Welche Vor/Nachteile hat das von dir gewählte Präsentationsprogramm?
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
@@ -75,4 +86,4 @@ Gruppengröße: 1 Person
 * "Powerpoint Materialien"; [online](https://elearning.tgm.ac.at/mod/folder/view.php?id=4629)
 
 ---
-**Version** *20220808v1*
+**Version** *20241028v2*

@@ -59,7 +59,7 @@ Du wirst in der Zukunft, und vor allem in deiner IT Karriere eine Unzahl an Pass
 
     - Installiere dir auch die Browser Extension
     - Synchronisiere den PW Manager mit deinem Handy
-    - verwenden den PW Generator um für jeden Login ein eingenes langes (mind. 30 Symbole) PW zu erstellen
+    - verwenden den PW Generator um für jeden Login ein eigenes, langes (mind. 30 Symbole) PW zu erstellen
 
 ## Fragestellungen
 

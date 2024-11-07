@@ -28,20 +28,20 @@ Aufbauend auf der letzten Aufgabe geht es nun an die Konfiguration der virtuelle
 Je nach Einsatzzweck der virtuellen Maschine gibt es verschiedene Varianten, wie sich die virtuelle Instanz und das Host-System die Netzwerkkarte teilen können.
 
 ## Fragestellungen
-* Was sind die Mindestanforderungen an das Host-System für die aktuelle Version von VirtualBox bzw. VMware (Hard- und Software)?
-* Welche Einstellungen am Host-System können die Performance der Virtualisierung erhöhen? Was ist dabei das Kürzel [AMD-V](https://www.amd.com/en/technologies/virtualization-solutions) bzw. [VT-x](https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html)
-* Wieso werden die virtuellen Partitionen gerne auf mehrere Dateien aufgeteilt?
-* Welche zusätzliche(n) Komponente(n) sind zur besseren Integration des Gastbetriebssystems von nöten? Was muss dabei beachtet werden?
-* Was ist der Host-Key und wie kommt dieser zum Einsatz?
-* Wie sind Virtualisierungsumgebungen aufgebaut? Welche Bestandteile sind dabei notwendig? Wieso kann man ein Betriebssystem innerhalb eines anderen Betriebssystems ausführen?
-* Was ist das *Open Virtualization Format Archive*? Welche Eckpunkte müssen beim Importieren und Exportieren von virtuellen Maschinen beachtet werden?
-* Welche drei gängigen Konfigurationsarten gibt es bei der Netzwerkkonfiguration von virtuellen Maschinen?
-* Wann verwende ich welche Netzwerkkonfiguration?
-* Welche Auswirkungen auf die an die VM vergebene IP-Adresse hat der jeweilige Modus?
-* Wie können externe Netzwerkknoten auf die Gast-Instanz zugreifen?
-* Was muss das Host-System starten, damit eine automatische IP-Vergabe in der Gast-Instanz zustande kommen kann? Wie kann man das auch manuell lösen?
-* Wo werden die virtuellen Netzwerkdevices verwaltet?
-* Wie kann ein bestimmtes Netzwerkinterface bei der *Bridged* Variante ausgewählt werden?
+1. Was sind die Mindestanforderungen an das Host-System für die aktuelle Version von VirtualBox bzw. VMware (Hard- und Software)?
+2. Welche Einstellungen am Host-System können die Performance der Virtualisierung erhöhen? Was ist dabei das Kürzel [AMD-V](https://www.amd.com/en/technologies/virtualization-solutions) bzw. [VT-x](https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html)
+3. Wieso werden die virtuellen Partitionen gerne auf mehrere Dateien aufgeteilt?
+4. Welche zusätzliche(n) Komponente(n) sind zur besseren Integration des Gastbetriebssystems von nöten? Was muss dabei beachtet werden?
+5. Was ist der Host-Key und wie kommt dieser zum Einsatz?
+6. Wie sind Virtualisierungsumgebungen aufgebaut? Welche Bestandteile sind dabei notwendig? Wieso kann man ein Betriebssystem innerhalb eines anderen Betriebssystems ausführen?
+7. Was ist das *Open Virtualization Format Archive*? Welche Eckpunkte müssen beim Importieren und Exportieren von virtuellen Maschinen beachtet werden?
+8. Welche drei gängigen Konfigurationsarten gibt es bei der Netzwerkkonfiguration von virtuellen Maschinen?
+9. Wann verwende ich welche Netzwerkkonfiguration?
+10. Welche Auswirkungen auf die an die VM vergebene IP-Adresse hat der jeweilige Modus?
+11. Wie können externe Netzwerkknoten auf die Gast-Instanz zugreifen?
+12. Was muss das Host-System starten, damit eine automatische IP-Vergabe in der Gast-Instanz zustande kommen kann? Wie kann man das auch manuell lösen?
+13. Wo werden die virtuellen Netzwerkdevices verwaltet?
+14. Wie kann ein bestimmtes Netzwerkinterface bei der *Bridged* Variante ausgewählt werden?
 
 ## Abgabe
 Die durchgeführten Tätigkeiten sollen kurz und prägnant in einem Dokument zusammengefasst werden.

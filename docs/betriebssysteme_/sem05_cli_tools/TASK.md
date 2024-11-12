@@ -80,8 +80,10 @@ Gruppengröße: 1 Person
 
 [17] „Welcome to the Windows Terminal, Console and Command-Line repo“. Microsoft, 23. September 2023. Zugegriffen: 23. September 2023. [Online]. Verfügbar unter: https://github.com/microsoft/terminal  
 
-[18] A. D’Souza, „zoxide“. 23. September 2023. Zugegriffen: 23. September 2023. [Online]. Verfügbar unter: https://github.com/ajeetdsouza/zoxide
+[18] A. D’Souza, „zoxide“. 23. September 2023. Zugegriffen: 23. September 2023. [Online]. Verfügbar unter: https://github.com/ajeetdsouza/zoxide  
+[19] J. Garrison, rothgar/awesome-tuis. (12. November 2024). Zugegriffen: 12. November 2024. [Online]. Verfügbar unter: https://github.com/rothgar/awesome-tuis
+
 
 
 ---
-**Version** *20240129v2*
+**Version** *20241112v3*

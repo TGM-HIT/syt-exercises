@@ -154,6 +154,8 @@ Gruppengrösse: 1 Person
 * "Introduction to Linux - Chapter 7: Command Line Operations" Linux-Foundation; zuletzt besucht 2020-11-25; [online](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2020)
 * "35 Linux Basic Commands Every User Should Know" Artūras B.; 2020-06-29; zuletzt besucht 2020-11-25; [online](https://www.hostinger.com/tutorials/linux-commands)
 * "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-11-25; [online](https://elearning.tgm.ac.at/course/view.php?id=1939)
+* J. Garrison, rothgar/awesome-tuis. (12. November 2024). Zugegriffen: 12. November 2024. [Online]. Verfügbar unter: https://github.com/rothgar/awesome-tuis
+
 
 ---
-**Version** **20230904*v5*
+**Version** *20241112v6*

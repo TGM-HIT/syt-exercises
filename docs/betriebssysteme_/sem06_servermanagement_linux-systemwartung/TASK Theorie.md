@@ -74,7 +74,9 @@ Die einzelnen Teile sind der Reihe nach zu lösen, da gewisse Abhängigkeiten in
 [^33]: „Ubuntu release cycle“, Ubuntu. [online](https://ubuntu.com/about/release-cycle) (zugegriffen 22. März 2023).   
 [^34]: „UnattendedUpgrades - Debian Wiki“. [online](https://wiki.debian.org/UnattendedUpgrades) (zugegriffen 19. März 2023).   
 [^35]: „Understanding The sysfs File System (/sys) in Linux – The Geek Diary“. [online](https://www.thegeekdiary.com/understanding-the-sysfs-file-system-in-linux/) (zugegriffen 23. April 2023).   
-[^36]: „What is End of Life in Ubuntu? Everything You Should Know About it“, It’s FOSS, 29. Juni 2020. [online](https://itsfoss.com/end-of-life-ubuntu/) (zugegriffen 23. April 2023).   
+[^36]: „What is End of Life in Ubuntu? Everything You Should Know About it“, It’s FOSS, 29. Juni 2020. [online](https://itsfoss.com/end-of-life-ubuntu/) (zugegriffen 23. April 2023)   
+[^37] J. Garrison, rothgar/awesome-tuis. (12. November 2024). Zugegriffen: 12. November 2024. [Online]. Verfügbar unter: https://github.com/rothgar/awesome-tuis
+
 
 ---
-**Version** *20240404v2*
+**Version** *20241112v3*

@@ -128,8 +128,9 @@ Gruppengrösse: 1 Person
 [7] C. W. Server, „Reverse proxy quick-start - Caddy Documentation“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: [https://caddyserver.com/](https://caddyserver.com/)  
 [8] „Traefik Proxy Documentation - Traefik“. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: [https://doc.traefik.io/traefik/](https://doc.traefik.io/traefik/)  
 [9] traefik/whoami. (20. August 2024). Go. Traefik Labs. Zugegriffen: 20. August 2024. [Online]. Verfügbar unter: [https://github.com/traefik/whoami](https://github.com/traefik/whoami)  
+[10] „Wolfgang’s Blog“. Zugegriffen: 12. November 2024. [Online]. Verfügbar unter: https://notthebe.ee/blog/easy-ssl-in-homelab-dns01/
 
 
 ---
 
-**Version** *20240820v1*
+**Version** *20241112v3*

@@ -132,7 +132,9 @@ Gruppengröße: 1 Person
 - [AWESOME-AWESOME-README](https://github.com/leogdion/AWESOME-AWESOME-README)   
 - "Mastering Markdown" Github Guides; [online](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- „Oh Shit, Git!?!“ Zugegriffen: 12. November 2024. [Online](https://ohshitgit.com/). Verfügbar unter: https://ohshitgit.com/
+
 
 ---
 
-**Version**  *20230726v1*
+**Version** *20241112v2*

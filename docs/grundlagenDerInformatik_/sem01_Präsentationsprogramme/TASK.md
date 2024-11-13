@@ -33,7 +33,7 @@ Nach Durcharbeiten der Unterlagen ist das Ziel eine Erstellung einer Präsentati
 
 ### Erweitert
 
-Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsentationen nutzen kannst (es sollten jedenfalls Schullogo, Foliennummer und Fußzeile vorhanden sein). Ein Beispiel dieser Datei findest du unter Lernmaterialien "[Poszvek.thmx]()"
+Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsentationen nutzen kannst (es sollten jedenfalls Schullogo, Foliennummer und Fußzeile vorhanden sein). Ein Beispiel dieser Datei findest du unter Lernmaterialien "[Poszvek.thmx](https://elearning.tgm.ac.at/pluginfile.php/61421/mod_folder/content/0/Poszvek.thmx)"
 
 Abgabe des Office Designs (dateiname.thmx).
 

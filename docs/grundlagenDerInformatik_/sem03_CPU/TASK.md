@@ -34,7 +34,7 @@ Nachdem du die Fragestellungen bearbeitet hast, erfülle folgende Aufgabenstellu
 
 Addiere 27 zu deiner Katalognummer. Wandle diese Nummer in Binär um. Subtrahiere 22<sub>10</sub>/10110<sub>2</sub> von dieser Zahl. Verwende dazu folgende Quelle: "Subtraktion im Dualsystem"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/11033/mod_folder/content/0/Subtraktion%20im%20Dualsystem.pptx)
 
-Verwende nun den [Digital Logic Simulator](https://sebastian.itch.io/digital-logic-sim){target="_blank"} um eine ALU aufzubauen. [Lösungen](https://tgm-hit.github.io/syt-exercises/grundlagenDerInformatik_/sem03_digisim/TASK/)
+Verwende nun den [Digital Logic Simulator](https://sebastian.itch.io/digital-logic-sim?target=_blank) um eine ALU aufzubauen. [Lösungen](https://tgm-hit.github.io/syt-exercises/grundlagenDerInformatik_/sem03_digisim/TASK/)
 
 ## Fragestellungen
 

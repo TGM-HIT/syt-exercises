@@ -10,10 +10,10 @@ Neben generischen elektronischen Komponenten wie Widerständen, Kondensatoren, D
 
 | ID   | Bild                          | Bezeichnung                                      | Daten                                        | Projektvorschläge                                    | Anzahl | Verfügbarkeit | Ort  | Besitzer |
 | ---- | ----------------------------- | ------------------------------------------------ | -------------------------------------------- | ---------------------------------------------------- | ------ | ------------- | ---- | -------- |
-|      | ![Roboter Arm](IMG_0923.jepg) | Einfacher 2DOF Aluminium Roboter Arm mit Greifer | 3 starke Servomotoren mit Motortreiber Board | Ansteuerung mit µC, Kombinierbar mit mobilen Roboter | 1      |               |      | HOED     |
+|      | ![Roboter Arm](IMG_0923.jpeg) | Einfacher 2DOF Aluminium Roboter Arm mit Greifer | 3 starke Servomotoren mit Motortreiber Board | Ansteuerung mit µC, Kombinierbar mit mobilen Roboter | 1      |               |      | HOED     |
 |      |                               |                                                  |                                              |                                                      |        |               |      |          |
 
 
 
-![Roboter Arm](IMG_0923.jepg)
+![Roboter Arm](IMG_0923.jpeg)
 

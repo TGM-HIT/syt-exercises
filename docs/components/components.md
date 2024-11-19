@@ -15,5 +15,3 @@ Neben generischen elektronischen Komponenten wie Widerständen, Kondensatoren, D
 
 
 
-![Roboter Arm](IMG_0923.jpeg)
-

@@ -51,7 +51,7 @@ Neben generischen elektronischen Komponenten wie Widerständen, Kondensatoren, D
 |      | ![Roboter Arm](IMG_2113.jpeg) | Microphone Module                                            |                                                              |                                                              | 1      |               |      | HOED     |
 |      | ![Roboter Arm](IMG_2114.jpeg) | Capacitive Soil Moisture Sensor                              |                                                              | Pflanzen Bewässerungsroboter                                 | 3      |               |      | HOED     |
 |      | ![Roboter Arm](IMG_2115.jpeg) | 8 Channel Relay                                              |                                                              |                                                              | 1      |               |      | HOED     |
-|      |                               |                                                              |                                                              |                                                              |        |               |      |          |
+|      |                               | Raspberry Pi Camera                                          |                                                              | Machine Vision                                               | 1      |               |      | HOED     |
 |      |                               |                                                              |                                                              |                                                              |        |               |      |          |
 
 

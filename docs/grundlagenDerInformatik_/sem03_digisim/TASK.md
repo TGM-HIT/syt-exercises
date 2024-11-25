@@ -39,6 +39,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 4. ADDER
 
 ![WT Halbaddierer](sources/WT Halbaddierer.png)
+![Addierer](sources/ADDER.png)
 
 5. 4Bit ADDER
 

@@ -22,8 +22,9 @@
 	- [host ALL your AI locally - YouTube](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
 	- [learning Docker is HARD!! (this makes it easy) - YouTube](https://www.youtube.com/watch?v=iX0HbrfRyvc)
 	- [18 Weird and Wonderful ways I use Docker - YouTube](https://www.youtube.com/watch?v=RUqGlWr5LBA)
+- [Linus Tech Tips](https://www.youtube.com/@LinusTechTips)
+	- [Showcasing HexOS, a server operating system](https://www.youtube.com/watch?v=kiXSswB45kY)
 ## Other
 - [Self-Hosted Software and Apps](https://selfh.st/apps/)
-
 ---
-**Version** *20241130v1*
+**Version** *20241201v2*

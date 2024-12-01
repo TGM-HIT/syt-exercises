@@ -16,7 +16,7 @@
 - [Hardware Haven](https://www.youtube.com/@HardwareHaven)
 - [Techno Tim](https://www.youtube.com/@TechnoTim)
 - [Christian Lempa](https://www.youtube.com/@christianlempa)
-	- [Learning Docker // Getting started! - YouTube](https://www.youtube.com/watch?v=Nm1tfmZDqo8&t=1595s
+	- [Learning Docker Getting started! - YouTube](https://www.youtube.com/watch?v=Nm1tfmZDqo8&t=1595s
 	- [Desktop Apps in Docker Containers with Kasm Workspaces - YouTube](https://www.youtube.com/watch?v=_ur59HHoRGc)
 - [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 	- [host ALL your AI locally - YouTube](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)

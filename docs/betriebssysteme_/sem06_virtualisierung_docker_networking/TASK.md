@@ -36,11 +36,11 @@ Docker Netzwerke kennen und richtig anwenden lernen
 
 ### Grundlegend
 
-1. #### Networking  Tutorial
+#### Networking  Tutorial
 
 Arbeite zuerst das [Networking with standalone containers](https://docs.docker.com/engine/network/tutorials/standalone/) Docker Tutorial durch um die Basics von Docker Netzwerken zu verstehen. Auch die anderen Docker Networking Tutorial (Docker Host, Macvlans) sind zu empfehlen.
 
-2. #### Docker compose ausführen
+#### Docker compose ausführen
 
 ``` yaml title="compose.yml"
 --8<-- "https://raw.githubusercontent.com/dominikhoebert/docker-projects/master/reverse-proxy-exercise/compose.yml"
@@ -50,17 +50,17 @@ Arbeite zuerst das [Networking with standalone containers](https://docs.docker.c
 
 Erstelle in deinem Benutzerordner einen neuen Ordner, nenne diesen zB. `reverse-proxy-exercise`. Erstelle darin die `compose.yml`. Versuche diese zu verstehen. Führe diese dann mit `docker compose up -d`aus.
 
-3. #### Adguard konfigurieren
+#### Adguard konfigurieren
 
 Rufe die Adguard WebUI [http://localhost:3000/](http://localhost:3000/) auf. Folge den Schritten und setzte einen Login. Setze dann Adguard als deinen DNS Server laut Anleitung. Verwende dazu entweder `127.0.0.1` oder `localhost`. Danach ist das Adguard Dashboard über [http://localhost:82/](http://localhost:82/) erreichbar. Rufe ein paar Internet Seiten auf (im besten Fall welche mit Werbung) und überprüfe ob der DNS- Anfragen Counter steigt.
 
-4. #### DNS-Umschreibungen
+#### DNS-Umschreibungen
 
 In der Adguard UI öffne *Filter* → DNS-Umschreibungen. Hiermit können beliebige URLs auf andere URLs oder auch auf IP Adressen umgeleitet werden. ZB. wollen wir die Adguard UI nicht mehr mit *localhost:82* aufrufen, sondern mit zB. *adguard.home*. Dazu kann eine Umschreibung von *adguard.home* auf *localhost* erstellt werden. Besser noch sollen alle URLs die auf *.home* enden auf *localhost* umgeleitet werden. Dazu kann ein Sternchen * als Platzhalter benutzt werden. *\*.home* → *localhost*.
 
 Wenn nun versucht wird Adguard über [http://adguard.home](http://adguard.home) zu erreichen wird dies noch nicht gelingen. 
 
-5. #### Nginx Proxy Manager konfigurieren
+#### Nginx Proxy Manager konfigurieren
 
 Rufe nun die Nginx Proxy Manager WebUI [http://localhost:81/](http://localhost:81/) auf. Login mit `admin@example.com/changeme`, welches sofort geändert werden sollte. Erstelle nun einen neuen Proxy-Host für die Domain *adguard.home*. Da in einem Docker Netzwerk der Servicename als Hostname für den Container verwendet wird kann  `adguardhome` als Forward Hostname verwendet werden. Verwende hier Port 80 als Forward Port. Nun sollte Adguard über [http://adguard.home](http://adguard.home) erreichbar sein.
 

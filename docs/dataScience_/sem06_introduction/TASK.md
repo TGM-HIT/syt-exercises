@@ -46,10 +46,10 @@ Die Schüler sollen ein einfaches neuronales Netz mit Teachable Machine trainier
 **Abgabe:**  
 
 Reicht einen kurzen Bericht ein, der die folgenden Punkte enthält:
-- Beschreibung der ausgewählten Objekte/Gesten
-- Vorgehensweise bei der Datensammlung
-- Ergebnisse der Modelltests
-- Analyse der Einflüsse von Licht und Hintergründen
-- Vorschläge zur Verbesserung des Modells
+- Beschreibung der ausgewählten Objekte/Gesten  
+- Vorgehensweise bei der Datensammlung  
+- Ergebnisse der Modelltests  
+- Analyse der Einflüsse von Licht und Hintergründen  
+- Vorschläge zur Verbesserung des Modells  
 
 Viel Erfolg und viel Spaß beim Experimentieren!

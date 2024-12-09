@@ -133,6 +133,7 @@ Gruppengröße: 1 Person
 - "Mastering Markdown" Github Guides; [online](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - „Oh Shit, Git!?!“ Zugegriffen: 12. November 2024. [Online](https://ohshitgit.com/). Verfügbar unter: https://ohshitgit.com/
+- [Oh, my Git!](https://ohmygit.org/)
 
 
 ---

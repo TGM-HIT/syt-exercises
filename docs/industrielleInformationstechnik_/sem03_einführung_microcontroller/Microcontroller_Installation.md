@@ -84,7 +84,7 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
 ??? example "ESP32-C3"
 
-    ![Pinout C3](https://docs.espressif.com/projects/esp-dev-kits/en/latest/_images/esp32-c3-devkitm-1-v1-pinout.png)
+    ![Pinout C3](https://docs.espressif.com/projects/arduino-esp32/en/latest/_images/esp32-c3_devkitM-1_pinlayout.png)
 
 - [Simulation mit Tinkercad](https://www.tinkercad.com/)
 - [Wokwi Simulator](https://wokwi.com/)

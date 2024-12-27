@@ -103,7 +103,7 @@ Gruppengrösse: 1 Person
 * "Verknüpfung von Aussagen"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Verkn%C3%BCpfung%20von%20Aussagen.mp4)
 * "Wahrheitstabelle von einem logischen Ausdrück erstellen"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Wahrheitstabelle%20erstellen.mp4)
 * "Wahrheitstabellen.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolescheAlgebra/Wahrheitstabellen.pdf)
-* "Wahrheitstabellen_Lösungen.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/Wahrheitstabellen_Lösung.pdf)
+* "Wahrheitstabellen_Lösungen.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolescheAlgebra/Wahrheitstabellen_Lösung.pdf)
 * "DNF - Disjunktive Normalform (EI)"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/DNF.mp4)
 * "KNF - Konjunktive Normalform (EI)"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/KNF.mp4)
 * "Boolesche Algebra (KNF, DNF).pdf"; Kerstin Kollitsch; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolescheAlgebra/BoolscheAlgebra(KNF,DNF).pdf)

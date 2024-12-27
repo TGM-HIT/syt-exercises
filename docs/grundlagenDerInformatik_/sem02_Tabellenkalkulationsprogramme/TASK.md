@@ -35,7 +35,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 #### 1.Teilaufgabe
 
-Ziel ist es die Datei [Formeln und Zellenbezüge](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx) mit seinen 3 Arbeitsblättern zu vervollständigen. 
+Ziel ist es die Datei [Formeln und Zellenbezüge](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx) mit seinen 3 Arbeitsblättern zu vervollständigen. 
 Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet werden:
 
 * [Zellenbezüge](https://support.office.com/de-de/article/Erstellen-oder-%C3%84ndern-eines-Zellbezugs-c7b8b95d-c594-4488-947e-c835903cebaa)  
@@ -65,7 +65,7 @@ Fügen Sie in einem neuen Blatt statt der Prozente nun die erreichten Anzahl an 
 Fügen Sie in einem neuen Blatt ein Diagramm für den Stimmenzuwachs und den Stimmenverlust, in dem Sie das Verhältnis der Wählerstimmen der Jahre 2017 und 2019 je Partei berechnen und erstellen Sie daraus ein neues Diagramm. Beschriften dieses Blatt links unten mit Stimmenzuwachs.
 
 ##### 5.Blatt
-Aus der Datei [NRW2017.xlsx](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/NRW17_endgueltiges_Gesamtergebnis_veraendert.xlsx) sollen alle Parteien namentlich sortiert werden (Tipp: Benutzerdefiniertes Sortieren und Option "Spalten sortieren" verwenden). Dann soll die Funktion "Filter" unter dem Reiter "Daten" verwendet werden und nur nach Österreich gefiltert werden. Kopieren Sie dieses Blatt dann in ihre Excel-Datei als 5.Blatt und beschriften Sie es NRW_2017.
+Aus der Datei [NRW2017.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/NRW17_endgueltiges_Gesamtergebnis_veraendert.xlsx) sollen alle Parteien namentlich sortiert werden (Tipp: Benutzerdefiniertes Sortieren und Option "Spalten sortieren" verwenden). Dann soll die Funktion "Filter" unter dem Reiter "Daten" verwendet werden und nur nach Österreich gefiltert werden. Kopieren Sie dieses Blatt dann in ihre Excel-Datei als 5.Blatt und beschriften Sie es NRW_2017.
 
 #### Abgabe
 Gib nun beide Teilaufgaben als .xlsx Datei auf Moodle ab.
@@ -79,11 +79,11 @@ Folgende Hilfeseiten werden im EK Inhalt notwendig sein:
 
 #### EK überwiegend
 
-Es sind die Dateien [Wenn.xlsx](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx) und [SVerweis.xlsx](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx) zu bearbeiten und hochzuladen.
+Es sind die Dateien [Wenn.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx) und [SVerweis.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx) zu bearbeiten und hochzuladen.
 
 #### EK vollständig
 
-Es sind die Dateien [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx) sowie [Kredittilgung.pdf](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme//6_Kredittilgung.pdf) zu bearbeiten und hochzuladen.
+Es sind die Dateien [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx) sowie [Kredittilgung.pdf](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme//6_Kredittilgung.pdf) zu bearbeiten und hochzuladen.
 
 
 ## Fragestellungen
@@ -125,7 +125,7 @@ Gruppengrösse: 1 Person
 * "Mathematische Formeln"; Microsoft Support; [online](https://support.office.com/de-de/article/Mathematische-und-trigonometrische-Funktionen-Referenz-ee158fd6-33be-42c9-9ae5-d635c3ae8c16)
 * "Logische Operatoren"; Microsoft Support; [online](https://support.office.com/de-de/article/Erstellen-bedingter-Formeln-ca916c57-abd8-4b44-997c-c309b7307831)
 * "Diagramme"; Microsoft Support; [online](https://support.microsoft.com/de-de/office/schritte-zum-erstellen-eines-diagramms-0baf399e-dd61-4e18-8a73-b3fd5d5680c2#OfficeVersion=Windows)
-* "Formeln und Zellenbezüge.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx)
+* "Formeln und Zellenbezüge.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx)
 * "easy4me"; zuletzt besucht 2023-01-09; [easy4me](https://www.easy4me.info/)
 * "klickdichschlau"; zuletzt besucht 2023-01-09; [klickdichschlau](https://www.klickdichschlau.at/)
 * "Wahl2017"; BMI; [online](https://bundeswahlen.gv.at/2017/)
@@ -136,10 +136,10 @@ Gruppengrösse: 1 Person
 * "WENN"; Microsoft Support; [online](https://support.office.com/de-de/article/WENN-Funktion-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)
 * "SVerweis"; Microsoft Support; [online](https://support.office.com/de-de/article/SVERWEIS-Funktion-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
 * "PivotCharts"; Microsoft Support; [online](https://support.office.com/de-de/article/Erstellen-eines-PivotCharts-c1b1e057-6990-4c38-b52b-8255538e7b1c)
-* "WENN.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx)
-* "SVerweis.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx)
-* "PivotCharts.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx)
-* "Kredittilgung.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/6_Kredittilgung.pdf)
+* "WENN.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx)
+* "SVerweis.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx)
+* "PivotCharts.xlsx"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx)
+* "Kredittilgung.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/6_Kredittilgung.pdf)
 * "Curriculum_MOS.pdf"; Enterprice Training Center; [online](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf)
 
 ---

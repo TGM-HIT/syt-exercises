@@ -34,12 +34,12 @@ Es sind beide Teile zu absolvieren.
 Wir erlernen die Inhalt am Beispiel Microsoft Word mit dem Wissen, dass alle Inhalte in jedem anderem Textverarbeitungsprogramm (LibreOffice, OpenOffice, …) ebenso verfügbar sind. Wir als Informatiker sollten nie eine Software lernen, da diese sich mit der Zeit verändert (genauso ist dies mit Programmiersprachen). Wir lernen Funktionen die Textverarbeitungsprogramme, egal welche Software auch in Zukunft verwendet wird, voraussichtlich immer haben werden. 
 Eine gute Übersicht über die zu erlernenden Inhalte findest du unter [Curriculum_MOS](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf).
 
-Lade dir die Datei [Textverarbeitung_Hausübung](https://elearning.tgm.ac.at/pluginfile.php/64830/mod_folder/content/0/2_Textverarbeitung_Haus%C3%BCbung.docx) herunter und arbeite die Anleitung, die auf der ersten Seite zu finden ist, durch. Bitte versuche die Struktur der Datei bestmöglich zu erhalten -> Erleichtert die Verbesserung. 
+Lade dir die Datei [Textverarbeitung_Hausübung](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Textverarbeitungsprogramme/rescources/2_Textverarbeitung_Hausübung.docx) herunter und arbeite die Anleitung, die auf der ersten Seite zu finden ist, durch. Bitte versuche die Struktur der Datei bestmöglich zu erhalten -> Erleichtert die Verbesserung. 
 Solltest du Schwierigkeiten bei der Erarbeitung haben folgt hier nun eine optionale Übung die dir zum Erlenen helfen könnte.
 
 OPTIONALE Übung (nicht notwendig zu Bearbeiten):
-Wir werden die Inhalte und Funktionen anhand einer vorbereiteten Datei erlernen. Speichere bitte die Datei [Textverarbeitung_Grundlagen.docx](https://elearning.tgm.ac.at/pluginfile.php/64830/mod_folder/content/0/3_Textverarbeitung_Grundlagen.docx) auf deinem Computer ab. Öffne diese und folge den Anleitungen im Text. Als ersten Schritt stelle bitte die VOREINSTELLUNGEN wie in der Datei beschrieben ein. 
-Nach Durcharbeiten sollte deine Musterlösung wie folgt aussehen [Musterlösung](https://elearning.tgm.ac.at/pluginfile.php/64830/mod_folder/content/0/4_Textverarbeitung_Grundlagen%20-%20L%C3%B6sung.pdf). Bitte arbeite die Datei linear ab auch wenn du zB in der Musterdatei schon die Kopfzeile siehst. Falls du Fragen hast komme zur Lehrperson. Viel Erfolg beim Durcharbeiten!
+Wir werden die Inhalte und Funktionen anhand einer vorbereiteten Datei erlernen. Speichere bitte die Datei [Textverarbeitung_Grundlagen.docx](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Textverarbeitungsprogramme/rescources/3_Textverarbeitung_Grundlagen.docx) auf deinem Computer ab. Öffne diese und folge den Anleitungen im Text. Als ersten Schritt stelle bitte die VOREINSTELLUNGEN wie in der Datei beschrieben ein. 
+Nach Durcharbeiten sollte deine Musterlösung wie folgt aussehen [Musterlösung](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Textverarbeitungsprogramme/rescources/4_textverarbeitung_grundlagen_lösung.pdf). Bitte arbeite die Datei linear ab auch wenn du zB in der Musterdatei schon die Kopfzeile siehst. Falls du Fragen hast komme zur Lehrperson. Viel Erfolg beim Durcharbeiten!
 Weiter Hilfeseiten sind [easy4me](https://www.easy4me.info/) sowie [klickdichschlau](https://www.klickdichschlau.at/).
 
 #### 2.Teil
@@ -56,7 +56,7 @@ Ein Beispiel eines Portfolios findest du in der Aufgabe.
 ### Erweitert
 
 #### 1.Unteraufgabe
-[Hier](https://elearning.tgm.ac.at/pluginfile.php/64830/mod_folder/content/0/6_Rechnung.docx) finden Sie eine Rechnung. Diese soll nun um ein Adressfeld erweitert werden (bei der abgedeckten Fläche, links neben dem Barcode). Das Dokument soll zumindest an 5 verschiedene Adressaten gesendet werden, die mittels Serienbriefassistenten in einer Adressliste abgelegt werden. Die Abgabe erfolgt durch 1) Abgabe des Dokumentes (*.docx), das um Seriendruckfelder erweitert wurde und 2) Abgabe des Files mit der Adressliste (*.mdb). 
+[Hier](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_Textverarbeitungsprogramme/rescources/6_Rechnung.docx) finden Sie eine Rechnung. Diese soll nun um ein Adressfeld erweitert werden (bei der abgedeckten Fläche, links neben dem Barcode). Das Dokument soll zumindest an 5 verschiedene Adressaten gesendet werden, die mittels Serienbriefassistenten in einer Adressliste abgelegt werden. Die Abgabe erfolgt durch 1) Abgabe des Dokumentes (*.docx), das um Seriendruckfelder erweitert wurde und 2) Abgabe des Files mit der Adressliste (*.mdb). 
 Hilfestellungen:
 [Personalisieren von Briefen mit der Seriendruckfunktion](https://support.microsoft.com/de-de/office/personalisieren-von-briefen-mit-der-seriendruckfunktion-d7686bb1-3077-4af3-926b-8c825e9505a3?ui=en-us&rs=en-us&ad=us)
 

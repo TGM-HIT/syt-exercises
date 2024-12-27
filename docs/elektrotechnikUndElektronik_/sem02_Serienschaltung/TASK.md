@@ -40,7 +40,7 @@ Ließ dir die Kapitel *3.1.1 Gesetze der Reihenschaltung* Seite 49, 50 aus dem B
 
 ### Erweitert
 
-[Arbeiten mit dem Steckbrett (Aufbau einer Serienschaltung)]()
+[Arbeiten mit dem Steckbrett (Aufbau einer Serienschaltung)](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/elektrotechnikUndElektronik_/sem02_Serienschaltung/SerienschaltungAmSteckbrett.pdf)
 
 Druck dir dieses Dokument aus, nimm dir vom Lehrer eine Conrad-Übungsbox und arbeite die Aufgaben im Dokument Schritt für Schritt durch!
 Für diese Übung benötigst du dein Multimeter!

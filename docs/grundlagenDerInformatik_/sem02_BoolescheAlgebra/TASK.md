@@ -41,22 +41,23 @@ Siehe dir danach das Video [Verknüpfung von Aussagen](https://elearning.tgm.ac.
 Siehe dir als letztes das Video [Wahrheitstabelle von einem logischen Ausdrück erstellen](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Wahrheitstabelle%20erstellen.mp4) an und versuche zu verstehen wie du eine Wahrheitstabelle von einem logischen Ausdruck erstellst. Notiere dir wichtige Erkentnisse in deiner Mitschrift und füge auch die Reihenfolge der Operatoren auf, welche zuerst auszuführen sind. Herzliche Gratulation du hast nun erlernt wie du Wahrheitstabellen von logischen Ausdrücken erstellen kannst. 
 
 Rechne dir nun den Modulo (also den ganzzahligen Rest bei einer Division) von deiner Katalognummer dividiert durch 6 aus. 
-Tipp: Solltest du Probleme bei der Modulo Rechnung haben frage deinen Nachbarn, das Internet oder deine Lehrkraft. Dies sollte auch in deiner Mitschrift vorkommen.
-* 0 -> A
-* 1 -> B
-* 2 -> C
-* 3 -> D
-* 4 -> E
-* 5 -> F
+Tipp: Solltest du Probleme bei der Modulo Rechnung haben frage deinen Nachbarn, das Internet oder deine Lehrkraft. Dies sollte auch in deiner Mitschrift vorkommen.  
 
-Mit diesem errechneten Module kannst du nun deine Fertigkeiten bei einer Wahrheitstabelle unter Beweis stellen. Wähle die entsprechende Wahrheitstabelle von deinem errechneten Modulo [Hier](https://elearning.tgm.ac.at/pluginfile.php/67777/mod_folder/content/0/Wahrheitstabellen.pdf) aus. Dies ist der letzte Teil deiner praktischen Mitschrift. Arbeite nun die Fragestellungen aus.
+* 0 -> A  
+* 1 -> B  
+* 2 -> C  
+* 3 -> D  
+* 4 -> E  
+* 5 -> F  
+
+Mit diesem errechneten Module kannst du nun deine Fertigkeiten bei einer Wahrheitstabelle unter Beweis stellen. Wähle die entsprechende Wahrheitstabelle von deinem errechneten Modulo [Hier](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/Wahrheitstabellen.pdf) aus. Dies ist der letzte Teil deiner praktischen Mitschrift. Arbeite nun die Fragestellungen aus.
 
 ### Erweitert
 
-Siehe dir die beiden Videos [DNF](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/DNF.mp4) und [KNF](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/KNF.mp4) an und erstelle eine Mitschrift dazu. Versuche danach das Skriptum [online](https://elearning.tgm.ac.at/pluginfile.php/67777/mod_folder/content/0/Boolsche%20Algebra%20%28KNF%2C%20DNF%29.pdf) zu verstehen und die wichtigsten Punkte herauszuschreiben. Arbeite nun die Fragestellungen aus.
+Siehe dir die beiden Videos [DNF](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/DNF.mp4) und [KNF](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/KNF.mp4) an und erstelle eine Mitschrift dazu. Versuche danach das Skriptum [online](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/BoolscheAlgebra(KNF,DNF).pdf) zu verstehen und die wichtigsten Punkte herauszuschreiben. Arbeite nun die Fragestellungen aus.
 
 
-# Fragestellungen
+## Fragestellungen
 
 ### Grundlegend
 
@@ -101,11 +102,11 @@ Gruppengrösse: 1 Person
 * "Variablenbelegungen von Wahrheitstabellen"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Variablenbelegung%20Wahrheitstabelle.mp4)
 * "Verknüpfung von Aussagen"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Verkn%C3%BCpfung%20von%20Aussagen.mp4)
 * "Wahrheitstabelle von einem logischen Ausdrück erstellen"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/2/Wahrheitstabelle%20erstellen.mp4)
-* "Wahrheitstabellen.pdf"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67777/mod_folder/content/0/Wahrheitstabellen.pdf)
-* "Wahrheitstabellen_Lösungen.pdf"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67777/mod_folder/content/0/Wahrheitstabellen_L%C3%B6sungen.pdf)
+* "Wahrheitstabellen.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/Wahrheitstabellen.pdf)
+* "Wahrheitstabellen_Lösungen.pdf"; Alexander Poszvek; [online](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/Wahrheitstabellen_Lösung.pdf)
 * "DNF - Disjunktive Normalform (EI)"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/DNF.mp4)
 * "KNF - Konjunktive Normalform (EI)"; Alexander Poszvek; [online](https://elearning.tgm.ac.at/pluginfile.php/67773/mod_page/content/3/KNF.mp4)
-* "Boolesche Algebra (KNF, DNF).pdf"; Kerstin Kollitsch; [online](https://elearning.tgm.ac.at/pluginfile.php/67777/mod_folder/content/0/Boolsche%20Algebra%20%28KNF%2C%20DNF%29.pdf)
+* "Boolesche Algebra (KNF, DNF).pdf"; Kerstin Kollitsch; [online](https://github.com/TGM-HIT/insy-exercises/blob/main/docs/grundlagenDerInformatik_/sem02_BoolscheAlgebra/BoolscheAlgebra(KNF,DNF).pdf)
 
 ---
 **Version** *20230131v1*

@@ -40,7 +40,7 @@ Ließ dir das Kapitel *3.2 Parallelschaltung* Seite 53, 54 aus dem Buch **Fachku
 
 ### Erweitert
 
-[Arbeiten mit dem Steckbrett (Aufbau einer Parallelschaltung)]()
+[Arbeiten mit dem Steckbrett (Aufbau einer Parallelschaltung)](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/elektrotechnikUndElektronik_/sem02_Parallelschaltung/ParallelschaltungAmSteckbrett.pdf)
 
 Druck dir dieses Dokument aus, nimm dir vom Lehrer eine Conrad-Übungsbox und arbeite die Aufgaben im Dokument Schritt für Schritt durch!
 Für diese Übung benötigst du dein Multimeter!

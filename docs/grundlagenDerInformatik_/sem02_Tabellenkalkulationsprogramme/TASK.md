@@ -36,7 +36,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 #### 1.Teilaufgabe
 
 Ziel ist es die Datei [Formeln und Zellenbezüge](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx) mit seinen 3 Arbeitsblättern zu vervollständigen. 
-Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet werden:
+Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet werden:  
 
 * [Zellenbezüge](https://support.office.com/de-de/article/Erstellen-oder-%C3%84ndern-eines-Zellbezugs-c7b8b95d-c594-4488-947e-c835903cebaa)  
 * [Mathematische Formeln](https://support.office.com/de-de/article/Mathematische-und-trigonometrische-Funktionen-Referenz-ee158fd6-33be-42c9-9ae5-d635c3ae8c16)  
@@ -47,7 +47,7 @@ Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet wer
 
 Sie sollen eine Excel-Datei die eine Gegenüberstellung der österreichischen Nationalratswahlen aus dem Jahr 2017 und 2019 in Diagrammen veranschaulichen soll. Hierzu werden Sie in dieser Datei mehrere Blätter links unten erstellen. Öffne hierzu eine neue Excel-Datei und speichere Sie unter Vorname_Nachname_Diagramme.xlsx ab. Öffne danach die Seiten [Wahl2017](https://bundeswahlen.gv.at/2017/) und [Wahl2019](https://bundeswahlen.gv.at/2019/). Versuche dir einen Überblick über die im Nationalrat vertretenen Parteien zu machen.
 
-Folgende Funktionen werden Sie nun verwenden:
+Folgende Funktionen werden Sie nun verwenden:  
 * [Diagramme](https://support.microsoft.com/de-de/office/schritte-zum-erstellen-eines-diagramms-0baf399e-dd61-4e18-8a73-b3fd5d5680c2#OfficeVersion=Windows)  
 * [Sortieren](https://support.microsoft.com/de-de/office/sortieren-von-daten-in-einer-tabelle-77b781bf-5074-41b0-897a-dc37d4515f27)  
 * [Filtern](https://support.microsoft.com/de-de/office/filtern-von-daten-in-einem-bereich-oder-in-einer-tabelle-01832226-31b5-4568-8806-38c37dcc180e)  
@@ -72,7 +72,7 @@ Gib nun beide Teilaufgaben als .xlsx Datei auf Moodle ab.
 
 ### Erweitert
 
-Folgende Hilfeseiten werden im EK Inhalt notwendig sein:
+Folgende Hilfeseiten werden im EK Inhalt notwendig sein:  
 * [WENN](https://support.office.com/de-de/article/WENN-Funktion-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)  
 * [SVerweis](https://support.office.com/de-de/article/SVERWEIS-Funktion-0bbc8083-26fe-4963-8ab8-93a18ad188a1)  
 * [PivotCharts](https://support.office.com/de-de/article/Erstellen-eines-PivotCharts-c1b1e057-6990-4c38-b52b-8255538e7b1c)  

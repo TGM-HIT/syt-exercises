@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Textverarbeitungsprogramme*" - Taskdescription
 
 ## Einführung

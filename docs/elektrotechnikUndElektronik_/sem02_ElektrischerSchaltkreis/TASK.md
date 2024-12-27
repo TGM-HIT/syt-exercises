@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Der elektrische Schaltkreis*" - Taskdescription
 
 ## Einführung

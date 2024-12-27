@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Boolesche Algebra*" - Taskdescription
 
 ## Einführung

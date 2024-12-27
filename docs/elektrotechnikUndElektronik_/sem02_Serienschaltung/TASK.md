@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Die Serienschaltung*" - Taskdescription
 
 ## Einführung

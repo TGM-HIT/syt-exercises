@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Die Parallelschaltung*" - Taskdescription
 
 ## Einführung

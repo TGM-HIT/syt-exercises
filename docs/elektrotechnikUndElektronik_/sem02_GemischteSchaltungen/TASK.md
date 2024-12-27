@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Die gemischte Schaltung*" - Taskdescription
 
 ## Einführung

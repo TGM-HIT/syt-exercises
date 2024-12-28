@@ -26,7 +26,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 ### Grundanforderungen
 
-Ließ dir die Kapitel *2.11 Elektrische Energie und Arbeit*, *2.12 Elektrische Leistung* und *2.13 Wirkungsgrad* auf den Seiten 42 bis 46 aus dem Buch **Fachkunde Elektrotechnik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+Ließ dir die Kapitel *1.4.1 Elektrische Leistung*, *1.4.2 Elektrische Arbeit* und *1.4.4 Wirkungsgrad* auf den Seiten 35 bis 39 aus dem Buch **Fachkunde Industrieelektronik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
 
 #### Messübung
 
@@ -121,6 +121,7 @@ Gruppengröße: 1 Person
 * "Ohm'sches Gesetz & Widerstände" Physik - simpleclub; Youtube; 2018-10-09; [online](https://www.youtube.com/watch?v=xklPZ1tzNTc&ab_channel=Physik-simpleclub)
 * "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 2.1.; [online](https://elearning.tgm.ac.at/pluginfile.php/11011/mod_folder/content/0/Elektrotechnische%20Grundlagen%20Elektronik%201%20-%20Heinz%20Meister%20-%20Kapitel%202_1.pdf)
 * "Anleitung Widerstandsmessung mit dem Multimeter"; [online](https://elearning.tgm.ac.at/pluginfile.php/11011/mod_folder/content/0/M1-04%20-%20Anleitung%20Widerstandsmessung%20mit%20dem%20Multimeter.pdf)
+* G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
 
 ---
-**Version** *20220204v1*
+**Version** *20240923v2*

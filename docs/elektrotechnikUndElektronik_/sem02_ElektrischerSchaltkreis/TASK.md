@@ -34,7 +34,9 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 ### Grundanforderungen
 
-Ließ dir die Kapitel *2.4.5 Messen elektrischer Spannung* auf Seite 30, den Unterpunkt Stromrichtung im Kapitel *2.5 Elektrischer Strom* auf Seite 32, sowie *2.5.2 Messen elektrischer Stromstärke* auch auf Seite 32 aus dem Buch **Fachkunde Elektrotechnik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+Rufe dir die Kapitel *1.2.2 Spannung* und *1.2.3 Elektrischer Strom* auf den Seiten 16 bis 17 aus dem Buch **Fachkunde Industrieelektronik** durch ins Gedächtnis und konzentriere dich auf die Passagen zum Stromkreis, Stromrichtung und Messungen. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+
+Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und versuche den einfachsten Stromkreis aufzubauen ohne einen [Kurzschluss](https://studyflix.de/elektrotechnik/kurzschluss-3962) zu produzieren (Wenn du dir unsicher bist frage deine Lehrperson bevor du die Batterie anschließt). Messe sowohl Strom als auch Spannung. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
 
 
 ## Fragestellungen
@@ -46,7 +48,9 @@ Ließ dir die Kapitel *2.4.5 Messen elektrischer Spannung* auf Seite 30, den Unt
 * Welche Stromrichtung gilt für die physikalischen Gesetze (wie das ohmsche Gesetz)?
 * Wie misst man die elektrische Spannung an einem Verbraucher?
 * Wie misst man den elektrischen Strom durch einen Verbraucher?
+* Wie zeichnet man Strom- und Spannungspfeile richtig ein? Was sind die Unterschiede?
 * Wie schauen die Schaltsymbole für eine Spannungsquelle und einen Verbraucher (Lampe) aus?
+* Was ist ein Kurschluss? Was ist daran gefährlich? Was kann zu schaden kommen?
 
 ### Erweitert
 
@@ -88,6 +92,7 @@ Gruppengrösse: 1 Person
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/pluginfile.php/9728/mod_resource/content/0/Elektronik-Fibel.pdf)
 * "Tinkercad" Autodesk; [online](https://www.tinkercad.com/learn/circuits/lessons)
 * "Stromrichtige und Spannungsrichtige Messung" LEIFIphysik; zuletzt besucht 2022-02-02; [online](https://www.leifiphysik.de/elektronik/halbleiterdiode/grundwissen/stromrichtige-und-spannungsrichtige-messung)
+* G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
 
 ---
-**Version** *20220202v1*
+**Version** *20241228v2*

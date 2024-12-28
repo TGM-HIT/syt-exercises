@@ -36,7 +36,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 Rufe dir die Kapitel *1.2.2 Spannung* und *1.2.3 Elektrischer Strom* auf den Seiten 16 bis 17 aus dem Buch **Fachkunde Industrieelektronik** durch ins Gedächtnis und konzentriere dich auf die Passagen zum Stromkreis, Stromrichtung und Messungen. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
 
-Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und versuche den einfachsten Stromkreis aufzubauen ohne einen [Kurzschluss](https://studyflix.de/elektrotechnik/kurzschluss-3962) zu produzieren (Wenn du dir unsicher bist frage deine Lehrperson bevor du die Batterie anschließt). Messe sowohl Strom als auch Spannung. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
+Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und versuche den einfachsten Stromkreis aufzubauen ohne einen [Kurzschluss](https://studyflix.de/elektrotechnik/kurzschluss-3962) zu produzieren (Wenn du dir unsicher bist frage deine Lehrperson bevor du die Batterie anschließt). Messe sowohl Strom als auch Spannung. Überprüfe rechnerisch deine Messungen. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
 
 
 ## Fragestellungen

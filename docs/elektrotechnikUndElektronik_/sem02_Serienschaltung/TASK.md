@@ -38,7 +38,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 Ließ dir die Kapitel 1.3.2 Reihenschaltung auf der Seiten 27 aus dem Buch **Fachkunde Industrieelektronik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen. Löse dann die Rechenaufgaben.
 
-Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und baue eine Serienschaltung mir 2 oder mehr Widerständen. Messe alle Ströme und Spannungen. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
+Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und baue eine Serienschaltung mit 2 oder mehr Widerständen. Messe alle Ströme und Spannungen. Überprüfe rechnerisch deine Messungen. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
 
 ### Erweitert
 

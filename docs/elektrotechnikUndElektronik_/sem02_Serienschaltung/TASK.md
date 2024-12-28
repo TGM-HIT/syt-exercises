@@ -36,7 +36,9 @@ Bitte versuche alle wichtigen Information kurz und prägnant zu verschriftlichen
 
 ### Grundlegend
 
-Ließ dir die Kapitel *3.1.1 Gesetze der Reihenschaltung* Seite 49, 50 aus dem Buch **Fachkunde Elektrotechnik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen. Löse dann die Rechenaufgaben.
+Ließ dir die Kapitel 1.3.2 Reihenschaltung auf der Seiten 27 aus dem Buch **Fachkunde Industrieelektronik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen. Löse dann die Rechenaufgaben.
+
+Nimm dir dein **Franzis Grundkurs Elektronik** Set zur Hand und baue eine Serienschaltung mir 2 oder mehr Widerständen. Messe alle Ströme und Spannungen. Zeichne einen Schaltplan samt Strom und Spannungspfeile.
 
 ### Erweitert
 
@@ -125,6 +127,7 @@ Gruppengröße: 1 Person
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/pluginfile.php/9728/mod_resource/content/0/Elektronik-Fibel.pdf)
 * "Tinkercad" Autodesk; [online](https://www.tinkercad.com/learn/circuits/lessons)
 * "Grundlagen der Elektrotechnik 1" Deimel F., Hasenzagl A.; Veritas;1. Auflage; 2013; ISBN 978-7101-0134-2; Seiten 73-76
+* G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
 
 ---
-**Version** *20220202v1*
+**Version** *20241228v2*

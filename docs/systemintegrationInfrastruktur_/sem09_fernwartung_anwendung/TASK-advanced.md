@@ -46,8 +46,9 @@ Gruppengrösse: 1-2 Person(en)
 * https://xfce.org/
 * https://wiki.x2go.org/doku.php/start
 * https://wiki.x2go.org/doku.php/wiki:repositories:debian
+* https://wiki.archlinux.org/title/TigerVNC
 * https://wiki.archlinux.org/title/Xrdp
 * https://wiki.archlinux.org/title/X2Go
 
 ---
-**Version** *20241219v1*
+**Version** *20250109v2*

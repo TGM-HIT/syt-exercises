@@ -65,11 +65,18 @@ Für eine sicherere Verwendung von SSH soll der lokale SSH Key installiert werde
 
 Folgende Befehle müssen auf dem Client ausgeführt werden (in diesem Fall der Host, und nicht in der VM).
 
+##### Windows
 ``` bash title="Wichtigsten Befehle"
 ssh-keygen # ssh Key erzeugen 3x Enter für Standartwerte
 # kopiert den Key in die VM: (fragt nach Passwort)
-ssh-copy-id vm_username@vm_ip # linux/macOS
-type $env:USERPROFILE\.ssh\id_rsa.pub | ssh vm_username@vm_ip "cat >> .ssh/authorized_keys" # Windows (ersetzte nur vm_username@vm_ip)
+type $env:USERPROFILE\.ssh\id_rsa.pub | ssh vm_username@vm_ip "cat >> .ssh/authorized_keys" # ersetzte nur vm_username@vm_ip
+```
+
+##### Linux/MacOS
+``` bash title="Wichtigsten Befehle"
+ssh-keygen # ssh Key erzeugen 3x Enter für Standartwerte
+# kopiert den Key in die VM: (fragt nach Passwort)
+ssh-copy-id vm_username@vm_ip
 ```
 
 Dann sollte die Anmeldung über SSH ohne Passwort Eingabe möglich sein.
@@ -85,6 +92,43 @@ Vorteil von VS Code als SSH Client ist das einfache Navigieren und Bearbeiten vo
 #### Samba Share
 
 Richte ein [Samba Share](https://wiki.ubuntuusers.de/Samba_Server/) in der VM ein ([Anleitung](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)) 
+
+#### [Btop](https://github.com/aristocratos/btop)
+
+Installiere Btop
+
+```bash
+sudo snap install btop
+```
+
+Starte Btop
+
+```bash
+btop
+```
+
+Konfiguriere es nach deinen Vorstellungen.
+
+#### [Cockpit](https://cockpit-project.org/)
+
+Installiere Cockpit
+
+```bash
+sudo apt install cockpit
+```
+
+Öffne das Webinterface
+
+```
+https://vm_ip:9090
+```
+
+Login mit VM Credentials. Welche Features hat Cockpit?
+
+#### Optional: [Server Box App](https://github.com/LollipopKit/flutter_server_box)
+
+Zur Überwachung des Servers per Smartphone App kann [Server Box App](https://github.com/LollipopKit/flutter_server_box) verwendet werden.
+
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
@@ -109,4 +153,4 @@ Gruppengröße: 1 Person
 
 
 ---
-**Version** *20241013v3*
+**Version** *20250202v4*

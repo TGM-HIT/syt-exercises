@@ -42,7 +42,7 @@ Es soll ein Protokoll erstellt werden, welches technische Hintergründe und Umse
 [Hier](https://classroom.github.com/a/4k-y-8ym) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Bewertung
-Gruppengrösse: 3-4 Personen
+Gruppengrösse: 4(5) Personen
 ### Grundanforderungen **überwiegend erfüllt**
 - [ ] Definition der Userstories (ID, Story, Points, Priority, Head)
 - [ ] Einrichtung der Entwicklungsumgebung (IDE, SW-Dev-Tools, Deployment, etc.)
@@ -71,4 +71,4 @@ Gruppengrösse: 3-4 Personen
 * "How to write Git-Commit-Messages" [elearning](https://elearning.tgm.ac.at/mod/page/view.php?id=3508)
 
 ---
-**Version** *20240215v4*
+**Version** *20250212v5*

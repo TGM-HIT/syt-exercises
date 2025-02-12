@@ -39,7 +39,7 @@ Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **RE
 Es soll ein Protokoll erstellt werden, welches technische Hintergründe und Umsetzungsentscheidungen festhalten muss. Dieses ist in LaTeX (Protokollrichtlinien bzw. Template beachten) zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden.
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/4k-y-8ym) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/lOpZbMwr) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Bewertung
 Gruppengrösse: 4(5) Personen

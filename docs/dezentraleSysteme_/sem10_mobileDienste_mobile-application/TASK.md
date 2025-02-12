@@ -36,7 +36,7 @@ Die Userstories müssen in **STORIES.md** zusammengefasst sein. Die eigentliche 
 
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
-Es soll ein Protokoll erstellt werden, welches technische Hintergründe und Umsetzungsentscheidungen festhalten muss. Dieses ist in LaTeX (Protokollrichtlinien bzw. Template beachten) zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden.
+Es soll eine technische Dokumentation erstellt werden, welche Hintergründe und Umsetzungsentscheidungen festhalten muss. Diese ist in Markdown als **TechDoc.md** zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden. Es müssen dabei Bilder und Zusatzinformationen als Assets abgespeichert werden.
 
 ### Classroom Repository
 [Hier](https://classroom.github.com/a/lOpZbMwr) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.

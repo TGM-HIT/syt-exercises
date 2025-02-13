@@ -79,6 +79,7 @@ Verbindungstest mittels: `ansible all -m`
 - "Ansible Tutorial: Multi Tier Deployment mit Ansible" [online](https://entwickler.de/devops/ansible-tutorial-multi-tier-deployment-mit-ansible/)
 - "Was ist Infrastructure as Code (IaC)?" [online](https://www.redhat.com/de/topics/automation/what-is-infrastructure-as-code-iac)
 - "Terraform vs. Ansible : Key Differences and Comparison of Tools" [online](https://spacelift.io/blog/ansible-vs-terraform)
+- "Guide eines Systemadministrators zur IT-Automatisierung" [online](https://www.redhat.com/rhdc/managed-files/co-system-administrator-automation-ebook-f29297-202107-de.pdf)
 
 ---
 **Version** *20250213v5*

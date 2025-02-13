@@ -35,7 +35,7 @@ Gruppengröße: 1-2 Person(en)
 
 ## Classroom Repository
 
-[Hier](https://classroom.github.com/a/1Ds9Zdnv) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/Y3Np2Yby) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
@@ -69,5 +69,5 @@ Verbindungstest mittels: `ansible all -m`
 - "Ansible Tutorial: Multi Tier Deployment mit Ansible" [online](https://entwickler.de/devops/ansible-tutorial-multi-tier-deployment-mit-ansible/)
 
 ---
-**Version** *20240215v2*
+**Version** *20250213v3*
 

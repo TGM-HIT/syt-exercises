@@ -77,8 +77,9 @@ Verbindungstest mittels: `ansible all -m`
 - "Ansible Tutorial: Installation, Playbook, Roles, Commands" [online](https://www.guru99.com/ansible-tutorial.html)
 - "A step by step guide to Ansible (Tutorial)" [online](https://www.ssdnodes.com/blog/step-by-step-ansible-guide/)
 - "Ansible Tutorial: Multi Tier Deployment mit Ansible" [online](https://entwickler.de/devops/ansible-tutorial-multi-tier-deployment-mit-ansible/)
+- "Was ist Infrastructure as Code (IaC)?" [online](https://www.redhat.com/de/topics/automation/what-is-infrastructure-as-code-iac)
 - "Terraform vs. Ansible : Key Differences and Comparison of Tools" [online](https://spacelift.io/blog/ansible-vs-terraform)
 
 ---
-**Version** *20250213v4*
+**Version** *20250213v5*
 

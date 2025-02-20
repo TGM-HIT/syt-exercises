@@ -83,7 +83,7 @@ Gruppengrösse: 1-2 Person(en)
 ### Beispiele
 * "Reddit-Realtime-Streaming-Pipeline" [github](https://github.com/Hungreeee/Reddit-Realtime-Streaming-Pipeline?tab=readme-ov-file)
 * "Realtime Voting System - Kafka & Spark Example" [github](https://github.com/rajuranjan00/Real-time-voting-system)
-* "Kafka: A Complete Tutorial" [online](https://medium.com/@Shamimw/kafka-a-complete-tutorial-part-1-installing-kafka-server-without-zookeeper-kraft-mode-using-6fc60272457f)
+* "Kafka Kraft Cluster Example" [github](https://github.com/mat-sik/kafka-kraft-cluster-example/)
 
 ---
-**Version** *20250213v5*
+**Version** *20250220v6*

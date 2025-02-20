@@ -48,7 +48,7 @@ Sollte für mehr als 60 ms kein HIGH Signal am Bus beobachtet werden, muss die A
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Etwaiger Programmcode zur Sensordaten-Verarbeitung ist ebenfalls zu dokumentieren. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://classroom.github.com/a/Ky1qCxcs) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/b5DROAy7) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -77,5 +77,5 @@ Gruppengrösse: 1-2 Person(en)
 * [Multitasking on Raspberry Pico](https://lochnerweb.de/index.php/pico_multitasking)
 
 ---
-**Version** *20240222v4*
+**Version** *20250220v5*
 

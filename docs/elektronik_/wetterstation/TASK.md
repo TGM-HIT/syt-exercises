@@ -66,7 +66,7 @@ Für eine bessere Bewertung können noch weitere Features integriert werden
 
 ### Systemtechnik
 
-Für SYT ist das Projekt vollständig technisch dokumentiert laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) auf Github hochzuladen. Abzugeben hier ist nur der Github Link zum Projekt. Eine Abgabe pro Gruppe ist ausreichend, Gruppenmitlieder sind in der Dokumentation anzugeben. Dokumentation als Readme.md, vollständiger Schaltplan (https://fritzing.org/, https://www.tinkercad.com/, https://wokwi.com/) und Komponenten Liste, Fotos vom Projekt müssen vorhanden sein. Code als .ino.
+Für SYT ist das Projekt vollständig technisch dokumentiert laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) auf Github hochzuladen. Abzugeben hier ist nur der Github Link zum Projekt. Eine Abgabe pro Gruppe ist ausreichend, Gruppenmitlieder sind in der Dokumentation anzugeben. Dokumentation als Readme.md, vollständiger Schaltplan ([fritzing](https://fritzing.org/), [tinkercad](https://www.tinkercad.com/), [wokwi](https://wokwi.com/)) und Komponenten Liste, Fotos vom Projekt müssen vorhanden sein. Code als .ino.
 
 ## Quellen
 

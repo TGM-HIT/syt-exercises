@@ -34,7 +34,13 @@ Nehmen Sie eine geeignete Aufgabenstellung/Berechnung (Aufteilung von Daten) und
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://classroom.github.com/a/cBjpwKT_) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/OpRMoNZk) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+
+## Fragenstellungen
+1. Was ist Apache Kafka und welche Use-Cases zeigen dessen charakteristischen Verwendungsmöglichkeiten?
+2. Wie implementiert Kafka seit Version 3.3 das Raft-Protokoll zur Meta-Datenverwaltung im Vergleich zu früherem ZooKeeper?
+3. Welche Trade-offs entstehen bei der Migration vom Quorum-Controller zu KRaft für hochfrequente Streams?
+4. Wo und wie können sich Apache Spark und Apache Kafka ergänzen?
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -71,11 +77,13 @@ Gruppengrösse: 1-2 Person(en)
 * "High-performance coordination service for distributed applications" [Apache Zookeeper](https://zookeeper.apache.org/doc/current/)  
 * "Distributed data store" [wikipedia](https://en.wikipedia.org/wiki/Distributed_data_store)
 * "etcd - A distributed, reliable key-value store" [online](https://etcd.io/)
+* "KRaft: Apache Kafka Without ZooKeeper" [online](https://developer.confluent.io/learn/kraft/)
+* "The Evolution of Kafka Architecture: From ZooKeeper to KRaft" [online](https://romanglushach.medium.com/the-evolution-of-kafka-architecture-from-zookeeper-to-kraft-f42d511ba242)
 
 ### Beispiele
 * "Reddit-Realtime-Streaming-Pipeline" [github](https://github.com/Hungreeee/Reddit-Realtime-Streaming-Pipeline?tab=readme-ov-file)
 * "Realtime Voting System - Kafka & Spark Example" [github](https://github.com/rajuranjan00/Real-time-voting-system)
-* "Kafka With Spark Streaming" [github](https://github.com/asaf-erlich/docker-kafka-spark)
+* "Kafka Kraft Cluster Example" [github](https://github.com/mat-sik/kafka-kraft-cluster-example/)
 
 ---
-**Version** *20240215v4*
+**Version** *20250220v6*

@@ -40,7 +40,7 @@ Für diese ÜBUNG benötigst du dein **Multimeter** und einen **weichen (HB) Ble
 
 Experimentiere ruhig noch ein wenig mit Formen, Leiterlängen und dgl. herum, bevor du zum nächsten Punkt gehst. Du kannst z.B. auch den Widerstand deiner Haut messen, indem du zwei Punkte z.B. auf deinem Arm misst.
 
-Ließ dir die Kapitel *2.6 Elektrischer Widerstand und Leitwert*, *2.7 Ohmsches Gesetz* und *Schaltzeichen*, *2.8 Leiterwiderstand* sowie *2.10 Bauarten von Widerständen* auf den Seiten 36, 37, 38, 40 und 41, sowie die Unterkapitel *Elektrischer Gleichstromkreis* und *Schaltzeichen* auf den Seiten 24 und 25 aus dem Buch **Fachkunde Elektrotechnik** durch. Sieh dir vor allem die Schaltzeichentabelle auf Seite 25 an. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+Ließ dir die Kapitel *1.2.4 Elektrischer Widerstand*, *1.2.5 Ohmsches Gesetz*, sowie *1.2.8 Bauarten der Widerstände* auf den Seiten 18-22 aus dem Buch **Fachkunde Industrieelektronik** durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
 
 Schreibe das Ohmsche Gesetz als Text und Formel auf. Das ist die wichtigste Formel die du in diesem Jahr in Systemtechnik lernst!
 
@@ -78,12 +78,14 @@ Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Gra
 Bei einem Abgabegespräch sind die laufende Umgebung sowie kurze Kontrollfragen zwecks Verständnisüberprüfung notwendig. Vor diesem Gespräch ist das Grafiz eingescannt als ein **PDF** File auf moodle abzugeben. (Microsoft Office Lens [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059); Online PDF Editor [pdffiller](https://www.pdffiller.com/de/))
 
 ## Bewertung
+
 Gruppengrösse: 1 Person
-- [ ] ### Grundanforderungen **überwiegend erfüllt**
+
+### Grundanforderungen **überwiegend erfüllt**
 
 - [ ] erfolgreicher Abschluss des Moodle Tests
-
 - [ ] Abgabe des Grafiz über Aufgaben- und Fragestellungen 
+
 ### Grundanforderungen **zur Gänze erfüllt**
 
 - [ ] Abgabegespräch über die Aufgaben- und Fragestellungen
@@ -112,6 +114,8 @@ Gruppengrösse: 1 Person
 * "Tinkercad" Autodesk; [online](https://www.tinkercad.com/learn/circuits/lessons)
 * "Ohm'sches Gesetz & Widerstände" Physik - simpleclub; Youtube; 2018-10-09; [online](https://www.youtube.com/watch?v=xklPZ1tzNTc&ab_channel=Physik-simpleclub)
 * "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 2.1.; [online](https://elearning.tgm.ac.at/pluginfile.php/11011/mod_folder/content/0/Elektrotechnische%20Grundlagen%20Elektronik%201%20-%20Heinz%20Meister%20-%20Kapitel%202_1.pdf)
+* G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
+
 
 ---
-**Version** *20220807v1*
+**Version** *20240923v2*

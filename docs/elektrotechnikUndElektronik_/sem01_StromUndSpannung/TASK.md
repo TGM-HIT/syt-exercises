@@ -25,7 +25,7 @@ Hier lernst du den Zusammenhang von Ladungsträgern, deren Bewegung und dem elek
 Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu verschriftlichen.
 
 ### Grundanforderungen
-Rufe dir im Kapitel *2.3 Elektrische Ladung (Elektrizitätsmenge)* auf der Seite 27 aus dem Buch **Fachkunde Elektrotechnik** die *elektrische Ladung* ins Gedächtnis. Ließ dir dann die Kapitel *2.4 Elektrische Spannung* Seite 28 und Kapitel *2.5 Elektrischer Strom* Seiten 31, 32 durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Alle Antworten zu den Fragestellungen findest du entweder im Buch, oder in den Quellen unten.
+Rufe dir im Kapitel *1.2.1 Ladung* auf der Seite 15 aus dem Buch **Fachkunde Industrieelektronik** die *elektrische Ladung* ins Gedächtnis. Ließ dir dann die Kapitel *1.2.2 Elektrische Spannung* Seite 16 und Kapitel *1.2.3 Elektrischer Strom* Seiten 17, 18 durch. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Alle Antworten zu den Fragestellungen findest du entweder im Buch, oder in den Quellen unten.
 
 Schreibe die Formelzeichen und Einheit der Stromstärke in der richtigen Schreibweise auf. Z.B.: **[ t ] = 1 s** (Sekunde) bedeutet, die Einheit der Zeit mit dem Formelsymbol *t* ist eine Sekunde.
 
@@ -87,6 +87,8 @@ Gruppengrösse: 1 Person
 * "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 1.4.; [online](https://elearning.tgm.ac.at/pluginfile.php/11003/mod_folder/content/0/Elektrotechnische%20Grundlagen%20Elektronik%201%20-%20Heinz%20Meister%20-%20Kapitel%201_4.pdf)
 * "Elektrotechnik für Dummies" Michael Felleisen; Seiten 55, 56; [online](https://elearning.tgm.ac.at/pluginfile.php/11003/mod_folder/content/0/Elektrotechnik%20f%C3%BCr%20Dummies%20-%20Michael%20Felleisen%20-%20Seite%2055_56.pdf)
 * "Welt der Batterien"; Stiftung Gemeinsames Rücknahmesystem Batterien; 2013; [online](https://elearning.tgm.ac.at/pluginfile.php/11003/mod_folder/content/0/Welt_der_Batterien_2013.pdf)
+* G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
+
 
 ---
-**Version** *20220807v1*
+**Version** *20240923v2*

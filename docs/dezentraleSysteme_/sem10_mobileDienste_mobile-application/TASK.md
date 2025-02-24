@@ -36,13 +36,13 @@ Die Userstories müssen in **STORIES.md** zusammengefasst sein. Die eigentliche 
 
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
-Es soll ein Protokoll erstellt werden, welches technische Hintergründe und Umsetzungsentscheidungen festhalten muss. Dieses ist in LaTeX (Protokollrichtlinien bzw. Template beachten) zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden.
+Es soll eine technische Dokumentation erstellt werden, welche Hintergründe und Umsetzungsentscheidungen festhalten muss. Diese ist in Markdown als **TechDoc.md** zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden. Es müssen dabei Bilder und Zusatzinformationen als Assets abgespeichert werden.
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/4k-y-8ym) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/lOpZbMwr) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Bewertung
-Gruppengrösse: 3-4 Personen
+Gruppengrösse: 4(5) Personen
 ### Grundanforderungen **überwiegend erfüllt**
 - [ ] Definition der Userstories (ID, Story, Points, Priority, Head)
 - [ ] Einrichtung der Entwicklungsumgebung (IDE, SW-Dev-Tools, Deployment, etc.)
@@ -71,4 +71,4 @@ Gruppengrösse: 3-4 Personen
 * "How to write Git-Commit-Messages" [elearning](https://elearning.tgm.ac.at/mod/page/view.php?id=3508)
 
 ---
-**Version** *20240215v4*
+**Version** *20250212v5*

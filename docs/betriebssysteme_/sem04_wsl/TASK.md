@@ -51,6 +51,31 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 7. Durchsuche nun mittels `pdfgrep` diese PDFs nach dem Kapazitiven Effekt (Suchbegriff "kapazitiv"). Verwende Optionen um die PDFs zu cachen, die Casesensitivität auszuschalten,  sowie Dateinamen und Seitennummer anzuzeigen. Wie lassen sich alle PDFs in einem Ordner durchsuchen?
 8. Suche weiters nach `ultraschall, microcontroller, arduino, piezo,...`
 
+### [Remote Desktop GUI](https://kskroyal.com/run-ubuntu-24-04-on-windows-11-with-gui-using-wsl/)
+
+Manches mal ist eine GUI von Vorteil. Führe folgende Befehle einzeln in WSL aus:
+
+```bash
+sudo apt update && sudo apt full-upgrade
+sudo apt install xfce4 xfce4-goodies
+sudo apt install xrdp
+sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak
+sudo sed -i 's/3389/3390/g' /etc/xrdp/xrdp.ini
+sudo sed -i 's/max_bpp=32/#max_bpp=32\nmax_bpp=128/g' /etc/xrdp/xrdp.ini
+sudo sed -i 's/xserverbpp=24/#xserverbpp=24\nxserverbpp=128/g' /etc/xrdp/xrdp.ini
+sudo /etc/init.d/xrdp start
+```
+Folgender Befehl öffnet einen Editor im Terminal
+```bash
+sudo nano /etc/xrdp/startwm.sh
+```
+
+![Nano startwm.sh](https://kskroyal.com/wp-content/uploads/2024/05/WM--800x333.jpg)
+
+Kommentiere die letzten beiden Zeilen aus mit einem '#' und füge `startxfce4` am Ende ein.
+Speichere mit STRG + O und schließe Nano mit STRG + X.
+
+Öffne **Remote Desktop Connection** in Windows mit **localhost:3389** bzw. **3390**.
 
 ## Fragestellungen
 

@@ -55,11 +55,11 @@ Auf dem Webinterface soll die Farben der Status durch ein einfaches grafisches E
 Die Daten und der Zustand soll über ein Display, welches am Mikrocontroller angeschlossen ist, angezeigt werden. Das Display wird von der Schule zur Verfügung gestellt.
 ## Nice-To-Haves
 Für eine bessere Bewertung können noch weitere Features integriert werden
-- Sleep Mode: Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen  
-- Telegram/Discord/ … Bot: Daten sollen über einen Bot an ein Nachrichtenservice gesendet werden.  
-- Smartphone App (Remote XY, Blynk, …): App-Plattform soll verwendet werden, um Daten am Smartphone einsehen zu können.  
-- Weitere Varianten integrieren: Siehe oben  
-- ... Gerne auch eigene Ideen
+* Sleep Mode: Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen
+* Telegram/Discord/ … Bot: Daten sollen über einen Bot an ein Nachrichtenservice gesendet werden.
+* Smartphone App (Remote XY, Blynk, …): App-Plattform soll verwendet werden, um Daten am Smartphone einsehen zu können.
+* Weitere Varianten integrieren: Siehe oben
+* ... Gerne auch eigene Ideen
 
 ## Abgabe
 

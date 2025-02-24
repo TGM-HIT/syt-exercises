@@ -55,10 +55,19 @@ Auf dem Webinterface soll die Farben der Status durch ein einfaches grafisches E
 Die Daten und der Zustand soll über ein Display, welches am Mikrocontroller angeschlossen ist, angezeigt werden. Das Display wird von der Schule zur Verfügung gestellt.
 ## Nice-To-Haves
 Für eine bessere Bewertung können noch weitere Features integriert werden
-- Sleep Mode: Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen
-- Telegram/Discord/ … Bot: Daten sollen über einen Bot an ein Nachrichtenservice gesendet werden.
+- Sleep Mode: Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen.  
+- Telegram/Discord/ … Bot: Daten sollen über einen Bot an ein Nachrichtenservice gesendet werden.  
 - Smartphone App (Remote XY, Blynk, …): App-Plattform soll verwendet werden, um Daten am Smartphone einsehen zu können.
 - Weitere Varianten integrieren: Siehe oben
+- ... Gerne auch eigene Ideen
+
+## Abgabe
+
+### Systemtechnik
+
+Für SYT ist das Projekt vollständig technisch dokumentiert laut [Dokumentationsrichtlinie](https://elearning.tgm.ac.at/pluginfile.php/18149/mod_resource/content/1/Dokumentationsrichtlinie.md) auf Github hochzuladen. Abzugeben hier ist nur der Github Link zum Projekt. Eine Abgabe pro Gruppe ist ausreichend, Gruppenmitlieder sind in der Dokumentation anzugeben. Dokumentation als Readme.md, vollständiger Schaltplan (https://fritzing.org/, https://www.tinkercad.com/, https://wokwi.com/) und Komponenten Liste, Fotos vom Projekt müssen vorhanden sein. Code als .ino.
+
+## Quellen
 
 [1] „Blynk: a low-code IoT software platform for businesses and developers“. Zugegriffen: 18. Februar 2025. [Online]. Verfügbar unter: [https://blynk.io](https://blynk.io)
 
@@ -101,4 +110,4 @@ Durchgestrichene Sensoren werden nicht verteilt, da für dieses Projekt nicht si
 
 ---
 
-**Version** *20250220v1*
+**Version** *20250220v2*

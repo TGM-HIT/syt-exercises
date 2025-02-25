@@ -109,6 +109,8 @@ Für SYT ist das Projekt vollständig technisch dokumentiert laut [Dokumentation
 [19] „Arduino - DHT11 | Arduino Tutorial“, Arduino Getting Started. Zugegriffen: 18. Februar 2025. [Online]. Verfügbar unter: [https://arduinogetstarted.com/tutorials/arduino-dht11](https://arduinogetstarted.com/tutorials/arduino-dht11)![[46 Microsoft Lens copy.pdf]]
 Durchgestrichene Sensoren werden nicht verteilt, da für dieses Projekt nicht sinnvoll.
 
+![Sensoren](sensors.jpg)
+
 ---
 
-**Version** *20250220v2*
+**Version** *20250225v3*

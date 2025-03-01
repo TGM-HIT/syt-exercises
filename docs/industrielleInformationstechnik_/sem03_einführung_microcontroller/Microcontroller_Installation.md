@@ -82,9 +82,13 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
     ![Pinout WROOM](https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-30PIN-DEVBOARD.png)
 
-??? example "ESP32-C3"
+??? example "ESP32-C3 M-1"
 
-    ![Pinout C3](https://docs.espressif.com/projects/arduino-esp32/en/latest/_images/esp32-c3_devkitM-1_pinlayout.png)
+    ![Pinout C3 M-1](https://docs.espressif.com/projects/arduino-esp32/en/latest/_images/esp32-c3_devkitM-1_pinlayout.png)
+
+??? tip "ESP32-C3 C-02"
+
+    ![Pinout C3 C-02](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/_images/esp32-c3-devkitc-02-v1-pinout.png)
 
 - [Simulation mit Tinkercad](https://www.tinkercad.com/)
 - [Wokwi Simulator](https://wokwi.com/)
@@ -106,4 +110,4 @@ Lade den entsprechenden [Treiber](https://www.silabs.com/developers/usb-to-uart-
 
 
 ---
-**Version** *20241017v2*
+**Version** *20250301v3*

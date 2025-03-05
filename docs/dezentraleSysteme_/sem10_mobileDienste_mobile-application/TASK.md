@@ -70,5 +70,8 @@ Gruppengrösse: 4(5) Personen
 * "Git Commit Good Practice" [openstack](https://wiki.openstack.org/wiki/GitCommitMessages#Examples_of_good_practice)
 * "How to write Git-Commit-Messages" [elearning](https://elearning.tgm.ac.at/mod/page/view.php?id=3508)
 
+* "End-to-End Testing with Cypress.io" [online](https://docs.cypress.io/app/end-to-end-testing/writing-your-first-end-to-end-test)
+* "Writing tests with Playwright" [online](https://playwright.dev/docs/writing-tests)
+
 ---
-**Version** *20250212v5*
+**Version** *20250305v6*

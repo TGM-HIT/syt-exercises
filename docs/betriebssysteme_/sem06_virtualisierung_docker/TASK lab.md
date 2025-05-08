@@ -121,6 +121,8 @@ services:
     volumes:
       - ./homepage-config:/app/config # Make sure your local config directory exists
       - /var/run/docker.sock:/var/run/docker.sock # (optional) For docker integrations
+    environment:
+      HOMEPAGE_ALLOWED_HOSTS: localhost:3045
 ```
 
 Wenn dieses File als `docker-compose.yml` abgespeichert wird, muss bei allen Aufrufen das Datei-Argument nicht angehängt werden. Die Datei sollte ihren eigenen Ordner bekommen. Dieser sollte auch nicht in einem Cloud Speicher Ordner (OneDrive, Dropbox, ...) abgelegt werden, da hier Volumes verwendet werden. Wenn der Installations-Prozess erfolgreich abgeschlossen wurde, ist das Tool docker-compose lauffähig und kann nun Uptime Kuma und Homepage als Container und komplette Services gestartet werden. Dies kann durch `docker-compose up -d` bewerkstelligt werden. Starte die Container mit dem compose Befehl.
@@ -133,7 +135,7 @@ Der größte Vorteil des Compose Tools ist jedoch die Verbindung von mehreren Co
 
 Öffne das Frontend von Uptime Kuma und erstelle einen Account. Erstelle einen Monitor für https://elearning.tgm.ac.at/ und einen weiteren für deinen Homepage Container (Add New Monior --> Type: Ping --> Hostname: `homepage`). Eventuell schaffst du es auch Notificationen zu senden falls ein Service down geht.
 
-Öffne auch das Frontend von Homepage. Dieses lässt sich anders konfigurieren: im Ordner wo auch das docker-compose.yml liegt wurden zwei neue Ordner erstellt. Öffne die `Servies.yml` im Homepage Ordner. Füge Uptime-Kuma mit `http://localhost:3001/` hinzu. Lade das Frontend von Homepage neu um den neuen Eintrag zu sehen.
+Öffne auch das Frontend von Homepage. Dieses lässt sich anders konfigurieren: im Ordner wo auch das docker-compose.yml liegt wurden zwei neue Ordner erstellt. Öffne die `Services.yml` im Homepage Ordner. Füge Uptime-Kuma mit `http://localhost:3001/` hinzu. Lade das Frontend von Homepage neu um den neuen Eintrag zu sehen.
 
 Was lässt sich noch alles mit Uptime-Kuma und Homepage überwachen?
 

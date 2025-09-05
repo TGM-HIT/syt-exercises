@@ -131,7 +131,7 @@ Beschreibe den allgemeinen Ablauf einer Wiederherstellung nach einem Festplatten
 
 - Welche Anforderungen sind an die neue Festplatte zu richten?
 
-###### Teil 6: Wiederherstellung
+###### Teil 7: Wiederherstellung
 
 Recherchiere Alternativen zu RAID, die ebenfalls der Datensicherheit, Redundanz oder Performance-Steigerung dienen.
 

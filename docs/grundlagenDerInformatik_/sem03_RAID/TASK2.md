@@ -188,12 +188,14 @@ Gruppengröße: 1 Person
 - [ ] Erfolgreicher Abschluss des Moodle Tests
 
 - [ ] Abgabe des Grafiz über Aufgaben- und Fragestellungen
-  
-  ### Grundanforderungen **zur Gänze erfüllt**
+
+### Grundanforderungen **zur Gänze erfüllt**
 
 - [ ] Abgabegespräch über die Aufgaben- und Fragestellungen
-  
-  ## Quellen
+
+
+## Quellen
+
 * "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
 
 * "What is RAID 0, 1, 5, & 10?" PowerCert Animated Videos; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=U-OCdTeZLac)

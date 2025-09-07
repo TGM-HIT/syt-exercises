@@ -33,55 +33,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 ### Grundanforderungen
 
-###### Teil 1: Grundlagenrecherche
-
-Recherchiere und erkläre die Funktionsweise folgender Speichertechnologien:
-
-- Elektronischer Speicher (Beispiele: SSD, RAM, Flash)
-
-- Magnetischer Speicher (Beispiele: HDD, Magnetband)
-
-- Optischer Speicher (Beispiele: CD, DVD, Blu-ray)
-
-Erstelle eine Vergleichstabelle mit folgenden Zeilen:
-
-- Funktionsprinzip
-
-- Eigenschaften (z.B. Geschwindigkeit, Kapazität, Haltbarkeit, Kosten pro GB, ...)
-
-- Typischer Einsatz
-
-###### **Teil 2: RAID-Level im Detail**
-
-Erstellen Sie eine Tabelle mit folgenden RAID-Leveln:
-
-- RAID 0
-
-- RAID 1
-
-- RAID 5
-
-- RAID 6
-
-- RAID 10
-
-Spalten:
-
-- Anzahl benötigter Festplatten
-
-- Redundanz
-
-- Performance (Lesen/Schreiben)
-
-- Speicherplatznutzung
-
-- Wiederherstellbarkeit
-
-- Datenverfügbarkeit während eines Ausfalls
-
-- Typische Einsatzszenarien
-
-###### **Teil 3: RAID vs. Backup**
+##### **Teil 1: RAID vs. Backup**
 
 Erarbeite:
 
@@ -91,9 +43,17 @@ Erarbeite:
 
 - Wie RAID und Backup zusammenarbeiten können?
 
-###### Teil 4: Szenarien Analyse
+##### Teil 2: Szenarienanalyse
 
-Wählen Sie für jedes Szenario den passenden RAID-Level und begründen Sie Ihre Wahl.
+Beantworten Sie für jedes Szenario:
+
+- Ist RAID notwendig? Welcher RAID-Level ist geeignet?
+
+- Welche Risiken bestehen?
+
+- Welche Backup-Strategie sollte zusätzlich eingesetzt werden?
+
+- Wie wird die Wiederherstellung nach einem Ausfall durchgeführt?
 
 <u>Szenario 1: Medienagentur</u>
 
@@ -107,11 +67,27 @@ Patientendaten müssen sicher gespeichert werden. Zugriffsgeschwindigkeit ist we
 
 Ein Server hostet Multiplayer-Spiele. Performance ist wichtig, aber Datenverlust wäre nicht katastrophal.
 
-<u>Szenario 4: Kleine Firma</u>
+<u>Szenario 4: Kleinunternehmen mit Cloud-Nutzung</u>
 
-Eine kleine Firma betreibt einen Server für Kundendaten, der rund um die Uhr verfügbar sein muss. Die Datenmenge ist moderat, aber Ausfallsicherheit ist kritisch.
+Ein kleines Unternehmen speichert Dokumente und Rechnungen hauptsächlich in der Cloud. Lokale Server dienen nur als Zwischenspeicher, und die Internetverbindung ist stabil.
 
-###### **Teil 5: RAID-Konfiguration mit dem Intel RAID BIOS Simulator**
+<u>Szenario 5: Forschungslabor</u>
+
+Ein Labor speichert täglich wachsende Messdaten, die langfristig archiviert werden müssen. Zugriffsgeschwindigkeit ist weniger wichtig als Datenintegrität und Speicherplatz.
+
+##### **Teil 3: Konzept für ein ausfallsicheres System**
+
+Du bist IT-Administrator eines mittelständischen Unternehmens, das sensible Kundendaten verarbeitet. Deine Aufgabe ist es, ein System zu entwerfen, das möglichst ausfallsicher ist und auch bei Hardwarefehlern, Stromausfällen oder Datenverlusten funktionsfähig bleibt.
+
+Erarbeite:
+
+- Welche Maßnahmen sind besonders wichtig für die Wiederherstellung nach einem Ausfall?
+
+- Was wäre der „Worst Case“ – und wie würde dein System darauf reagieren?
+
+- Welche Kompromisse musstest du eingehen (z. B. Kosten vs. Sicherheit)?
+
+##### **Teil 4: RAID-Konfiguration mit dem Intel RAID BIOS Simulator**
 
 Benutzeroberfläche eines RAID-Controllers kennenlernen und eine RAID-Konfiguration simulieren – ohne echte Hardware zu verwenden.
 
@@ -123,15 +99,19 @@ Voraussetzung: Intel RAID BIOS Simulator (Download und Installation) [RAID BIOS 
 
 - Welche erweiterten Konfigurationsmöglichkeiten gibt es?
 
-###### Teil 6: Wiederherstellung
+##### Teil 5: Wiederherstellung
+
+Simuliere ein RAID-Ausfallszenario.
 
 Beschreibe den allgemeinen Ablauf einer Wiederherstellung nach einem Festplattenausfall.
+
+Beispielfragen:
 
 - Wie wird der Ausfall erkannt?
 
 - Welche Anforderungen sind an die neue Festplatte zu richten?
 
-###### Teil 7: Wiederherstellung
+##### Teil 6: Wiederherstellung
 
 Recherchiere Alternativen zu RAID, die ebenfalls der Datensicherheit, Redundanz oder Performance-Steigerung dienen.
 
@@ -208,4 +188,4 @@ Gruppengröße: 1 Person
 
 ---
 
-**Version** *20250905v1*
+**Version** *20250907v1*

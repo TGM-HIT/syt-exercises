@@ -35,6 +35,19 @@ Die sorgfältig geprüfte Integration von KI-Werkzeugen ermöglicht uns:
 
 Wir legen Wert auf Transparenz bezüglich des Einsatzes von KI in der Lehre. Die Kennzeichnung mit dem 🤖-Symbol dient der Offenheit und entspricht unserem Bildungsauftrag, auch den kritischen und bewussten Umgang mit neuen Technologien zu vermitteln.
 
+### Heißt das wir Schülerinnen und Schüler dürfen auch KI benutzen?
+
+Ja, wenn die Lehrperson das für pädagogisch sinnvoll erachtet und ausdrücklich erlaubt. Als Bildungseinrichtung sehen wir es als wichtige Aufgabe an, Schülerinnen und Schülern den verantwortungsvollen und kritischen Umgang mit KI-Technologien zu vermitteln.
+
+Der Einsatz von KI-Tools durch Lernende ist daher grundsätzlich möglich, wenn:
+
+- die Lehrperson dies für den jeweiligen Lernkontext für wertvoll erachtet
+- eine entsprechende Erlaubnis und Anleitung erfolgt ist
+- der pädagogische Nutzen im Vordergrund steht
+- Transparenz über die Verwendung gewährleistet wird
+
+Ziel ist es, dass unsere Schülerinnen und Schüler lernen, KI als Werkzeug sinnvoll zu nutzen, deren Grenzen zu verstehen und dabei ihre eigenen Fähigkeiten weiterzuentwickeln.
+
 **Wichtig:** Niemals werden KI-generierte Inhalte ohne vorherige gründliche Durchsicht und Überarbeitung durch qualifizierte Lehrpersonen in den Kursen verwendet.
 
 ------

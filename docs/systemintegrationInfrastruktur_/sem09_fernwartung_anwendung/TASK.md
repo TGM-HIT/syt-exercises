@@ -134,7 +134,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Einrichtung von Wireguard
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/DyNwi9I) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/DyNwi9IU) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 

@@ -89,7 +89,7 @@ Gruppengröße: 1-2 Person(en)
 
 ## Classroom Repository
 
-[Hier](https://classroom.github.com/a/rw8UxoH6) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/Dwu8S2r1) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 

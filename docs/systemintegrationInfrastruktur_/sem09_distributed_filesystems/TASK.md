@@ -51,7 +51,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] HDFS vs. GFS ausarbeiten
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/lKlOrio3) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/ftYW-Byi) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 

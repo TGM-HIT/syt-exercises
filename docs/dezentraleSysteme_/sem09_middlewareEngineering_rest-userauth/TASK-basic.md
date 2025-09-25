@@ -54,7 +54,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Login und Rückgabe eines JWT Tokens
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/t8sGFKJz) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/Hx_yUMet) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Quellen
 * "Creating a Spring Security Key for Signing a JWT Token" [baeldung.com](https://www.baeldung.com/spring-security-sign-jwt-token)

@@ -65,6 +65,7 @@ Gruppengrösse: 1-2 Person(en)
 * "Django REST framework"; Tom Christie; [online](http://www.django-rest-framework.org/)
 * "Eve. The Simple Way to REST"; Nicola Iarocci; [online](http://python-eve.org/)
 * "Heroku makes it easy to deploy and scale Java apps in the cloud"; [online](https://www.heroku.com)
+* "Hypertext Transfer Protocol Version 2 (HTTP/2)" [rfc7540](https://datatracker.ietf.org/doc/html/rfc7540)
 
 ---
-**Version** *20241003v4*
+**Version** *20250925v5*

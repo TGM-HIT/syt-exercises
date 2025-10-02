@@ -29,11 +29,36 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 ### Grundanforderungen
 Sieh dir die [Grundlagen Präsentationen](https://elearning.tgm.ac.at/mod/folder/view.php?id=4629) an. Die wichtigsten Punkte findest du in den Kommentaren.
 
-Nach Durcharbeiten der Unterlagen ist das Ziel eine Erstellung einer Präsentation. Sinnvoll ist es eine Präsentation zu erstellen die für einen anderen Gegenstand verwendet werden kann. Jedoch kann auch eine Präsentation über jedes computerbezogene Thema erstellt werden. Lade zusätzlich zu deinem Grafiz noch die Präsentation als PPT *und* PDF hoch.
+**Teil 1:** Nach Durcharbeiten der Unterlagen ist das Ziel eine Erstellung einer Präsentation. Sinnvoll ist es eine Präsentation zu erstellen die für einen anderen Gegenstand verwendet werden kann. Jedoch kann auch eine Präsentation über jedes computerbezogene Thema erstellt werden. Lade zusätzlich zu deinem Grafiz noch die Präsentation als PPT *und* PDF hoch.
+
+**Teil 2:** Erstelle in PowerPoint eine einzelne Folie, die folgende Inhalte enthält:
+
+- Projekttitel
+- Projektstatus (z. B. „In Arbeit“, „Verzögert“, „Abgeschlossen“)
+- Ampelstatus (grün/gelb/rot) zur visuellen Darstellung
+- Meilensteine (z. B. als Zeitstrahl oder Liste)
+- Erreichte Ergebnisse (kurz und stichpunktartig)
+- Offene Aufgaben / Nächste Schritte
+- Verantwortliche Person(en)
+
+Gestalte die Folie übersichtlich und visuell ansprechend, z. B. durch:
+
+- Icons oder Symbole
+- Diagramme oder Fortschrittsbalken
+- Farbige Hervorhebungen
 
 ### Erweitert
 
 Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsentationen nutzen kannst (es sollten jedenfalls Schullogo, Foliennummer und Fußzeile vorhanden sein). Ein Beispiel dieser Datei findest du unter Lernmaterialien "[Poszvek.thmx](https://elearning.tgm.ac.at/pluginfile.php/61421/mod_folder/content/0/Poszvek.thmx)"
+
+Folgende Layouts müssen mindestens vorhanden sein:
+
+- Titelfolie
+- Agenda
+- Trenner
+- Zitat
+- Persönliche Vorstellung
+- 1, 2 und 3 Spaltendesign
 
 Abgabe des Office Designs (dateiname.thmx).
 
@@ -50,17 +75,26 @@ Verwende ein alternatives Präsentationsprogramm (siehe unten) und baue die Prä
 
 ### Grundlegend
 
-* Welche Layouts gibt es?
-* Welche Medien kann man einbinden?
+* Warum ist es wichtig, bei einer Präsentation ein einheitliches Foliendesign zu verwenden?
+* Welche Vorteile bietet der Einsatz von Bildern und Grafiken in einer PowerPoint-Präsentation?
+* Was sollte man bei der Verwendung von Animationen und Übergängen beachten, damit sie nicht ablenken?
+* Wie kann man sicherstellen, dass eine Präsentation auch auf einem anderen Computer korrekt angezeigt wird?
+* Warum ist es sinnvoll, Notizen in PowerPoint zu verwenden, und wie helfen sie bei der Präsentation?
+* Wie kann man PowerPoint nutzen, um Inhalte interaktiv zu gestalten?
+* Welche Rolle spielt die Zielgruppe bei der Gestaltung einer PowerPoint-Präsentation?
+* Was sind mögliche Nachteile, wenn man zu viel Text auf eine Folie schreibt?
+* Wie kann man mit PowerPoint eine Präsentation barrierefrei gestalten (z. B. für Menschen mit Sehbehinderung)?
 
 TIPP: Alle Antworten zu den Fragestellungen findest du in den Quellen mit nur einem Klick.
 
 ### Erweitert
 
-* Was ist ein Folienmaster?
-* Wie kann man eine Präsentation besser gestalten?
-* Welche Designrichtlinien konntest du anwenden?
+* Was ist der Unterschied zwischen dem Folienmaster und einer normalen Folie?
+* Welche gelernten PowerPoint Designrichtlinien konntest du anwenden?
 * Welche Vor/Nachteile hat das von dir gewählte Präsentationsprogramm?
+* Wie kann man sicherstellen, dass der Inhalt einer Präsentation auf das Ziel der Präsentation abgestimmt ist?
+* Warum ist es wichtig, eine Präsentation in Einleitung, Hauptteil und Schluss zu gliedern?
+* Wie kann man sicherstellen, dass die Reihenfolge der Folien logisch und nachvollziehbar ist?
 
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
@@ -86,4 +120,4 @@ Gruppengröße: 1 Person
 * "Powerpoint Materialien"; [online](https://elearning.tgm.ac.at/mod/folder/view.php?id=4629)
 
 ---
-**Version** *20241028v2*
+**Version** *20251002v1*

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Widerstand und das ohmsche Gesetz*" - Taskdescription
 
 ## Einführung

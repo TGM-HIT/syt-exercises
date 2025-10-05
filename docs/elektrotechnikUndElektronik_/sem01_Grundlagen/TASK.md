@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Grundlagen*" - Taskdescription
 
 ## Einführung
@@ -35,7 +41,15 @@ Schau dir die einzelnen Spannungen im Bild genau an und dann überlege, welche S
 
 Alles auf unserer Welt besteht aus Atomen. Diese sind die Grundlage aller Materialien auf der Welt. Obwohl Atome immer einem grundsätzlichen Aufbau entsprechen (Kern, Hülle, Elektronen, Protonen und Neutronen), unterscheiden sich diese jedoch in ihrem Aufbau leicht voneinander und dies hat die vielen unterschiedlichen Stoffe auf unsere Erde zur Folge. Einige davon leiten Strom, andere nicht. Um elektronischen Strom und Stromfluss zu verstehen, ist es nötig, sich das Atom „aus der Nähe“ anzusehen.
 
-Ließ dir Kapitel *1.2.1 Ladung* auf der Seite 15 aus dem Buch **Fachkunde Industrieelektronik**. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+Ließ dir Kapitel *1.2.1 Ladung* auf der 15 aus dem Buch **Fachkunde Industrieelektronik und Informationstechnik**. Versuche mithilfe des Buches und des Internets die Fragestellungen unten zu beantworten. Du kannst auch die Quellen nach weiteren Informationen durchsuchen.
+
+### Erweiterte Anforderungen
+
+Zuhause finde und Dokumentiere mindestens 5 möglichst unterschiedliche Elektrische Betriebsmittel (PC, Waschmaschine, Mixer,...):
+
+1. Mache ein Foto von dem Gerät
+2. Mache ein Foto des elektrischen Typenschilds des Geräts (meist an der Rück- oder Unterseite). Es beinhaltet Informationen wie Leistung, Stromverbrauch, Spannung,...
+3. Erstelle eine Tabelle, diese sollte beinhalten: Bezeichnung des Geräts, Zuordnung zu Elektronik/Elektrotechnik, Leistung, Stromverbrauch, Betriebsspannung, Wechsel/Gleichstrom, geschätzte Stromkosten im Jahr
 
 
 ## Fragestellungen
@@ -98,4 +112,4 @@ Gruppengrösse: 1 Person
 
 
 ---
-**Version** *20220807v1*
+**Version** *20251005v1*

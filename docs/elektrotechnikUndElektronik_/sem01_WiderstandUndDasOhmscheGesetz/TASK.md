@@ -68,6 +68,16 @@ Ließ dir Kapitel 2.1 aus dem Buch "Elektrotechnische Grundlagen–Elektronik 1"
 
 ### Erweitert
 
+* Wie hängen Stromstärke und Elektrizitätsmenge zusammen?
+* Was ist 1 Coulumb?
+* Wie sind Stromstärke und Elektrizitätsmenge definiert?
+* Wieso kann der Stromfluss unendlich schnell sein, wenn Elektronen so langsam sind?
+* Wie ist die Spannung definiert?
+* Was versteht man unter Potential?
+* Was ist der Unterschied zwischen Spannung uns Potential?
+* Wie funktioniert eine Batterie?
+* Welche Arten von Batterien gibt es?
+* Was bedeutet Elektronenmangel/-überschuss?
 * Wie lautet die Definition des Ohms?
 * Was ist der unterschied zwischen dem elektrischen und dem spezifischen Widerstands?
 * Was ist der Unterschied zwischen der Strom- und Spannungsmessung?
@@ -118,4 +128,4 @@ Gruppengrösse: 1 Person
 
 
 ---
-**Version** *20240923v2*
+**Version** *20251005v1*

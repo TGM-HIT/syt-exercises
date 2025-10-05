@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Elektrische Leistung und Arbeit*" - Taskdescription
 
 ## Einführung
@@ -125,3 +131,11 @@ Gruppengröße: 1 Person
 
 ---
 **Version** *20240923v2*
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 6px;
+}
+</style>

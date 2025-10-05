@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+
+---
+
 # "*Strom und Spannung*" - Taskdescription
 
 ## Einführung
@@ -45,19 +51,6 @@ Schreibe die Formelzeichen und Einheit der Stromstärke in der richtigen Schreib
 * Welche Voraussetzungen sind nötig damit Strom fließen kann?
 * Woraus besteht ein einfacher geschlossener Stromkreis?
 
-### Erweitert
-
-* Wie hängen Stromstärke und Elektrizitätsmenge zusammen?
-* Was ist 1 Coulumb?
-* Wie sind Stromstärke und Elektrizitätsmenge definiert?
-* Wieso kann der Stromfluss unendlich schnell sein, wenn Elektronen so langsam sind?
-* Wie ist die Spannung definiert?
-* Was versteht man unter Potential?
-* Was ist der Unterschied zwischen Spannung uns Potential?
-* Wie funktioniert eine Batterie?
-* Welche Arten von Batterien gibt es?
-* Was bedeutet Elektronenmangel/-überschuss?
-
 ## Abgabe
 Die durchgeführten Tätigkeiten und gewünschten Elemente müssen auf einem Grafiz zusammengefasst werden. Die Fragestellungen sollen mit Quellen ebenfalls in diesem Dokument bearbeitet werden.
 
@@ -70,10 +63,6 @@ Gruppengrösse: 1 Person
 - [ ] Abgabe des Grafiz über Aufgaben- und Fragestellungen 
 ### Grundanforderungen **zur Gänze erfüllt**
 - [ ] Abgabegespräch über die Aufgaben- und Fragestellungen
-### Erweiterte Anforderungen
-
-- [ ] Abgabegespräch über die erweiterten Fragestellungen
-
 ## Quellen
 * "Microsoft Office Lens";  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059)
 * "Online PDF Editor"; zuletzt besucht 2021-08-06; [pdffiller](https://www.pdffiller.com/de/)
@@ -91,4 +80,4 @@ Gruppengrösse: 1 Person
 
 
 ---
-**Version** *20240923v2*
+**Version** *20251005v1*

@@ -47,6 +47,8 @@ Gestalte die Folie übersichtlich und visuell ansprechend, z. B. durch:
 - Diagramme oder Fortschrittsbalken
 - Farbige Hervorhebungen
 
+Sieh dir dazu die beiden Beispiele an: [Status Template 1.pdf](https://elearning.tgm.ac.at/pluginfile.php/209074/mod_assign/introattachment/0/Status%20Template%201.pdf?forcedownload=0) [Status Template 2.pdf](https://elearning.tgm.ac.at/pluginfile.php/209074/mod_assign/introattachment/0/Status%20Template%202.pdf?forcedownload=0)
+  
 ### Erweitert
 
 Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsentationen nutzen kannst (es sollten jedenfalls Schullogo, Foliennummer und Fußzeile vorhanden sein). Ein Beispiel dieser Datei findest du unter Lernmaterialien "[Poszvek.thmx](https://elearning.tgm.ac.at/pluginfile.php/61421/mod_folder/content/0/Poszvek.thmx)"

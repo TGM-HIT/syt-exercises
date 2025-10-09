@@ -36,7 +36,7 @@ Für die Abnahme wird empfohlen, dass jeder Server eine Ausgabe mit entsprechend
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Etwaiger Programmcode ist ebenfalls zu dokumentieren. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/nlvLQrYD) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Fragestellung für die Dokumentation
 Verlgeichen Sie die verwendeten Load Balancing Methoden und stellen Sie diese gegenüber.

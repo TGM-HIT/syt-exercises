@@ -64,7 +64,7 @@ Gruppengrösse: 1-2 Person(en)
 ## Quellen
 * [Comparing Load Balancing Algorithms](https://www.jscape.com/blog/load-balancing-algorithms)
 * [Java RMI Tutorial - PI Calculation](https://docs.oracle.com/javase/tutorial/rmi/overview.html)
-* [RMI Example](https://github.com/mborko/code-examples/tree/master/java/rmiRemote)
+* [LoadBalancing RMI Example](https://github.com/mborko/code-examples/tree/master/java/rmiLoadBalancing)
 
 --
 **Version** *20251009v1*

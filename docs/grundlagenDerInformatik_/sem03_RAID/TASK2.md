@@ -190,14 +190,15 @@ Gruppengröße: 1 Person
 
 ### Videos
 
-- https://www.youtube.com/watch?v=1YoQ-T0wMfE
+??? note
 
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/1YoQ-T0wMfE" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+    <div>
+      <div style="position:relative;padding-top:56.25%;">
+        <iframe src="https://www.youtube.com/embed/1YoQ-T0wMfE" frameborder="0" allowfullscreen
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+      </div>
+    </div>
+
 
 ---
 

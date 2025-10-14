@@ -134,8 +134,9 @@ Gruppengröße: 1 Person
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - „Oh Shit, Git!?!“ Zugegriffen: 12. November 2024. [Online](https://ohshitgit.com/). Verfügbar unter: https://ohshitgit.com/
 - [Oh, my Git!](https://ohmygit.org/)
+- [Learngit.io](https://app.learngit.io/education/)
 
 
 ---
 
-**Version** *20241112v2*
+**Version** *20251014v1*

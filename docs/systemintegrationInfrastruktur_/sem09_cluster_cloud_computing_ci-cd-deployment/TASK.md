@@ -9,7 +9,7 @@ In dieser Übung soll ein bestehendes Projekt mit Github Actions in einen CI/CD 
 - Es sollen Tools kennengelernt und für folgende Eckpunkte eingesetzt werden: Automation, Transparency, Speed, Resilience, Security, Scalability
 
 Die folgende Pipeline soll verstanden und umgesetzt werden:
-![CI/CD Pipeline](https://github.com/resources/articles/ci-cd)
+![CI/CD Pipeline](https://images.ctfassets.net/8aevphvgewt8/6TzteuR1V2yAvtI8zT4xPt/b360a4f1c6af78cefcd8a16a4d3db589/Group_48096049__2___1_.png?w=1800&fm=webp&q=90)
 
 ## Kompetenzzuordnung
 

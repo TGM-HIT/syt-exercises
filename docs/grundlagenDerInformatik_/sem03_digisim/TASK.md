@@ -72,7 +72,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 5. 4Bit ADDER
 
-![4Bit ADDER](sources/4Bit ADDER new.png)
+![4Bit ADDER](sources/4Bit Adder new.png)
 
 6. ALU
 

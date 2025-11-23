@@ -126,4 +126,4 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 ---
 
-**Version**  *20240814v2*
+**Version**  *20251123v3*

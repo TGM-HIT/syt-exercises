@@ -22,28 +22,57 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 ### ALU
 
-1. NAND (AND --> NOT)
+1. Ein IN-1 --> NAND (von dem einen Eingang in beide NAND Eingänge)
 
-![WT NAND](sources/WT NAND.png)
+| A    | NOT  |
+| ---- | ---- |
+| 0    | 1    |
+| 1    | 0    |
 
-2. OR (2xNOT --> NAND)
+2. AND: NAND --> NOT
 
-![WT OR](sources/WT OR.png)
+| A    | B    | AND  |
+| ---- | ---- | ---- |
+| 0    | 0    | 0    |
+| 0    | 1    | 0    |
+| 1    | 0    | 0    |
+| 1    | 1    | 1    |
 
-3. XOR (OR+NAND --> AND)
+3. OR: NOT/NOT --> NAND
+
+| A    | B    | AND  |
+| ---- | ---- | ---- |
+| 0    | 0    | 0    |
+| 0    | 1    | 1    |
+| 1    | 0    | 1    |
+| 1    | 1    | 1    |
+
+4. XOR (OR+NAND --> AND)
 
 ![XOR](sources/XOR.png)
 
 
 
-4. ADDER
+5. ADDER
 
 ![WT Halbaddierer](sources/WT Halbaddierer.png)
+
+| CARRY IN | A    | B    | CARRY | SUM  |
+| -------- | ---- | ---- | ----- | ---- |
+| 0        | 0    | 0    | 0     | 0    |
+| 0        | 0    | 1    | 0     | 1    |
+| 0        | 1    | 0    | 0     | 1    |
+| 0        | 1    | 1    | 1     | 0    |
+| 1        | 0    | 0    | 0     | 1    |
+| 1        | 0    | 1    | 1     | 0    |
+| 1        | 1    | 0    | 1     | 0    |
+| 1        | 1    | 1    | 1     | 1    |
+
 ![Addierer](sources/ADDER.png)
 
 5. 4Bit ADDER
 
-![4Bit ADDER](sources/4Bit ADDER.png)
+![4Bit ADDER](sources/4Bit ADDER new.png)
 
 6. ALU
 

@@ -147,6 +147,8 @@ Save -> Namen geben -> Customize -> 7 Segment hinzufügen
 
 ![Simple CPU](sources/CPU new.png)
 
+Weiterführend: [Turing Complete - Steam](https://store.steampowered.com/app/1444480/Turing_Complete/)
+
 ---
 
 **Version**  *20251207v4*

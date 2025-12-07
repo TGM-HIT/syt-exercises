@@ -40,7 +40,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 3. OR: NOT/NOT --> NAND
 
-| A    | B    | AND  |
+| A    | B    | OR   |
 | ---- | ---- | ---- |
 | 0    | 0    | 0    |
 | 0    | 1    | 1    |
@@ -143,7 +143,7 @@ Save -> Namen geben -> Customize -> 7 Segment hinzufügen
 
 ![BUS Buffer](sources/BUS Buffer new.png)
 
-2. Simple CPU
+### Simple CPU
 
 ![Simple CPU](sources/CPU new.png)
 

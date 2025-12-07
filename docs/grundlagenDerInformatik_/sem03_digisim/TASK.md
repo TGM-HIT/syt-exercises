@@ -76,27 +76,46 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 6. ALU
 
-![ALU](sources/ALU.png)
+7-Segment Später hinzufügen
+
+![ALU](sources/ALU new.png)
 
 ### Register
 
 1. SR LATCH (2. Video)
 
+| S (Set) | R (Reset) | Q               |
+| ------- | --------- | --------------- |
+| 0       | 0         | Q-1 (Speichern) |
+| 0       | 1         | 0               |
+| 1       | 0         | 1               |
+| ~~1~~   | ~~1~~     | (undefined)     |
+
 ![SR LATCH](sources/SR LATCH.png)
 
 2. NOR
+
+| A    | B    | Q    |
+| ---- | ---- | ---- |
+| 0    | 0    | 1    |
+| 0    | 1    | 0    |
+| 1    | 0    | 0    |
+| 1    | 1    | 0    |
 
 ![NOR](sources/NOR.png)
 
 3. D LATCH
 
+| DATA | STORE | Q               |
+| ---- | ----- | --------------- |
+| 0    | 0     | Q-1 (Speichern) |
+| 0    | 1     | 0               |
+| 1    | 0     | Q-1 (Speichern) |
+| 1    | 1     | 1               |
+
 ![D LATCH](sources/D LATCH.png)
 
-4. REGISTER
-
-![REGISTER](sources/REGISTER.png)
-
-5. D-FLIP-FLOP
+5. D-FLIP-FLOP (Flankengesteuert)
 
 ![D FLIP-FLOP](sources/D FLIP-FLOP.png)
 
@@ -106,24 +125,28 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 7. 4-BIT REGISTER
 
-![4-BIT REGISTER](sources/4-BIT REGISTER.png)
+7 Segment später hinzufügen
+
+![4-BIT REGISTER](sources/4-Bit-Register+7S.png)
 
 ### 7-Segment Display
 
 1. 7 Segment Driver
 
-![7S Driver](sources/7S Driver.png)
+Save -> Namen geben -> Customize -> 7 Segment hinzufügen
 
-### Bus and Tri-State
+![7S Driver](sources/7S Drivern.png)
+
+### Bus and  Tri-State
 
 1. Bus Buffer
 
-![BUS Buffer](sources/BUS Buffer.png)
+![BUS Buffer](sources/BUS Buffer new.png)
 
 2. Simple CPU
 
-![Simple CPU](sources/Simple CPU.png)
+![Simple CPU](sources/CPU new.png)
 
 ---
 
-**Version**  *20251123v3*
+**Version**  *20251207v4*

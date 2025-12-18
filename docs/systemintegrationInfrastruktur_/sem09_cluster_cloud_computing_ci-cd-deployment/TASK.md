@@ -41,16 +41,18 @@ Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` al
 Gruppengröße: 2-3 Person(en)
 
 ### Grundanforderungen überwiegend erfüllt
- - [ ] 
+ - [ ] Dokumentation eines CI/CD Workflows
+ - [ ] Erstellung eines CI Workflows
 
 ### Grundanforderungen zur Gänze erfüllt
- - [ ] 
+ - [ ] Testcases definiert und Notification aktiviert
+ - [ ] Integration von Backend- und E2E-Tests
 
 ### Erweiterte Anforderungen überwiegend erfüllt
- - [ ] 
+ - [ ] Lokales Deployment eines CI/CD Tools
 
 ### Erweiterte Anforderungen zur Gänze erfüllt
- - [ ] 
+ - [ ] Konfiguration eines bestehenden Projekts im eigenen CI/CD Tool
 
 ## Classroom Repository
 [Hier](https://classroom.github.com/a/yjYYF1Hr) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
@@ -62,5 +64,5 @@ Gruppengröße: 2-3 Person(en)
 - "What is CI/CD?" [github.com](https://github.com/resources/articles/ci-cd)
 
 ---
-**Version** *20251120v2*
+**Version** *20251218v3*
 

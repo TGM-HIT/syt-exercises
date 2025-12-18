@@ -26,6 +26,14 @@ Die folgende Pipeline soll verstanden und umgesetzt werden:
 ## Detailierte Aufgabenstellung
 Es sollen Testcases für die Aufgabe [GK911 Informationssysteme "ReST Backend"](https://tgm-hit.github.io/insy-exercises/informationssysteme_/sem09_rest_backend/TASK). Der nächste Schritt ist die Konfiguration eines Github-Actions Deployments. Dafür ist die Beschreibung in [Building and testing Java with Gradle](https://docs.github.com/en/actions/tutorials/build-and-test-code/java-with-gradle) als Startpunkt sehr nützlich.
 
+Nach dem Einbinden der Backend-Tests sollen nun auch die E2E-Tests integriert werden. Das `README.md` soll ein Coverage Badge enthalten, welches die Testcases widerspiegelt. Dabei können folgende Metriken verwendet werden: Line-Of-Codes (LOC), Decision / Condition. Das Workflow-Status Badge soll die Umsetzung des CI/CD Workflows anzeigen.
+
+Um eine Deployment-Sicherheit zu gewährleisten, muss eine Branch-Konfiguration durchgeführt werden, wo eine Freigabe auf den `main` Branch erfolgen muss. Der `dev` Branch soll dabei als Zusammenführung der Implementierungen dienen.
+
+Tests, die nicht erfolgreich abschließen müssen gemeldet werden. Die Notifications müssen dahin gehend angepasst werden. Testreports sollen die kontinuierliche Verbesserung widerspiegeln. Stellen Sie sicher, dass die Testdaten vor der Ausführung der Tests neu initialisiert werden.
+
+Es sollen verschiedene Anbieter von CI/CD Tools verglichen werden, damit eine Abhängigkeit von großen Unternehmen gemieden wird. Es soll dabei die lokale Verwendung, die Erweiterung durch Plugins und die Einsatzfähigkeit unterscheiden werden. Nehmen Sie dafür zum Beispiel GitLab und Jenkins als Optionen an. Schreiben Sie Ihre Erkenntnisse in das File `Research.md`.
+
 ## Abgabe
 Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Auch das verwendete `docker-compose.yml` soll enthalten sein. Bitte alle Binaries und Class-Files in das `.gitignore` eintragen, sodass keine irrtümliche Abgabe erfolgt. Bitte eine sinnvolle Ordnerstruktur verwenden (z.B. `backend/`, `frontend/` etc.).
 
@@ -43,10 +51,13 @@ Gruppengröße: 2-3 Person(en)
 ### Grundanforderungen überwiegend erfüllt
  - [ ] Dokumentation eines CI/CD Workflows
  - [ ] Erstellung eines CI Workflows
+ - [ ] Branch Konfiguration
+ - [ ] Coverage und Workflow Badges
 
 ### Grundanforderungen zur Gänze erfüllt
  - [ ] Testcases definiert und Notification aktiviert
  - [ ] Integration von Backend- und E2E-Tests
+ - [ ] CI/CD Alternativen dokumentiert
 
 ### Erweiterte Anforderungen überwiegend erfüllt
  - [ ] Lokales Deployment eines CI/CD Tools

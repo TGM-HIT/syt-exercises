@@ -58,9 +58,8 @@ Gruppengrösse: 1-2 Person(en)
 
 ## Quellen
 * "Simplifying Multi-Tenant Object Storage as a Service with Kubernetes and MinIO Operator" Daniel Valdivia, Kubernetes, last edited 2022-01-11 [online](https://blog.min.io/object_storage_as_a_service_on_minio/)
-* "Best Practices for Kubernetes Object Storage" Ugur Tigli, Kubernetes, last edited 2021-10-25 [online](https://blog.min.io/best-practices-for-kubernetes-object-storage/)
 * "MinIO Quickstart Guide" github [online](https://github.com/minio/minio)
-* "MinIO Object Storage for Kubernetes" MinIO [online](https://min.io/docs/minio/kubernetes/upstream/)
+* "MinIO Quickstart Docker Hub" [online](https://hub.docker.com/r/minio/minio)
 * "Object Management" MinIO [online](https://min.io/docs/minio/kubernetes/upstream/administration/object-management.html)
 * "Upload and Retrieve Images by Integrating MinIO With NestJS" [online](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d)
 * "Introduction to MinIO" [online](https://www.baeldung.com/minio)
@@ -71,4 +70,4 @@ Gruppengrösse: 1-2 Person(en)
 * "An overview of Google File System" Roshan Munjal, Medium, last edited 2022-03-22 [online](https://medium.com/@roshan3munjal/google-file-system-gfs-overview-eed15f3e6f6e)
 
 ---
-**Version** *20241003v2*
+**Version** *20251218v3*

@@ -1,0 +1,34 @@
+- [x] Prompting
+  - [x] System/User Prompt
+  - [x] Persona
+- [ ] Context
+  - [ ] New Chat!
+  - [ ] Gib alle Details
+  - [x] Token
+  - [x] Context Window ca. 200k Token
+  - [x] Memory
+- [x] Hallucinations:
+  - [ ] If you don't know the answer, tell me "I don't know!"
+  - [ ] [The Psychology of AI Adoption: What 1,250 People Won't Admit - Playbook Atlas](https://www.playbookatlas.com/research/ai-adoption-explorer)
+- [x] Format
+  - [x] Markdown!
+- [x] 0-Shot Prompting→Few Shot Prompting
+  - [x] Beispiele geben
+- [ ] Chain of thought (deep/extended thinking/reasoning)
+  - [ ] Think before answering, show me the process
+- [ ] Tree of thoughts
+- [x] Meta Prompting
+- [ ] python sdk
+- [x] Maurice Unterlagen?
+- [ ] Github Copilot
+  - [ ] CLI
+- [ ] llama3 über docker model runner/ollama
+  - [ ] clustering exo
+    - [ ] [4 Mac Studio AI cluster with 2TB Unified RAM - NetworkChuck](https://www.youtube.com/watch?v=bFgTxr5yst0)
+- [ ] checkpoints/git repo
+- [ ] opencode
+- [ ] agentic
+- [ ] multiagent orchastration
+- [ ] sandboxes
+- [ ] llm proxy openrouter
+- [ ] mcp?

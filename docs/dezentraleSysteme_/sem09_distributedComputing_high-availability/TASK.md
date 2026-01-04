@@ -35,6 +35,11 @@ Für die Abnahme wird empfohlen, dass jeder Server eine Ausgabe mit entsprechend
 
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Etwaiger Programmcode ist ebenfalls zu dokumentieren. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
+## Abgabe
+Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte die Binaries und Class-Files in das `.gitignore` eintragen, sodass keine irrtümliche Abgabe erfolgt.
+
+Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
+
 ### Classroom Git-Repository
 [Hier](https://classroom.github.com/a/nlvLQrYD) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
@@ -48,7 +53,6 @@ Verlgeichen Sie die verwendeten Load Balancing Methoden und stellen Sie diese ge
 + Nennen Sie jeweils ein Beispiel, wo Session Persistenz notwendig bzw. nicht notwendig ist.
 + Welcher Unterschied besteht zwischen einer "server-side" bzw "client-side" Lastverteilungslösung?
 + Was versteht man unter dem "Mega-Proxy-Problem"?
-
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -67,5 +71,5 @@ Gruppengrösse: 1-2 Person(en)
 * [LoadBalancing RMI Example](https://github.com/mborko/code-examples/tree/master/java/rmiLoadBalancing)
 
 --
-**Version** *20251009v1*
+**Version** *20260104v2*
 

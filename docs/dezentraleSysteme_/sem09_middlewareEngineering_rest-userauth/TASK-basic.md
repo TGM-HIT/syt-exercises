@@ -73,4 +73,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Hypertext Transfer Protocol Version 2 (HTTP/2)" [rfc7540](https://datatracker.ietf.org/doc/html/rfc7540)
 
 ---
-**Version** *20250925v5*
+**Version** *20260104v6*

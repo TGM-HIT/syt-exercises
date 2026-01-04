@@ -44,6 +44,14 @@ Verwenden Sie auf jeden Fall ein gängiges Build-Management-Tool (z.B. Gradle). 
 * Welche Erfordernisse bezüglich der Datenbasis sollten hier bedacht werden?
 * Verschiedene Frameworks bieten schnelle Umsetzungsmöglichkeiten, welche Eckpunkte müssen jedoch bei einer öffentlichen Bereitstellung (Production) von solchen Services beachtet werden?
 
+## Abgabe
+Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte die Binaries und Class-Files in das `.gitignore` eintragen, sodass keine irrtümliche Abgabe erfolgt.
+
+Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
+
+### Classroom Repository
+[Hier](https://classroom.github.com/a/Hx_yUMet) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
 ### Grundanforderungen **überwiegend erfüllt**
@@ -52,9 +60,6 @@ Gruppengrösse: 1-2 Person(en)
 ### Grundanforderungen **zur Gänze erfüllt**
 - [ ] Registrierung von Benutzern mit entsprechender Persistierung
 - [ ] Login und Rückgabe eines JWT Tokens
-
-### Classroom Repository
-[Hier](https://classroom.github.com/a/Hx_yUMet) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Quellen
 * "Creating a Spring Security Key for Signing a JWT Token" [baeldung.com](https://www.baeldung.com/spring-security-sign-jwt-token)

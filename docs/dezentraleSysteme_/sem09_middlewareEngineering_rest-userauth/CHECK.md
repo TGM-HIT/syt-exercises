@@ -18,11 +18,12 @@ Gruppengrösse: 1 Person
 - [ ] kein Plaintext Passwort verwenden
 
 ## Kommentare
+* Implementierung mangelhaft
 * Commit-Message aussagekräftiger gestalten!
 * Keine gesamten Listings ins README/Protokoll - besser eine Verlinkung und nur auf die wichtigen Aspekte hinweisen!
 * Wo ist der Datastore definiert?
-* requirements.txt überladen! Bitte nur notwendige Pakete installieren lassen!
 * Curl Tests fehlen!
+* User.json fehlt
 * Passwort wird nur mit hash gespeichert!?
 * Passwort wird plaintext übertragen! Sicherungsmöglichkeit?
 * salt fehlt
@@ -30,7 +31,7 @@ Gruppengrösse: 1 Person
 * Dokumentation stellenweise sehr oberflächlich
 * Verwendete Umgebung ist nicht beschrieben
 * Bilder bitte mit relativen Pfad einbinden (und auch commiten)
-* `/register` und `/login` beachten, bitte an Vorgaben halten!
+* `/auth/admin/register` und `/auth/signin` bzw. `/auth/verify` beachten, bitte an Vorgaben halten!
 * Deployment-Beschreibung genauer definieren!
 * Quellen fehlen bei der Dokumentation!
 * Quellen nach IEEE referenzieren
@@ -45,4 +46,18 @@ Gruppengrösse: 1 Person
 
 ### Erweiterte Anforderungen "zur Gänze erfüllt"
 - [ ] Überprüfung der funktionalen Anforderungen mittels Regressionstests
+
+
+## Bewertung
+Gruppengrösse: 1-2 Person(en)
+### Grundanforderungen **überwiegend erfüllt**
+- [ ] Dokumentation und Beschreibung der angewendeten Schnittstelle (Framework oder Plain-Implementierung)
+- [ ] Aufsetzen und Deployment einer REST-Schnittstelle
+### Grundanforderungen **zur Gänze erfüllt**
+- [ ] Registrierung von Benutzern mit entsprechender Persistierung
+- [ ] Login und Rückgabe eines JWT Tokens
+
+## Zusatzinformationen
+* Quiz-Ergebnis: %
+* Repository-Name:
 

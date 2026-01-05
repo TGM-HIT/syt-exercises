@@ -144,7 +144,7 @@ Open-WebUI: Neuer Chat → Model → `llama3.2` von Ollama.com beziehen
 npm install -g opencode-ai
 ```
 
-Verschiebe [opencode.json](TODO) nach `~/.config/opencode/opencode.json`
+Verschiebe [opencode.json](opencode.json) nach `~/.config/opencode/opencode.json`
 
 ```bash
 opencode
@@ -162,7 +162,7 @@ Sollte bei opencode.json schon konfiguriert sein.
 
 #### Open-WebUI
 
-Benutzername unten links → Administration → Einstellungen → Externe Werkzeuge → `+`→ Importieren [openweb.json](TODO)
+Benutzername unten links → Administration → Einstellungen → Externe Werkzeuge → `+`→ Importieren [openweb.json](openweb.json)
 
 Tool muss in Chat aktiviert werden!
 

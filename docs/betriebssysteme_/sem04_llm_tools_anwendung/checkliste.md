@@ -20,15 +20,15 @@
 - [x] Meta Prompting
 - [ ] python sdk
 - [x] Maurice Unterlagen?
-- [ ] Github Copilot
-  - [ ] CLI
-- [ ] llama3 über docker model runner/ollama
+- [x] Github Copilot
+  - [x] CLI
+- [x] llama3 über docker model runner/ollama
   - [ ] clustering exo
     - [ ] [4 Mac Studio AI cluster with 2TB Unified RAM - NetworkChuck](https://www.youtube.com/watch?v=bFgTxr5yst0)
 - [ ] checkpoints/git repo
-- [ ] opencode
-- [ ] agentic
+- [x] opencode
+- [x] agentic
 - [ ] multiagent orchastration
 - [ ] sandboxes
 - [ ] llm proxy openrouter
-- [ ] mcp?
+- [x] mcp

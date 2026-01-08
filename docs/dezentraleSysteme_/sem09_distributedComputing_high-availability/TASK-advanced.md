@@ -44,7 +44,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Verwendung von mindestens zwei Hardware-Einheiten (Netzwerkverbindung)
 - [ ] Durchführen & dokumentieren der Belastungstests (RAM/CPU)
 ### Erweiterte Anforderungen "zur Gänze erfüllt"
-- [ ] Implementierung einer weiteren, rechenintensiven Berechnung mittels generischen Tasks (z.B. Primzahlen)
+- [ ] Implementierung einer weiteren, rechenintensiven Berechnung mittels generischem Task (z.B. Primzahlberechnung)
 - [ ] Gegenüberstellung einer möglichen gRPC Portierung der durchgeführten RMI-Implementierung
 
 

@@ -9,7 +9,15 @@ hide:
 #### ESP-NOW
 Zwei ESP32 sollen zu IoT Geräten werden und Sensormessdaten über [ESP-NOW](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/) übertragen. Dazu soll ein Sensor an einem ESP32 angeschlossen werden, die Sensordaten sollen über ESP-NOW an den anderen ESP32 übertragen werden. Dieser zweite ESP32 soll dann die Sensordaten visualisieren.
 #### Sensoren
-Die Lehrperson bestimmt für jedes Team zufällig welcher Sensor aus dem Set verwendet werden soll (DHT11, …TODO). Zusätzlich soll ein weiterer Sensor (oder Aktor) verwendet werden, welcher von der Lehrperson zufällig verteilt wird. Die Daten sollen in einem sinnvollen Intervall erfasst werden. Die Daten sollen möglichst bereinigt werden (durchschnitt über mehrere Messungen, unmögliche Ausreißer herausfiltern). Zu jedem Messwert soll auch ein Zeitstempel erfasst werden. Die Uhrzeit kann über Internet synchronisiert werden.
+Die Lehrperson bestimmt für jedes Team zufällig welcher Sensor aus dem Set verwendet werden soll 
+
+1. BMP280 (Temperatur und Druck)
+2. HC-SR04 (Ultraschallsensor)
+3. PIR Sensor (Bewegung)
+4. Helligkeit Sensor
+
+Zusätzlich soll ein weiterer Sensor (oder Aktor) verwendet werden, welcher von der Lehrperson zufällig verteilt wird. Die Daten sollen in einem sinnvollen Intervall erfasst werden. Die Daten sollen möglichst bereinigt werden (durchschnitt über mehrere Messungen, unmögliche Ausreißer herausfiltern). Zu jedem Messwert soll auch ein Zeitstempel erfasst werden. Die Uhrzeit kann über Internet synchronisiert werden.
+
 #### Aktor
 Eventuell wird statt dem Sensor ein Aktor von der Lehrperson ausgegeben, dieser ist dann am zweiten ESP32 anzuschließen, welcher die Sensordaten über ESP-NOW empfängt. Dieser Aktor soll dann die Sensordaten möglichst sinnvoll visualisieren.
 #### Webserver

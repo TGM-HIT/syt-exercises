@@ -28,9 +28,9 @@ Jeder Gruppe werden zwei Varianten zugeteilt.
 Ein Wi-Fi Manager soll verwendet werden, um den Mikrocontroller mit einem Wi-Fi zu verbinden, oder selbst einen Accesspoint zur Verfügung zu stellen.
 #### 2. Status LED
 Eine RGB LED des ESP32 soll den aktuellen Status der Wetterstation darstellen. Möglich wäre: Rot - kein WLAN, Blau - Messung im Gange, Orange - Zu hohe Temperatur, … Es müssen mindestens 3 Status realisiert werden, es sollen auch andere gewählt werden. Die Status LED soll im Webinterface ein/ausschaltbar sein.
-##### 3. einfacher Graph
+#### 3. einfacher Graph
 Auf dem Webinterface sollen die historischen Daten in einem einfachen Graphen dargestellt werden. Es sollen am Mikrocontroller nicht alle Daten gespeichert werden, sondern sinnvolle historische Durchschnitte gebildet werden (z. B. letzte Stunde nur alle 5min, letzte Woche nur jede Stunde, …). Die Daten müssen nicht über einen Reset hinaus gespeichert werden können.
-##### 4. API
+#### 4. API
 Die Daten sollen zusätzlich über eine API in JSON Format abrufbar sein. Z.B.:
 
 ```json
@@ -60,7 +60,7 @@ Die Daten sollen zusätzlich über eine API in JSON Format abrufbar sein. Z.B.:
 	"sensor": 20.4
 }
 ```
-##### 5. Datenbank
+#### 5. Datenbank
 Die Daten sollen nach jedem Messvorgang an eine MySQL Datenbank gesendet werden. Es sollen alle Messwerte und ein Zeitstempel in einem einfachen Schema gespeichert werden. Verwende diese [Anleitung]([https://tgm-hit.github.io/insy-exercises/1.Semester/13_Datenbanksystem_Installation/GEK13_Datenbanksystem_Installation/#mariadb-container-installation](https://tgm-hit.github.io/insy-exercises/1.Semester/13_Datenbanksystem_Installation/GEK13_Datenbanksystem_Installation/#mariadb-container-installation "Linkify Plus Plus")) von *MariaDB Container Installation* bis einschließlich *Datagrip Konfiguration* um in Docker eine Datenbank zu installieren (diese kann nächstes Jahr für INSY verwendet werden). Führe folgendes (oder angepasstes) Script in der Datenbank aus um eine passende Tabelle zu erstellen.
 
 ```sql
@@ -77,9 +77,9 @@ CREATE TABLE messdaten (
 );
 ```
 
-##### 6. RGB Colorpicker
+#### 6. RGB Colorpicker
 Auf dem Webinterface soll die Farben der Status durch ein einfaches grafisches Element zur Auswahl der Farbe aus wählbar und permanent gespeichert werden können (auch über Reset hinaus).
-##### 7. Display
+#### 7. Display
 Die Daten und der Zustand soll über ein Display, welches am Mikrocontroller angeschlossen ist, angezeigt werden. Das Display wird von der Schule zur Verfügung gestellt.
 
 *Nicht alle Varianten Kombinationen sind möglich oder sinnvoll, in solchen Fällen mit der Lehrperson verhandeln.*

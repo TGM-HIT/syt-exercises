@@ -39,7 +39,7 @@ Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **RE
 Es soll eine technische Dokumentation erstellt werden, welche Hintergründe und Umsetzungsentscheidungen festhalten muss. Diese ist in Markdown als **TechDoc.md** zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden. Es müssen dabei Bilder und Zusatzinformationen als Assets abgespeichert werden.
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/lOpZbMwr) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/qVk-mcoW) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Bewertung
 Gruppengrösse: 4(5) Personen
@@ -74,4 +74,4 @@ Gruppengrösse: 4(5) Personen
 * "Writing tests with Playwright" [online](https://playwright.dev/docs/writing-tests)
 
 ---
-**Version** *20250305v6*
+**Version** *20260122v7*

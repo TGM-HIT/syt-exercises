@@ -24,6 +24,8 @@ theme:
     - navigation.top
     - content.code.copy
     - content.code.annotate
+    - navigation.path
+    - navigation.indexes
 
 markdown_extensions:
   - def_list

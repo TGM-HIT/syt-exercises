@@ -1,4 +1,6 @@
-# Welcome to HIT/syt-exercises
+# syt-exercises
+
+## Welcome to HIT
 
 Here you can find TGM informationtechnologies systems engineering exercises for all semesters.
 

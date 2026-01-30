@@ -4,7 +4,7 @@
 Bei dieser Übung sollen mögliche Synchronisationsmechanismen für mobile Applikationen zur Anwendung kommen.
 
 ## Ziele
-Das Ziel dieser Übung ist eine Anbindung einer mobilen Applikation an ein Webservices zur gleichzeitigen Bearbeitung von bereitgestellten Informationen. Es ist freigestellt welchen Use-Case man wählt, jedoch ist eine Chat-Applikation bzw. eine Einkaufsliste als Use-Case empfehlenswert. Das Webservice kann zentral oder auch mittels einer Peer2Peer-Implementierung realisiert werden.
+Das Ziel dieser Übung ist eine Anbindung einer mobilen Applikation an ein Webservices zur gleichzeitigen Bearbeitung von bereitgestellten Informationen. Es ist eine Einkaufsliste als Business-Case definiert. Das Webservice kann zentral oder auch mittels einer Peer2Peer-Implementierung realisiert werden.
 
 Ein weiteres, wichtiges Ziel ist es, die persönliche Umsetzung einer mobilen Applikation als Grundlage für zukünftige Projekte. Hierbei sollen wichtige Fertigkeiten erprobt werden, um mögliche Ideen selbständig umsetzen zu können. Der Zusammenschluss von unterschiedlichen Gruppenmitgliedern ist dabei als förderlicher Nebenaspekt zu berücksichtigen.
 
@@ -23,20 +23,20 @@ Ein weiteres, wichtiges Ziel ist es, die persönliche Umsetzung einer mobilen Ap
 * Verständnis von Webservices
 
 ## Detailierte Ausgabenbeschreibung
-Es ist eine mobile Anwendung zu implementieren, die einen Informationsabgleich von verschiedenen Clients ermöglicht. Dabei ist ein synchronisierter Zugriff zu realisieren. Dabei soll sichergestellt werden, dass die Information auch im Offline-Modus abgerufen werden kann, zum Beispiel durch eine lokale Client-Datenbank.
+Es ist eine mobile Einkaufsliste zu implementieren, die einen Informationsabgleich von verschiedenen Clients ermöglicht. Dabei ist ein synchronisierter Zugriff zu realisieren. Dabei soll sichergestellt werden, dass die Information auch im Offline-Modus abgerufen werden kann, zum Beispiel durch eine lokale Client-Datenbank. Die Erkennung von Konflikten und die aktive Synchronisierung ist dabei verpflichtend umzusetzen.
 
-Es ist freigestellt, welche mobile Implementierungsumgebung dafür gewählt wird. Wichtig ist dabei die Dokumentation der Vorgehensweise und des Designs. Es empfiehlt sich, die im Unterricht vorgestellten Methoden sowie Argumente (pros/cons) für das Design zu dokumentieren.
-
-Es ist freigestellt, welche Use-Cases dafür gewählt wird. Wichtig ist dabei die Dokumentation der Vorgehensweise und des Designs.
+Es ist freigestellt, welche mobile Implementierungsumgebung dafür gewählt wird. Wichtig ist dabei die Dokumentation der Vorgehensweise, des Designs und des Technoligie-Stacks. Es empfiehlt sich, die im Unterricht vorgestellten Methoden sowie Argumente (pros/cons) für das Design und die Architektur zu dokumentieren.
 
 Die Bewertung des Beispiels erfolgt wöchentlich, um eine kontinuierliche Entwicklung sicherzustellen. Die einzelnen Abgabekriterien werden in weiterer Folge entsprechend definiert.
 
 ## Abgabe
-Die Userstories müssen in **STORIES.md** zusammengefasst sein. Die eigentliche Taskzuordnung ist mit entsprechenden Tools (Issues) leichter zu administrieren.
+Die Userstories müssen in **STORIES.md** zusammengefasst sein. Die eigentliche Taskzuordnung ist mit entsprechenden Tools (Issues) zu administrieren. Hierfür bietet sich die Toolchain von Github an.
 
-Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
+Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte die Binaries und Class-Files in das `.gitignore` eintragen, sodass keine irrtümliche Abgabe erfolgt (besonders das `node-modules` Verzeichnis). Die Source-Code Files sollen getrennt abgelegt werden. Jegliche Änderungen müssen im `CHANGELOG.md` dokumentiert werden.
 
-Es soll eine technische Dokumentation erstellt werden, welche Hintergründe und Umsetzungsentscheidungen festhalten muss. Diese ist in Markdown als **TechDoc.md** zu führen und soll auf Moodle regelmäßig als **Protokoll.pdf** abgegeben werden. Es müssen dabei Bilder und Zusatzinformationen als Assets abgespeichert werden.
+Es soll eine technische Dokumentation erstellt werden, welche Hintergründe und Umsetzungsentscheidungen festhalten muss. Diese ist in dem Verzeichnis `Documentation` in entsprechenden Markdown-Files zu führen und soll auf Moodle regelmäßig als Link im Kommentarfeld aktualisiert werden. Es müssen dabei Bilder und Zusatzinformationen als Assets abgespeichert werden.
+
+Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
 
 ### Classroom Repository
 [Hier](https://classroom.github.com/a/qVk-mcoW) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
@@ -74,4 +74,4 @@ Gruppengrösse: 4(5) Personen
 * "Writing tests with Playwright" [online](https://playwright.dev/docs/writing-tests)
 
 ---
-**Version** *20260122v7*
+**Version** *20260130v8*

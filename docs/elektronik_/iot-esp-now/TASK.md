@@ -27,7 +27,7 @@ Jeder Gruppe werden zwei Varianten zugeteilt.
 #### 1. Wi-Fi Manager
 Ein Wi-Fi Manager soll verwendet werden, um den Mikrocontroller mit einem Wi-Fi zu verbinden, oder selbst einen Accesspoint zur Verfügung zu stellen.
 #### 2. Status LED
-Eine RGB LED des ESP32 soll den aktuellen Status der Wetterstation darstellen. Möglich wäre: Rot - kein WLAN, Blau - Messung im Gange, Orange - Zu hohe Temperatur, … Es müssen mindestens 3 Status realisiert werden, es sollen auch andere gewählt werden. Die Status LED soll im Webinterface ein/ausschaltbar sein.
+Eine RGB LED des ESP32 soll den aktuellen Status der Station darstellen. Möglich wäre: Rot - kein WLAN, Blau - Messung im Gange, Orange - Zu hohe Temperatur, … Es müssen mindestens 3 Status realisiert werden, es sollen auch andere gewählt werden. Die Status LED soll im Webinterface ein/ausschaltbar sein.
 #### 3. einfacher Graph
 Auf dem Webinterface sollen die historischen Daten in einem einfachen Graphen dargestellt werden. Es sollen am Mikrocontroller nicht alle Daten gespeichert werden, sondern sinnvolle historische Durchschnitte gebildet werden (z. B. letzte Stunde nur alle 5min, letzte Woche nur jede Stunde, …). Die Daten müssen nicht über einen Reset hinaus gespeichert werden können.
 #### 4. API
@@ -64,9 +64,9 @@ Die Daten sollen zusätzlich über eine API in JSON Format abrufbar sein. Z.B.:
 Die Daten sollen nach jedem Messvorgang an eine MySQL Datenbank gesendet werden. Es sollen alle Messwerte und ein Zeitstempel in einem einfachen Schema gespeichert werden. Verwende diese [Anleitung]([https://tgm-hit.github.io/insy-exercises/1.Semester/13_Datenbanksystem_Installation/GEK13_Datenbanksystem_Installation/#mariadb-container-installation](https://tgm-hit.github.io/insy-exercises/1.Semester/13_Datenbanksystem_Installation/GEK13_Datenbanksystem_Installation/#mariadb-container-installation "Linkify Plus Plus")) von *MariaDB Container Installation* bis einschließlich *Datagrip Konfiguration* um in Docker eine Datenbank zu installieren (diese kann nächstes Jahr für INSY verwendet werden). Führe folgendes (oder angepasstes) Script in der Datenbank aus um eine passende Tabelle zu erstellen.
 
 ```sql
-DROP DATABASE IF EXISTS wetterstation;
-CREATE DATABASE wetterstation;
-USE wetterstation;
+DROP DATABASE IF EXISTS station;
+CREATE DATABASE station;
+USE station;
 
 CREATE TABLE messdaten (
     id INT auto_increment PRIMARY KEY,
@@ -77,8 +77,8 @@ CREATE TABLE messdaten (
 );
 ```
 
-#### 6. RGB Colorpicker
-Auf dem Webinterface soll die Farben der Status durch ein einfaches grafisches Element zur Auswahl der Farbe aus wählbar und permanent gespeichert werden können (auch über Reset hinaus).
+#### 6. Sleep Mode
+Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen. Erstelle einen Plan oder ein Protokoll um die Schlaf-Zyklen der beiden Controller auf einender abzustimmen und keine Messung zu verpassen.
 #### 7. Display
 Die Daten und der Zustand soll über ein Display, welches am Mikrocontroller angeschlossen ist, angezeigt werden. Das Display wird von der Schule zur Verfügung gestellt.
 
@@ -86,11 +86,11 @@ Die Daten und der Zustand soll über ein Display, welches am Mikrocontroller ang
 ## Nice-To-Haves
 Für eine bessere Bewertung können noch weitere Features integriert werden
 
-* Sleep Mode: Mikrocontroller soll zwischen den Messungen in den Sleep Mode wechseln, um Energie zu sparen
 * Telegram/Discord/ … Bot: Daten sollen über einen Bot an ein Nachrichtenservice gesendet werden.
 * Smartphone App (Remote XY, Blynk, …): App-Plattform soll verwendet werden, um Daten am Smartphone einsehen zu können.
 * Weitere Varianten integrieren: Siehe oben
 * ... Gerne auch eigene Ideen
+
 ## Abgabe
 
 ### Systemtechnik
@@ -133,4 +133,10 @@ Für SYT ist das Projekt vollständig technisch dokumentiert laut [Dokumentation
 
 ---
 
-**Version** *20260116v1*
+## Changes
+
+### v2
+
+- RGB Colorpicker --> Sleep Mode: Variante war nicht mit anderen Varianten kompatibel
+
+**Version** *20260207v2*

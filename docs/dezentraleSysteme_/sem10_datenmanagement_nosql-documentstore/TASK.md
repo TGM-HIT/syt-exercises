@@ -17,6 +17,9 @@ Es soll der neueste Couchbase Community Server installiert bzw. in einer eigenen
 
 Im Anschluss ist die Verwendung einer höheren Programmiersprache zur Verbindung mit Couchbase zu dokumentieren. Dabei sollen grundlegende CRUD-Befehle getestet werden. Auch hier soll eine einfache Erweiterungsmöglichkeit bedacht werden, um gleichzeitige Zugriffe auf die Datenstrukturen zu ermöglichen.
 
+### Classroom Git-Repository
+[Hier](https://classroom.github.com/a/kT4fZ9Cb) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+
 ## Bewertung
 Gruppengrösse: 1 Person
 ### Grundanforderungen **überwiegend erfüllt**

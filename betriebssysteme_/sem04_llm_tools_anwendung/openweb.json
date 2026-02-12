@@ -1,0 +1,16 @@
+[
+  {
+    "type": "mcp",
+    "url": "https://mcp.notion.com/mcp",
+    "spec_type": "url",
+    "spec": "",
+    "path": "openapi.json",
+    "auth_type": "oauth_2.1",
+    "key": "",
+    "info": {
+      "id": "ntn",
+      "name": "Notion",
+      "description": "A note-taking and collaboration platform that allows users to create, organize, and share notes, databases, and other content."
+    }
+  }
+]

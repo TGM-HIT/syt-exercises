@@ -45,7 +45,7 @@ Gruppengröße: 1-2 Person(en)
  - [ ] angepasstes Playbook für sinnvollen Use-Case
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/Y3Np2Yby) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom.github.com/a/5GY7LITV) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 

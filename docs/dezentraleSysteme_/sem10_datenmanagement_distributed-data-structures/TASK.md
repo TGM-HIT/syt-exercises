@@ -34,7 +34,7 @@ Nehmen Sie eine geeignete Aufgabenstellung/Berechnung (Aufteilung von Daten) und
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://classroom.github.com/a/OpRMoNZk) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom.github.com/a/Ae4s3oUd) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Fragenstellungen
 1. Was ist Apache Kafka und welche Use-Cases zeigen dessen charakteristischen Verwendungsmöglichkeiten?

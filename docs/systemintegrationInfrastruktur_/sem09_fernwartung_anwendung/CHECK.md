@@ -16,9 +16,11 @@ Gruppengrösse: 1-2 Person(en)
 ## Kommentare
 * Commit-Messages aussagekräftiger gestalten!
 * Keine gesamten Listings ins README/Protokoll - besser eine Verlinkung und nur auf die wichtigen Aspekte hinweisen!
+* `GatewayPorts clientspecified` wurde nicht beschrieben
 * Dokumentation stellenweise sehr oberflächlich
 * Verwendete Umgebung ist nicht beschrieben
 * Quellen fehlen bei der Dokumentation!
 * Quellen nach IEEE referenzieren
 * Prompts fehlen
+* Bitte Eigenständigkeit und Verständnis beweisen, dann gerne bessere Bewertung!
 

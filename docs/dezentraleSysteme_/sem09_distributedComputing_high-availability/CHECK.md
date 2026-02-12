@@ -21,4 +21,5 @@ Gruppengrösse: 1-2 Person(en)
 * Verwendete Umgebung ist nicht beschrieben
 * Quellen fehlen bei der Dokumentation!
 * Quellen nach IEEE referenzieren
+* Prompts fehlen
 

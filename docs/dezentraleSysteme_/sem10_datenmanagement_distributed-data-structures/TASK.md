@@ -1,10 +1,10 @@
 # Datenmanagement "Distributed Data Structures" - Taskdescription
 
 ## Einführung
-Komplexe und aufteilbare Tasks müssen mit Parametern ausgestattet werden und von entsprechenden Koordinatoren gestartet bzw. die erhaltenen Daten wieder zusammengefasst werden. Diese Art von verteilter Programmierung findet in vielen Anwendungsgebieten rege Verwendung (AI Daten Analyse, Lastverteilung, etc.). Hierbei kommt das Prinzip des Master/Worker Patterns (Master-Slave oder Map-Reduce Pattern) zum Einsatz.
+Komplexe und aufteilbare Tasks müssen mit Parametern ausgestattet werden und von entsprechenden Koordinatoren gestartet bzw. die erhaltenen Daten wieder zusammengefasst werden. Diese Art von verteilter Programmierung findet in vielen Anwendungsgebieten rege Verwendung (AI Daten Analyse, Lastverteilung, etc.). Hierbei kommt das Prinzip des Dispatcher/Worker Patterns (Map-Reduce Pattern) zum Einsatz.
 
 ## Ziele
-Finden Sie eine Lösung, die in einer Cloud-Umgebung ausrollbar (deployable) ist. Die einzelnen Worker sollen unabhängig voneinander bestehen können und mit Input-Parametern gestartet werden. Die berechneten Daten müssen an den Master bzw. als Zwischenberechnung an andere Worker weitergegeben werden können. Die einzelnen Worker sollen unabhängig von der Umgebung gestartet werden können (unterschiedliche Servereinheiten).
+Finden Sie eine Lösung, die in einer Cloud-Umgebung ausrollbar (deployable) ist. Die einzelnen Worker sollen unabhängig voneinander bestehen können und mit Input-Parametern gestartet werden. Die berechneten Daten müssen an den Dispatcher bzw. als Zwischenberechnung an andere Worker weitergegeben werden können. Die einzelnen Worker sollen unabhängig von der Umgebung gestartet werden können (unterschiedliche Servereinheiten).
 
 ## Kompetenzzuordnung
 **GK SYT10 Dezentrale Systeme | Datenmanagement | Replikation**
@@ -24,14 +24,18 @@ Recherchieren Sie mögliche Werkzeuge für das "distributed Computing". Vergleic
 * einsetzbare Programmiersprachen
 * Datenverteilung und gemeinsamer Speicher
 * Performance bei Main-Focus
-* Notifikation von Master oder anderen Workern
+* Notifikation von Dispatcher oder anderen Workern
 
 Um Technologien auch entsprechend im Einsatz vergleichen zu können, ist die Beschreibung der Schnittstellen ein wichtiger Punkt. Hierfür bietet sich auch eine kurze Sourcecode Gegenüberstellung an, damit die Komplexität des Systems bzw. Frameworks auch veranschaulicht werden kann.
 
 Nehmen Sie eine geeignete Aufgabenstellung/Berechnung (Aufteilung von Daten) und zeigen Sie anhand von einer Beispiel-Konfiguration, wie die Verteilung der Berechnung und anschließende Zusammenführung der Daten funktioniert. Bei ähnlichen oder gleichen Berechnungen wäre ein direkter Vergleich (Benchmark) der gewählten Tools/Technologien von Vorteil.
 
+Es sind keine trivialen Berechnungen (Pi, Fibonacci, Sortier-Algorthmen etc.) erwünscht, da hier keine Datenzusammenführung nach der Bearbeitung der rechenintensiven Berechnungen notwendig sind. Die Daten sollen auch nicht als Chunks übergeben werden, sondern per shared Storage zugreifbar gemacht werden.
+
 ## Abgabe
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
+
+Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
 
 ### Classroom Git-Repository
 [Hier](https://classroom.github.com/a/Ae4s3oUd) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
@@ -50,7 +54,7 @@ Gruppengrösse: 1-2 Person(en)
 	* einsetzbare Programmiersprachen
 	* Datenverteilung und gemeinsamer Speicher
 	* Performance bei Main-Focus
-	* Notifikation von Master oder anderen Workern
+	* Notifikation von Dispatcher oder anderen Workern
 - [ ] Beschreibung der gewählten Systeme bzw. Frameworks
 - [ ] Dokumentation der gewählten Schnittstellen
 
@@ -61,9 +65,6 @@ Gruppengrösse: 1-2 Person(en)
 
 
 ## Quellen
-* "A reactive Java framework for building fault-tolerant distributed systems" Atomix [github](https://github.com/atomix/atomix)
-* "What is Atomix?" [atomix.io](https://atomix.io/user-guide/architecture/)
-* "Introduction to Atomix" [baeldung](https://www.baeldung.com/atomix)
 * "The Raft Consensus Algorithm" [online](https://raft.github.io/)
 * "In Search of an Understandable Consensus Algorithm" Raft-Paper; Stanford University; [online](https://raft.github.io/raft.pdf)
 * "Getting started with Kafka" [kafka](https://kafka.apache.org/documentation/#gettingStarted)
@@ -74,11 +75,9 @@ Gruppengrösse: 1-2 Person(en)
 * "Spark Github repository with examples" [online](https://github.com/apache/spark)
 * "Spark Tutorial: Real Time Cluster Computing Framework" [online](https://www.edureka.co/blog/spark-tutorial/)
 * "Open-source software for reliable, scalable, distributed computing" [Apache Hadoop](https://hadoop.apache.org/)  
-* "High-performance coordination service for distributed applications" [Apache Zookeeper](https://zookeeper.apache.org/doc/current/)  
 * "Distributed data store" [wikipedia](https://en.wikipedia.org/wiki/Distributed_data_store)
 * "etcd - A distributed, reliable key-value store" [online](https://etcd.io/)
 * "KRaft: Apache Kafka Without ZooKeeper" [online](https://developer.confluent.io/learn/kraft/)
-* "The Evolution of Kafka Architecture: From ZooKeeper to KRaft" [online](https://romanglushach.medium.com/the-evolution-of-kafka-architecture-from-zookeeper-to-kraft-f42d511ba242)
 
 ### Beispiele
 * "Reddit-Realtime-Streaming-Pipeline" [github](https://github.com/Hungreeee/Reddit-Realtime-Streaming-Pipeline?tab=readme-ov-file)
@@ -86,4 +85,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Kafka Kraft Cluster Example" [github](https://github.com/mat-sik/kafka-kraft-cluster-example/)
 
 ---
-**Version** *20250220v6*
+**Version** *20260312v7*

@@ -65,7 +65,7 @@ Gruppengrösse: 4(5) Personen
 ### Erweiterte Anforderungen **zur Gänze erfüllt**
 - [ ] System global erreichbar (https+domain)
 - [ ] funktionale Implementierung von nice-2-have Userstories (mind. zwei pro Developer)
-- [ ] Öffentlich Schaltung des Github-Repositories (Visitenkarte, Licensing, etc.)
+- [ ] Öffentlich Schaltung des Github-Repositories (Visitenkarte, Licensing, Help/Wiki, etc.)
 
 
 ## Quellen

@@ -61,10 +61,10 @@ Gruppengrösse: 4(5) Personen
 ### Erweiterte Anforderungen **überwiegend erfüllt**
 - [ ] Implementierung eines Replikationsansatzes zur Konsistenzwahrung mit Konfliktlösung
 - [ ] Notifikation bei Konflikten
-- [ ] funktionale Implementierung aller should-have Userstories (mind. zwei pro Developer)
+- [ ] funktionale Implementierung aller should-have Userstories (mind. vier SPs pro Developer)
 ### Erweiterte Anforderungen **zur Gänze erfüllt**
 - [ ] System global erreichbar (https+domain)
-- [ ] funktionale Implementierung von nice-2-have Userstories (mind. zwei pro Developer)
+- [ ] funktionale Implementierung von nice-2-have Userstories (mind. vier SPs pro Developer)
 - [ ] Öffentlich Schaltung des Github-Repositories (Visitenkarte, Licensing, Help/Wiki, etc.)
 
 

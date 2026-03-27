@@ -29,6 +29,10 @@ Es ist freigestellt, welche mobile Implementierungsumgebung dafür gewählt wird
 
 Die Bewertung des Beispiels erfolgt wöchentlich, um eine kontinuierliche Entwicklung sicherzustellen. Die einzelnen Abgabekriterien werden in weiterer Folge entsprechend definiert.
 
+Die Applikation muss in einem *CI/CD-Workflow* eingebettet sein. Es sollen alle Bereiche der Applikation ausreichend getestet und dies auch über Testreports ersichtlich sein. Nach dem Einbinden der Backend-Tests sollen auch die E2E-Tests integriert werden. Das `README.md` soll ein Coverage Badge enthalten, welches die Testcases widerspiegelt. Dabei können folgende Metriken verwendet werden: Line-Of-Codes (LOC), Decision / Condition. Das Workflow-Status Badge soll die Umsetzung des CI/CD Workflows anzeigen.
+
+Um eine Deployment-Sicherheit zu gewährleisten, muss eine Branch-Konfiguration durchgeführt werden, wo eine Freigabe auf den `main` Branch erfolgen muss. Der `dev` Branch soll dabei als Zusammenführung der Implementierungen dienen.
+
 ## Abgabe
 Die Userstories müssen in **STORIES.md** zusammengefasst sein. Die eigentliche Taskzuordnung ist mit entsprechenden Tools (Issues) zu administrieren. Hierfür bietet sich die Toolchain von Github an.
 
@@ -55,10 +59,11 @@ Gruppengrösse: 4(5) Personen
 - [ ] funktionale Implementierung der must-have Userstories
 - [ ] Offline-Verfügbarkeit
 ### Erweiterte Anforderungen **überwiegend erfüllt**
-- [ ] Implementierung eines Replikationsansatzes zur Konsistenzwahrung
+- [ ] Implementierung eines Replikationsansatzes zur Konsistenzwahrung mit Konfliktlösung
+- [ ] Notifikation bei Konflikten
 - [ ] funktionale Implementierung aller should-have Userstories
 ### Erweiterte Anforderungen **zur Gänze erfüllt**
-- [ ] System global erreichbar
+- [ ] System global erreichbar (https+domain)
 - [ ] funktionale Implementierung von nice-2-have Userstories
 
 
@@ -74,4 +79,4 @@ Gruppengrösse: 4(5) Personen
 * "Writing tests with Playwright" [online](https://playwright.dev/docs/writing-tests)
 
 ---
-**Version** *20260130v8*
+**Version** *20260327v9*

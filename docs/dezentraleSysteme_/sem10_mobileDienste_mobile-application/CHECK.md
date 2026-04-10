@@ -1,7 +1,7 @@
 # "Mobile Application" - Checklist
 
 ## Bewertung
-Gruppengrösse: 2 Personen
+Gruppengrösse: 4(5) Personen
 Gruppenmitglieder:
 URL: [github]()
 
@@ -17,9 +17,11 @@ URL: [github]()
 - [ ] funktionale Implementierung der must-have Userstories
 - [ ] Offline-Verfügbarkeit
 ### Erweiterte Anforderungen **überwiegend erfüllt**
-- [ ] Implementierung eines Replikationsansatzes zur Konsistenzwahrung
-- [ ] funktionale Implementierung aller should-have Userstories
+- [ ] Implementierung eines Replikationsansatzes zur Konsistenzwahrung mit Konfliktlösung
+- [ ] Notifikation bei Konflikten
+- [ ] funktionale Implementierung aller should-have Userstories (mind. vier SPs pro Developer)
 ### Erweiterte Anforderungen **zur Gänze erfüllt**
-- [ ] System global erreichbar
-- [ ] funktionale Implementierung von nice-2-have Userstories
+- [ ] System global erreichbar (https+domain)
+- [ ] funktionale Implementierung von nice-2-have Userstories (mind. vier SPs pro Developer)
+- [ ] Öffentlich Schaltung des Github-Repositories (Visitenkarte, Licensing, Help/Wiki, etc.)
 

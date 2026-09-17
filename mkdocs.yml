@@ -50,3 +50,5 @@ extra_css:
 
 extra_javascript:
   - extra.js
+  - iframe-resize.js
+  

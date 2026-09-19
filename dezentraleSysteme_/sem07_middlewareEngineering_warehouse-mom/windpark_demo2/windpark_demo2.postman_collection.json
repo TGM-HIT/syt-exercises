@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "67154102-f07b-4a1e-8b3f-87162f62b27b",
+		"name": "windpark_demo2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "JMS",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \n\"windengineID\": \"001\",\n\"timestamp\":\"2020-11-24 22:00:34.445\",\n\"windspeed\": \"20.5\",\n\"unitWindspeed\":\"kmH\",\n\"temperature\": \"18.8\",\n\"unitTemperature\":\"C\",\n\"power\": \"251.0\",\n\"unitPower\": \"kwH\",\n\"blindpower\": \"2.5\",\n\"unitBlindpower\": \"kwH\",\n\"rotationspeed\": \"30.9\",\n\"unitRotationspeed\": \"uM\",\n\"bladeposition\": \"5.0\",\n\"unitBladeposition\": \"grad\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/windengine",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"windengine"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

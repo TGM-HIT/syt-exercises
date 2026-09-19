@@ -1,0 +1,4 @@
+smbus
+adafruit-circuitpython-busdevice
+adafruit-circuitpython-l3gd20
+adafruit-circuitpython-lsm303dlh-mag

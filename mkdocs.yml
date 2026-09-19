@@ -44,3 +44,11 @@ markdown_extensions:
   - pymdownx.details
 
 edit_uri: "edit/main/docs/"
+
+extra_css:
+  - extra.css
+
+extra_javascript:
+  - extra.js
+  - iframe-resize.js
+  

@@ -39,7 +39,7 @@ Nach dieser Übung könnt ihr:
 
 ## Erweiterung
 
-Katalognr % (modulo 9) = ID
+Katalognr % (modulo) 9 = ID
 
 | ID  | Bereich           | Möglichkeit                                                                         |
 | --- | ----------------- | ----------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Katalognr % (modulo 9) = ID
 
 ## Abgabe
 - Screenshot(s) jedes abgeschlossenen Schritts
-- Kurze Dokumentation (Befehle + Beobachtungen), z. B. als Markdown- oder PDF-Datei
+- Kurze Dokumentation (Befehle + Beobachtungen)
 - Beide Snapshot-Namen/-Zeitpunkte angeben
 - Lehrperson vorzeigen
 

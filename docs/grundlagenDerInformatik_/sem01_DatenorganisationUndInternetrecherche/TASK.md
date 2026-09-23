@@ -105,7 +105,8 @@ Gruppengröße: 1 Person
 - "Online PDF Editor"; zuletzt besucht 2021-08-06; [pdffiller](https://www.pdffiller.com/de/)
 - "7 Tipps gegen Fake News"; jugendportal; zuletzt besucht 2022-08-08; [online](https://www.jugendportal.at/factorfake/fake-news-erkennen)
 - "Internet Recherche"; [online](https://elearning.tgm.ac.at/pluginfile.php/11014/mod_folder/content/0/Internet Recherche.pdf)
+- "PC Anatomy"; [online](https://pc-anatomy.vercel.app/)
 
 ------
 
-**Version** *20241029v2*
+**Version** *20260923v3*

@@ -186,7 +186,16 @@ Gruppengröße: 1 Person
 
 * "Backing Up Your Life is THIS Easy" Linus Tech Tips; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=mpxBmxj5mP0)
 
+* "RAID Calculator"; [online](https://www.raid-calculator.com/default.aspx)
+
+* "UGREEN RAID Calulator"; [online](https://ai.ugreen.com/pages/raid-calculator)
+
 ---
+
+??? note "Which RAID should you choose?"
+
+    ![Which RAID should you choose?](Best_RAID_for_Home_NAS.png)
+
 
 ??? note "Videos"
 
@@ -242,4 +251,4 @@ Gruppengröße: 1 Person
 
 ---
 
-**Version** *20251012v1*
+**Version** *20260923v2*

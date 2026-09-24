@@ -29,9 +29,13 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 ### Grundanforderungen
 Sieh dir die [Grundlagen Präsentationen](https://elearning.tgm.ac.at/mod/folder/view.php?id=4629) an. Die wichtigsten Punkte findest du in den Kommentaren.
 
-**Teil 1:** Nach Durcharbeiten der Unterlagen ist das Ziel eine Erstellung einer Präsentation. Sinnvoll ist es eine Präsentation zu erstellen die für einen anderen Gegenstand verwendet werden kann. Jedoch kann auch eine Präsentation über jedes computerbezogene Thema erstellt werden. Lade zusätzlich zu deinem Grafiz noch die Präsentation als PPT *und* PDF hoch.
+#### Übung 1: Computerkomponenten
 
-**Teil 2:** Erstelle in PowerPoint eine einzelne Folie, die folgende Inhalte enthält:
+Nach Durcharbeiten der Unterlagen ist das Ziel eine Erstellung einer Präsentation. Erstelle eine interessante und ansprechende Präsentation zu den Komponenten eines Computers. Die Präsentation soll die Komponenten und deren wichtigesten Kennzahlen vorstellen und erklären. Lade zusätzlich zu deinem Grafiz noch die Präsentation als PPT *und* PDF hoch.
+
+#### Übung 2: Projektstatus
+
+Erstelle in PowerPoint eine einzelne Folie, die folgende Inhalte enthält:
 
 - Projekttitel
 - Projektstatus (z. B. „In Arbeit“, „Verzögert“, „Abgeschlossen“)
@@ -48,7 +52,7 @@ Gestalte die Folie übersichtlich und visuell ansprechend, z. B. durch:
 - Farbige Hervorhebungen
 
 Sieh dir dazu die beiden Beispiele an: [Status Template 1.pdf](https://elearning.tgm.ac.at/pluginfile.php/209074/mod_assign/introattachment/0/Status%20Template%201.pdf?forcedownload=0) [Status Template 2.pdf](https://elearning.tgm.ac.at/pluginfile.php/209074/mod_assign/introattachment/0/Status%20Template%202.pdf?forcedownload=0)
-  
+
 ### Erweitert
 
 Erstelle ein universelles Design mittels Folienmaster, das du für Schulpräsentationen nutzen kannst (es sollten jedenfalls Schullogo, Foliennummer und Fußzeile vorhanden sein). Ein Beispiel dieser Datei findest du unter Lernmaterialien "[Poszvek.thmx](https://elearning.tgm.ac.at/pluginfile.php/61421/mod_folder/content/0/Poszvek.thmx)"
@@ -122,4 +126,4 @@ Gruppengröße: 1 Person
 * "Powerpoint Materialien"; [online](https://elearning.tgm.ac.at/mod/folder/view.php?id=4629)
 
 ---
-**Version** *20251002v1*
+**Version** *20260806v3*

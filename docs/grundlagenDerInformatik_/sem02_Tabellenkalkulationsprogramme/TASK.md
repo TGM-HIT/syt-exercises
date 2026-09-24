@@ -33,7 +33,7 @@ Bitte versuche alle wichtigen Information kurz und prägnant in einem Grafiz zu 
 
 ### Grundanforderungen
 
-#### 1.Teilaufgabe
+#### Übung 1: Grundlagen
 
 Ziel ist es die Datei [Formeln und Zellenbezüge](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/1_formeln_und_zellenbezuege.xlsx) mit seinen 3 Arbeitsblättern zu vervollständigen. 
 Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet werden:  
@@ -43,7 +43,7 @@ Die folgenden Hilfeseiten werden hilfreich sein müssen aber nicht verwendet wer
 * [Logische Operatoren](https://support.office.com/de-de/article/Erstellen-bedingter-Formeln-ca916c57-abd8-4b44-997c-c309b7307831)  
 * Weiter Hilfeseiten sind [easy4me](https://www.easy4me.info/) sowie [klickdichschlau](https://www.klickdichschlau.at/)
 
-#### 2.Teilaufgabe
+#### Übung 2: Anwendung
 
 Sie sollen eine Excel-Datei die eine Gegenüberstellung der österreichischen Nationalratswahlen aus dem Jahr 2017 und 2019 in Diagrammen veranschaulichen soll. Hierzu werden Sie in dieser Datei mehrere Blätter links unten erstellen. Öffne hierzu eine neue Excel-Datei und speichere Sie unter Vorname_Nachname_Diagramme.xlsx ab. Öffne danach die Seiten [Wahl2017](https://bundeswahlen.gv.at/2017/) und [Wahl2019](https://bundeswahlen.gv.at/2019/). Versuche dir einen Überblick über die im Nationalrat vertretenen Parteien zu machen.
 
@@ -67,23 +67,143 @@ Fügen Sie in einem neuen Blatt ein Diagramm für den Stimmenzuwachs und den Sti
 ##### 5.Blatt
 Aus der Datei [NRW2017.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/NRW17_endgueltiges_Gesamtergebnis_veraendert.xlsx) sollen alle Parteien namentlich sortiert werden (Tipp: Benutzerdefiniertes Sortieren und Option "Spalten sortieren" verwenden). Dann soll die Funktion "Filter" unter dem Reiter "Daten" verwendet werden und nur nach Österreich gefiltert werden. Kopieren Sie dieses Blatt dann in ihre Excel-Datei als 5.Blatt und beschriften Sie es NRW_2017.
 
-#### Abgabe
-Gib nun beide Teilaufgaben als .xlsx Datei auf Moodle ab.
+### Übung 3: Pivot und  Verweise
 
-### Erweitert
-
-Folgende Hilfeseiten werden im EK Inhalt notwendig sein:  
+Arbeite folgende Quellen durch:  
 * [WENN](https://support.office.com/de-de/article/WENN-Funktion-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)  
 * [SVerweis](https://support.office.com/de-de/article/SVERWEIS-Funktion-0bbc8083-26fe-4963-8ab8-93a18ad188a1)  
 * [PivotCharts](https://support.office.com/de-de/article/Erstellen-eines-PivotCharts-c1b1e057-6990-4c38-b52b-8255538e7b1c)  
 
-#### EK überwiegend
+Bearbeite folgende Aufgabenblätter:
 
-Es sind die Dateien [Wenn.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx) und [SVerweis.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx) zu bearbeiten und hochzuladen.
+- [Wenn.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/3_Wenn.xlsx)
+- [SVerweis.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/4_SVerweis.xlsx)
+- [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx)
+- [Kredittilgung.pdf](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme//6_Kredittilgung.pdf)
 
-#### EK vollständig
+### Erweitert: Projekt‑ und Aufgabenmanagement
 
-Es sind die Dateien [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme/5_PivotCharts.xlsx) sowie [Kredittilgung.pdf](https://github.com/TGM-HIT/syt-exercises/raw/refs/heads/main/docs/grundlagenDerInformatik_/sem02_Tabellenkalkulationsprogramme//6_Kredittilgung.pdf) zu bearbeiten und hochzuladen.
+#### Ausgangssituation
+
+In einem technischen Projekt (z.B. Softwareentwicklung, Automatisierung, Elektrotechnik‑Projekt, Robotik, IT‑System) müssen viele Aufgaben geplant, überwacht und ausgewertet werden. Ein professionelles **Projekt‑ und Aufgabenmanagement** ist entscheidend dafür, dass Termine eingehalten, Ressourcen sinnvoll eingesetzt und Probleme frühzeitig erkannt werden.
+
+Du erstellst mit **Microsoft Excel** eine **Projektübersicht,** die den aktuellen Stand eines Projekts transparent darstellt und automatisch auswertet.
+
+#### Ziel der Übung
+
+Am Ende der Übung sollst du in der Lage sein:
+
+- Projektdaten strukturiert zu erfassen
+
+- Termine und Dauer automatisch auszuwerten
+
+- Aufgabenstatus logisch zu bewerten
+
+- den Projektfortschritt übersichtlich darzustellen
+
+- einfache Projektkennzahlen zu interpretieren
+
+#### Teil 1: Datenerfassung – Projekttabelle
+
+Erstelle ein Tabellenblatt mit dem Namen **„Projektplan".**
+
+##### Mindestanforderungen an die Tabelle
+
+Die Tabelle muss mindestens folgende Spalten enthalten:
+
+1. Aufgaben‑ID
+
+2. Aufgabenbeschreibung
+
+3. Verantwortliche Person
+
+4. Startdatum
+
+5. Enddatum
+
+6. Status (z.B. *Offen, In Arbeit, Abgeschlossen*)
+
+7. Priorität (z.B. Hoch / Mittel / Niedrig)
+
+Erfassen mindestens 10 realistische Projektaufgaben**, die zu einem technischen HTL‑Projekt passen.
+
+#### Teil 2: Zeitliche Auswertung
+
+Erweitern Sie die Tabelle um zusätzliche Informationen, die sich **automatisch aus den vorhandenen Daten** **berechnen lassen.**
+
+##### Anforderungen
+
+Ermittele für jede Aufgabe:
+
+- die geplante Dauer (in Tagen)
+
+- ob eine Aufgabe bereits begonnen haben sollte
+
+- ob eine Aufgabe überfällig ist
+
+Die Auswertung muss **automatisch reagieren,** wenn sich Daten ändern.
+
+#### Teil 3: Status‑Logik und Projektfortschritt
+
+Erstelle zusätzliche Spalten zur **projektbezogenen Bewertung:**
+
+##### 1. Erfüllungsgrad der Aufgabe
+
+abhängig vom Status
+
+##### 2. Beitrag zum Gesamtprojekt
+
+Auf Basis aller Aufgaben soll zusätzlich ein **Projekt‑Gesamtfortschritt in Prozent** dargestellt werden. Vorgegebene Regeln müssen in Excel **logisch und nachvollziehbar umgesetzt** werden.
+
+#### Teil 4: Visuelle Unterstützung
+
+Verbessere die Übersichtlichkeit durch **Visualisierungen.**
+
+##### Anforderungen
+
+- Aufgaben mit kritischem Status müssen auffällig dargestellt werden
+
+- Überfällige Aufgaben sollen sofort erkennbar sein
+
+- Abgeschlossene Aufgaben sollen sich optisch von offenen unterscheiden
+
+Die Darstellung muss sich **automatisch aktualisieren,** sobald sich Daten ändern.
+
+#### Teil 5: Projektübersicht / Mini‑Dashboard
+
+Erstelle im selben oder einem neuen Tabellenblatt eine **Projektübersicht,** die mindestens enthält:
+
+- Gesamtanzahl der Aufgaben
+
+- Anzahl der offenen Aufgaben
+
+- Anzahl der abgeschlossenen Aufgaben
+
+- aktuellen Projektfortschritt (in %)
+
+Optional:
+
+- einfache grafische Darstellung (z.B. Balken oder Kreis)
+
+#### Abgabeanforderungen
+
+- Excel‑Datei mit klarer Struktur
+
+- eindeutige Spaltenbezeichnungen
+
+- keine manuellen Berechnungen
+
+- saubere, übersichtliche Gestaltung
+
+- nachvollziehbare Logik
+
+#### Erweiterung
+
+- Szenario: „Was passiert, wenn sich ein Aufgabenende um 5 Tage verschiebt?"
+
+- Kennzeichnung der kritischen Aufgaben (Projektengpass)
+
+- Trennung von Aufgaben nach Verantwortlichen
 
 
 ## Fragestellungen
@@ -94,9 +214,6 @@ Es sind die Dateien [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/
 * Was ist ein absoluter und was ist ein relativer Zellbezug, wozu wird hier das $-Zeichen verwendet?
 * Wie kann ich in Excel ein Diagramm erstellen?
 * Wie kann ich in Excel sortieren und filtern?
-
-### Erweitert
-
 * Wie wird die Funktion WENN in Excel verwendet?
 * Wie wird die Funktion SVerweis in Excel verwendet?
 * Wie wird die Funktion PivotCharts in Excel verwendet?
@@ -104,18 +221,14 @@ Es sind die Dateien [PivotCharts.xlsx](https://github.com/TGM-HIT/syt-exercises/
 ## Bewertung
 Gruppengrösse: 1 Person
 ### Grundanforderungen **überwiegend erfüllt**
-- [ ] Abgabe des 1.Teil der Aufgabenstellung
-- [ ] Abgabe des 2.Teil der Aufgabenstellung
-- [ ] Ausgewählte Grundlegende Fragestellung beantworten können
-- [ ] Abgabegespräch gemacht
+- [ ] Abgabe der Übungen
+- [ ] Grundlegende Fragestellung beantworten können
 ### Grundanforderungen **zur Gänze erfüllt**
 - [ ] Alle Fragestellungen beantwortet
 ### Erweiterte Anforderungen überwiegend erfüllt
-- [ ] Einzelne Fragen aus dem [Curriculum_MOS.pdf](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf) beantworten können
-- [ ] "EK überwiegend Aufgabenstellung" erfüllt
+- [ ] Übung erfüllt
 ### Erweiterte Anforderungen zur Gänze erfüllt
-- [ ] Fast alle Fragen aus dem [Curriculum_MOS.pdf](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf) beantworten können
-- [ ] "EK vollständig Aufgabenstellung" erfüllt
+- [ ] Fragen zu dem [Curriculum_MOS.pdf](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf) beantworten können 
 
 
 ## Quellen
@@ -143,5 +256,5 @@ Gruppengrösse: 1 Person
 * "Curriculum_MOS.pdf"; Enterprice Training Center; [online](https://www.etc.at/wp-content/uploads/2017/09/Curriculum_MOS.pdf)
 
 ---
-**Version** *20230131v1*
+**Version** *20260806v2*
 

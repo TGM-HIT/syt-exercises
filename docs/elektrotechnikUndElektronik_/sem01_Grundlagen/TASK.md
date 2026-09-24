@@ -109,7 +109,9 @@ Gruppengrösse: 1 Person
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3512)
 * "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 1.1. - 1.2.; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=4624)
 * G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
+* "woisderstrom.at"; [online](https://woisderstrom.at/)
+* "electricitymaps.com"; [online](https://app.electricitymaps.com/map/fifteen_minutes)
 
 
 ---
-**Version** *20251005v1*
+**Version** *20260923v2*

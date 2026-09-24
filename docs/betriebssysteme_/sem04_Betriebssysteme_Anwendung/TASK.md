@@ -66,6 +66,10 @@ Erstelle eine Tabelle und untersuche die Betriebssysteme Windows, macOS und Linu
 
 Beantworte dann die Fragestellungen unten.
 
+#### Linux CLI Einführung
+
+Löse [Übungsszenario 1](Linux Übungsszenario 1.pdf) und [Übungsszenario 2](Linux Übungsszenario 2.pdf).
+
 ### Erweitert
 
 Erstelle auf einem USB-Stick eine bootable portable Linux Installation.
@@ -125,7 +129,7 @@ Gruppengröße: 1 Person
 [6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
 
 ---
-**Version** *20231230v4*
+**Version** *20260806v5*
 
 <style>
 table, th, td {

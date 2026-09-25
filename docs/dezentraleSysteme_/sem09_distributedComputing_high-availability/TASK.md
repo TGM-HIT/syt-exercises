@@ -41,7 +41,7 @@ Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte d
 Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
 
 ### Classroom Git-Repository
-[Hier](https://classroom.github.com/a/nlvLQrYD) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-high-availability/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Fragestellung für die Dokumentation
 Verlgeichen Sie die verwendeten Load Balancing Methoden und stellen Sie diese gegenüber.

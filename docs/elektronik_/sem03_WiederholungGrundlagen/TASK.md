@@ -83,7 +83,7 @@ Gruppengrösse: 1 Person
 - [ ] Abgabegespräch über die Aufgaben- und Fragestellungen
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199#section-2)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577#section-2)
 * "Franzis Handbuch - Elektronik"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513)
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3512)
 * "Fachkunde Elektrotechnik" Möslinger, Robert / Asch, Daniel / Tkotz, Klaus; ISBN: 9783758531071; Europa Lehrmittel; Kapitel 1.5, 2.1-2.13

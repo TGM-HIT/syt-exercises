@@ -51,7 +51,7 @@ Wiederholung aus dem 1. Jahrgang, beantworte folgende Fragestellungen aus dem Ge
 
 ### Grundlegend
 
-Benantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+Benantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/20555/mod_folder/content/0/RAID.pdf)
 
 * Was ist ein RAID?
 * Welche Vorteile ergeben sich durch die Verwendung von RAID?
@@ -78,7 +78,7 @@ Gruppengröße: 1 Person
 ## Quellen
 * "Microsoft Office Lens";  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de_AT&gl=US), [iPhone](https://apps.apple.com/at/app/microsoft-office-lens-pdf-scan/id975925059)
 * "Online PDF Editor"; zuletzt besucht 2021-08-06; [pdffiller](https://www.pdffiller.com/de/)
-* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/20555/mod_folder/content/0/RAID.pdf)
 * "What is RAID 0, 1, 5, & 10?" PowerCert Animated Videos; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=U-OCdTeZLac)
 * "RAID SYSTEME einfach erklärt (Übersicht)" IT & Medien einfach erklärt; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=1YoQ-T0wMfE)
 * "NAS Server Kaufberatung 2022 | QNAP vs. Synology | Welche NAS für Zuhause?" Pörtner - digitaler Kreativkopf; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=BlYEp1q73FM)

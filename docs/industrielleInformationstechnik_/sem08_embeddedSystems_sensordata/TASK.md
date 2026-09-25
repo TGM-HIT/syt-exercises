@@ -75,7 +75,7 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Weitergabe der Sensordaten an entsprechende externe Schnittstellen
 
 ### Quellen
-* [1] "Systemtechnik Theorie Unterlagen - Embedded Devices - Sensoren und Aktoren" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+* [1] "Systemtechnik Theorie Unterlagen - Embedded Devices - Sensoren und Aktoren" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577)
 * "35 in 1 Arduino Sensorenkit Modulkit" AZ Delivery [online](https://www.az-delivery.de/products/35-in-1-arduino-zubehor-kit?_pos=4&_sid=fc18e5112&_ss=r)
 * [2] "Serial Communications Methods via GPIO"; MBTechWorks; last visited: 2019-04-08; [online](https://www.mbtechworks.com/hardware/raspberry-pi-UART-SPI-I2C.html)
 * [3] "Real-Time Data Analytics in Sensor Networks" Themis Palpanas; Article; July 2014; [online](https://www.researchgate.net/publication/268348929_Real-Time_Data_Analytics_in_Sensor_Networks)

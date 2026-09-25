@@ -46,7 +46,7 @@ Bitte erstelle ein Grafiz und gebe dieses eingescannt/fotografiert als PDF zum A
 * Wie lange braucht ein 10µF Kondensator bei einer Versorgungsspannung von 30V mit einem Widerstand von 100kΩ bis er ca. zu 86% geladen ist?
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577)
 * "Was ist eine Spule? Aufbau, Induktivität, Bauformen"  Elektrotechnik einfach erklärt; [online](https://www.youtube.com/watch?v=tTzkMqCkUf4)
 * "Was ist ein Kondensator? Aufbau, Kapazität und Bauformen" Elektrotechnik einfach erklärt; [online](https://www.youtube.com/watch?v=CAEqq7J9Ce4)
 * "Spule / Spulen / Induktivität" Elektronik Fibel; zuletzt besucht 2020-03-19; [online](https://www.elektronik-kompendium.de/sites/bau/0207221.htm)

@@ -46,7 +46,7 @@ Bitte erstelle ein Grafviz und gebe dieses eingescannt/fotografiert als PDF zum 
 * Wie unterscheiden sich die einzelnen Frequenzfilter?
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577)
 * "Entprellung" mikrocontroller.net; zuletzt besucht 2020-03-19; [online](https://www.mikrocontroller.net/articles/Entprellung)
 * "Übertragungstechnik - Grundbegriffe" Elektronik-Kompendium; zuletzt besucht 2020-04-03;  [online](http://www.elektronik-kompendium.de/sites/kom/1303291.htm)
 * "Datenübertragung" Elektronik-Kompendium; zuletzt besucht 2020-04-03;  [online](http://www.elektronik-kompendium.de/sites/kom/0212091.htm)

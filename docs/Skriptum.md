@@ -110,7 +110,7 @@
 
 ### Grundlagen der Informatik - RAID
 
-* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg;  [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg;  [online](https://elearning.tgm.ac.at/pluginfile.php/20555/mod_folder/content/0/RAID.pdf)
 
 ### Grundlagen der Informatik - CPU
 
@@ -170,6 +170,6 @@
 [3] „Homepage - VMware IT Academy“. https://itacademy.brightspace.com/d2l/home (zugegriffen 8. Jänner 2023).  
 [4] „NDG Linux Essentials“, Networking Academy, 22. Jänner 2018. https://www.netacad.com/courses/os-it/ndg-linux-essentials (zugegriffen 8. Jänner 2023).  
 [5] „Oracle VM VirtualBox“. https://www.virtualbox.org/ (zugegriffen 8. Jänner 2023).  
-[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+[6] "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577)
 
 TODO add missing scripts

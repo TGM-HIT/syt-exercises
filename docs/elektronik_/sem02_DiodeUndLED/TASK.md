@@ -145,7 +145,7 @@ Gruppengrösse: 1 Person
 *:robot: Diese Aufgabe wurde Mithilfe von KI erstellt.*
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199#section-2)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577#section-2)
 * "Franzis Handbuch - Elektronik"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513)
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3512)
 * "Fachkunde Industrieelektronik und Informationstechnik"; Kapitel S. 18, S. 89-98

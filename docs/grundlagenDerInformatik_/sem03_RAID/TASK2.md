@@ -133,7 +133,7 @@ Erläutere die Funktion und Einsatzbereiche.
 
 ### Grundlegend
 
-Beantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+Beantworte folgende Fragestellungen nachdem du folgendes PDF durchgearbeitet hast: "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/20555/mod_folder/content/0/RAID.pdf)
 
 - Was ist ein RAID?
 
@@ -176,7 +176,7 @@ Gruppengröße: 1 Person
 
 ## Quellen
 
-* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/11034/mod_folder/content/0/RAID.pdf)
+* "RAID"; Baun, C. (2017). Betriebssysteme kompakt (IT kompakt). Berlin, Heidelberg: Springer Berlin Heidelberg; [online](https://elearning.tgm.ac.at/pluginfile.php/20555/mod_folder/content/0/RAID.pdf)
 
 * "What is RAID 0, 1, 5, & 10?" PowerCert Animated Videos; youtube.com; zuletzt besucht am 2022-11-13; [online](https://www.youtube.com/watch?v=U-OCdTeZLac)
 

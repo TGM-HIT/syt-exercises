@@ -100,7 +100,7 @@ analogWrite(PIN, HELLIGKEIT);  // kann dacWrite ersetzen
 * Was ist PWM?
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577)
 * "Was ist der Unterschied zwischen analogen und digitalen Daten?" Digi4all - youtube; zuletzt besucht 2020-02-15; [online](https://www.youtube.com/watch?v=IZUcqFCsKnA)
 * "Elektrotechnik in 5 Minuten - Klassifikation von Signalen" Alexander Stöger; zuletzt besucht 2020-02-21; [online](https://www.youtube.com/watch?v=mjKiolpkjjI)
 * "Charakterisierung elektrischer Signale" elektroniktutor.de; zuletzt besucht 2020-02-15; [online](https://elektroniktutor.de/signalkunde/signdef.html)

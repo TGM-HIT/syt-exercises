@@ -61,7 +61,7 @@ Gruppengrösse: 1 Person
 - [ ] Kosten Aufschlüsselung erstellt
 
 ## Quellen
-* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=199#section-2)
+* "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577#section-2)
 * "Franzis Handbuch - Elektronik"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513)
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3512)
 * "Digitaler Schaltkreis" studiflix; zuletzt besucht 2020-11-28; [online](https://studyflix.de/informatik/thema/digitaltechnik-21)

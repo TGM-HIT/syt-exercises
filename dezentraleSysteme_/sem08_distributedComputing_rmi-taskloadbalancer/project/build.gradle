@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'idea'
+}
+
+task engine(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'engine.ComputeEngine'
+    standardInput = System.in
+}
+
+// e.g.: gradle compute --args="localhost 1234"
+task compute(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'client.ComputePi'
+}
+
+dependencies {
+    implementation 'com.google.guava:guava:23.0'
+    testImplementation 'junit:junit:4.12'
+}
+
+repositories {
+    jcenter()
+}

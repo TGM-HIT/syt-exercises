@@ -21,7 +21,7 @@ Diese Aufgabe soll die Möglichkeit von gemeinsam genutzten Speicher in Cloud un
 ## Aufgabenstellung
 
 ### MinIO
-Zeigen Sie an einem Beispiel-Workflow den performanten Einsatz von MinIO in verteilten Systemen. Sie können dabei den Use-Case "Image-Resizing" oder aber den Benchmark zum HDFS-Vergleich heranziehen.
+Zeigen Sie an einem Beispiel-Workflow den performanten Einsatz von RustFS in verteilten Systemen. Sie können dabei den Use-Case "Image-Resizing" oder aber den Benchmark zum HDFS-Vergleich heranziehen.
 
 Verwenden Sie dabei eine leicht verfügbare Installation der Implementation und dokumentieren Sie die notwendigen Schritte. Finden Sie geeignete Methoden zur Perfomance-Messung und dokumentieren Sie Ihre Ergebnisse.
 
@@ -29,7 +29,7 @@ Verwenden Sie dabei eine leicht verfügbare Installation der Implementation und 
 Gruppengrösse: 1-2 Person(en)
 
 ### Erweiterte Anforderungen überwiegend erfüllt
-- [ ] MinIO deployen und Kubernetes Umgebung aufsetzen
+- [ ] RustFS deployen und Kubernetes Umgebung aufsetzen
 - [ ] Benchmark oder IO-Anwendung implementiert
 
 ### Erweiterte Anforderungen zur Gänze erfüllt
@@ -38,16 +38,17 @@ Gruppengrösse: 1-2 Person(en)
 - [ ] Tests und Dokumentation abgeschlossen
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/lKlOrio3) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-distributed-filesystems/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
 
 ## Quellen
-* "MinIO Quickstart Guide" github [online](https://github.com/minio/minio)
-* "MinIO Object Storage for Kubernetes" MinIO [online](https://min.io/docs/minio/kubernetes/upstream/)
-* "AI Data Workflows with Kafka and MinIO" [online](https://blog.min.io/complex-workflows-apache-kafka-minio/)
-* "Breaking the HDFS Speed Barrier - a First for Object Storage" [online](https://blog.min.io/hdfsbenchmark/)
+* "Quick Start Guide for Linux" RustFS, GitHub [online](https://github.com/rustfs/docs.rustfs.com/blob/main/content/en/installation/linux/quick-start.md)
+* "Kubernetes Installation (Helm)" RustFS Documentation [online](https://docs.rustfs.com/en/installation/cloud-native)
+* "Event Notifications" RustFS Documentation [online](https://docs.rustfs.com/en/operations/event-notifications)
+* "MinIO Stops Accepting Community Changes: Evaluating RustFS as a Viable S3-Compatible Object Storage Backend for Milvus" [online](https://milvus.io/blog/evaluating-rustfs-as-a-viable-s3-compatible-object-storage-backend-for-milvus.md)
+* "Benchmark Report: RustFS slightly outperforms MinIO in mixed workloads but falls behind in broader scenarios" [github](https://github.com/rustfs/rustfs/issues/2154)
 
 ---
-**Version** *20241219v1*
+**Version** *20261007v2*

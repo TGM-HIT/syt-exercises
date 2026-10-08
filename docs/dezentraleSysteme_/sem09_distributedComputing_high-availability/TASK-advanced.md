@@ -1,4 +1,4 @@
-# EK9.7 Distributed Computing "High Availability" - Taskdescription
+# Distributed Computing "High Availability" - Taskdescription
 ## Einführung
 Als Lastverteilung (englisch Load Balancing) bezeichnet man in der Informatik der Verteilung von umfangreiche Berechnungen oder große Mengen von Anfragen auf mehrere parallel arbeitende Systeme. Dies kann sehr unterschiedliche Ausprägungen haben. Eine einfache Lastverteilung findet zum Beispiel auf Rechnern mit mehreren Prozessoren statt. Jeder Prozess kann auf einem eigenen Prozessor ausgeführt werden. Man unterscheidet eine Reihe von Algorithmen, genannt Load Balancing Methoden, um diese Verteilung durchzuführen.
 
@@ -10,19 +10,7 @@ Diese Übung soll helfen die Funktionsweise eines Load Balancers kennenzulernen 
 * Java Programmierkenntnisse
 
 ## Aufgabenstellung
-Es soll ein Load Balancer mit mindestens 3 unterschiedlichen Load-Balancing Methoden implementiert werden. Eine Kombination von mehreren Methoden ist möglich. Die Berechnung bzw. das Service ist frei wählbar!
-
-Folgende Load Balancing Methoden stehen zur Auswahl:
-+ Weighted Round-Round
-+ Least Connection
-+ Weighted Least Connection
-+ Agent Based Adaptive Balancing / Server Probes
-
-Es sollen die einzelnen Server-Instanzen in folgenden Punkten belastet werden können:
-+ Memory (RAM)
-+ CPU Cycles
-
-Bedenken Sie dabei, dass die einzelnen Load Balancing Methoden unterschiedlich auf diese Auslastung reagieren werden. Dokumentieren Sie dabei aufkommenden Probleme ausführlich.
+Die gRPC Implementierung aus der [GK-Übung](TASK.md) soll nun unter Last getestet werden und es soll ein sprechender Benchmark-Report erstellt werden. Implementiere eine dritte Methode und zeige deren Vorteile gegenüber den schon vorhandenen Methoden.
 
 ## Abnahme/Tests
 Für die Abnahme wird empfohlen, dass jeder Server eine Ausgabe mit entsprechenden Informationen ausgibt, damit die Verteilung der Anfragen demonstriert werden kann. Sie sollen auch eine sinnvolle Darstellung wählen, um die Resultate der Belastungstests zu dokumentieren.
@@ -35,7 +23,7 @@ Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte d
 Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
 
 ### Classroom Git-Repository
-[Hier](https://classroom.github.com/a/nlvLQrYD) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem-09-high-availability-grpc/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -49,10 +37,10 @@ Gruppengrösse: 1-2 Person(en)
 
 
 ## Quellen
-* [Comparing Load Balancing Algorithms](https://www.jscape.com/blog/load-balancing-algorithms)
-* [Java RMI Tutorial - PI Calculation](https://docs.oracle.com/javase/tutorial/rmi/overview.html)
-* [LoadBalancing RMI Example](https://github.com/mborko/code-examples/tree/master/java/rmiLoadBalancing)
+* [1] "Comparing Load Balancing Algorithms" [jscape](https://www.jscape.com/blog/load-balancing-algorithms)
+* [2] "Java RMI Tutorial - PI Calculation" [Java RMI Tutorial - PI Calculation](https://docs.oracle.com/javase/tutorial/rmi/overview.html)
+* [3] "LoadBalancing RMI Example" [code-examples](https://github.com/mborko/code-examples/tree/master/java/rmiLoadBalancing)
 
 --
-**Version** *20260108v3*
+**Version** *20271007v2*
 

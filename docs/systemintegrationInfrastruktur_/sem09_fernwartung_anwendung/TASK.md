@@ -65,9 +65,9 @@ Um mehreren Benutzern den Zugriff auf graphische Oberflächen zu gestatten, kann
 Die Aufgabenstellung zeigt eine einfache Umsetzung einer Desktopumgebung im Browser mit [webtop](https://github.com/linuxserver/docker-webtop), die über einen Docker-Container konfiguriert und gestartet werden kann. Es soll eine einfache Benutzerkennung mit entsprechendem Volumen für das Home-Directory im Host-System bereitgestellt werden. Dabei soll eine resourcenschonende Desktopumgebung ausgewählt werden (z.B. arch und xfce4).
 
 #### Remote Desktop Tools
-Um auf den entfernten Rechner einer anderen Person zuzugreifen und dieser bei administrativen Tätigkeiten zu unterstützen, bieten sich zwei einfache Lösungen an: TeamViewer und Anydesk. Unterschiede bei den Sicherheitsaspekten könnten zu einer dieser Lösung tendieren, welche wäre diese?
+Um auf den entfernten Rechner einer anderen Person zuzugreifen und dieser bei administrativen Tätigkeiten zu unterstützen, bieten sich drei einfache Lösungen an: TeamViewer, Anydesk und RustDesk. Unterschiede bei den Sicherheitsaspekten könnten zu einer dieser Lösung tendieren, welche wären diese?
 
-Nach der Installation von AnyDesk soll eine Verbindung zum Gruppenmitglied erfolgen, um die Standard-Einstellungen zu testen.
+Nach der Installation von RustDesk soll eine Verbindung zum Gruppenmitglied erfolgen, um die Standard-Einstellungen zu testen.
 
 ### VPN
 
@@ -127,14 +127,14 @@ Gruppengrösse: 1-2 Person(en)
 ### Grundanforderungen überwiegend erfüllt
 - [ ] SSH Tunnel erstellen
 - [ ] Webaccess auf Desktop Umgebung eingerichtet
-- [ ] Standard-Einstellungen von AnyDesk dokumentiert
+- [ ] Standard-Einstellungen von RustDesk dokumentiert
 
 ### Grundanforderungen zur Gänze erfüllt
 - [ ] automatisierte Verbindung von SSH-Server auf Zwischenstation
 - [ ] Einrichtung von Wireguard
 
 ## Classroom Repository
-[Hier](https://classroom.github.com/a/DyNwi9IU) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-fernwartung/accept?k=middle7inert7system6intake#) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 
@@ -178,7 +178,7 @@ ExecStart=/bin/bash -c "ssh -N -R [host@remote:]port@remote:host@local:port@loca
 Wenn host@remote leer oder '*' ist, dann empfängt SSH auf allen Adressen Verbindungen.
 
 ## Quellen
-* "AnyDesk vs TeamViewer: Remote desktop software comparison" Brenna Miles, TechRepublic [online](https://www.techrepublic.com/article/anydesk-vs-teamviewer/)
+* "RustDesk vs. AnyDesk: My pick for the best free TeamViewer alternative" Parth Shah, XDA [online](https://www.xda-developers.com/rustdesk-vs-anydesk-which-free-teamviewer-alternative-better/)
 * https://wiki.archlinux.org/title/OpenSSH
 * https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
 * https://docs.docker.com/compose/compose-file/compose-file-v3/#cap_add-cap_drop
@@ -196,4 +196,4 @@ Wenn host@remote leer oder '*' ist, dann empfängt SSH auf allen Adressen Verbin
 * https://my.noip.com/dynamic-dns/duc (nur angemeldet erreichbar!)
 
 ---
-**Version** *20250925v3*
+**Version** *20261007v4*

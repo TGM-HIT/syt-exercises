@@ -38,7 +38,7 @@ Die erfolgreiche Implementierung soll mit entsprechenden Testfällen (Acceptance
 Die entsprechenden Konfigurationsdateien und Deployment-Anweisungen sind im **README.md** festzuhalten. Etwaiger Programmcode ist ebenfalls zu dokumentieren. Implementierungen müssen entsprechend beschrieben und leicht deployable sein!
 
 ### Classroom Git-Repository
-[Hier](https://github.com/500) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-cloud-datenmanagement/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung. Sollte der Server durch einen unerwarteten Umstand daran gehindert worden sein, die an ihn gesendete Anfrage zu erfüllen, muss der Link zu Beginn des Labors persönlich beantragt werden!
 
 
 ## Bewertung
@@ -63,4 +63,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Heroku makes it easy to deploy and scale Java apps in the cloud"; [online](https://www.heroku.com)
 
 ---
-**Version** *20241211v3*
+**Version** *20261007v4*

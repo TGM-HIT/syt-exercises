@@ -89,7 +89,7 @@ Gruppengröße: 1-2 Person(en)
 
 ## Classroom Repository
 
-[Hier](https://classroom.github.com/a/Dwu8S2r1) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-cluster-and-cloud-computing/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Help! "Oh, I need somebody ..."
 

@@ -50,7 +50,7 @@ Im Repository soll das `README.md` die notwendigen Schritte beschreiben. Bitte d
 Bei der Verwendung von KI-Tools müssen die Prompts im Verzeichnis `prompts/` als Markdown-Files exportiert werden. Hier soll darauf geachtet werden, dass die Anfrage als auch die Quellen der Antworten ersichtlich sind.
 
 ### Classroom Repository
-[Hier](https://classroom.github.com/a/Hx_yUMet) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
+[Hier](https://classroom50.org/TGM-HIT/syt5x-2627/assignments/sem09-cloud-datenmanagement/accept?k=middle7inert7system6intake) finden Sie das Abgabe-Repository zum Entwickeln und Commiten Ihrer Lösung.
 
 ## Bewertung
 Gruppengrösse: 1-2 Person(en)
@@ -73,4 +73,4 @@ Gruppengrösse: 1-2 Person(en)
 * "Hypertext Transfer Protocol Version 2 (HTTP/2)" [rfc7540](https://datatracker.ietf.org/doc/html/rfc7540)
 
 ---
-**Version** *20260104v6*
+**Version** *20271007v7*

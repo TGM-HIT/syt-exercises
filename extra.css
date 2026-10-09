@@ -1,0 +1,73 @@
+/* Standardmäßig ausgeblendet: Header, Footer, linke Navigation, Tabs-Leiste */
+/* Footer immer ausgeblendet, unabhängig vom Toggle */
+.md-footer {
+  display: none !important;
+}
+
+.md-header,
+.md-sidebar--primary,
+.md-tabs {
+  display: none !important;
+}
+
+html.show-chrome .md-header,
+html.show-chrome .md-sidebar--primary,
+html.show-chrome .md-tabs {
+  display: block !important;
+}
+
+#chrome-toggle-btn {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  z-index: 1000;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.35);
+  color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0.4;
+  transition:
+    opacity 0.2s ease,
+    background 0.2s ease;
+}
+
+#chrome-toggle-btn:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+#chrome-toggle-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+/* iFrame lässt sich auch verkleinern */
+html,
+body {
+  height: auto !important;
+  min-height: 0 !important;
+}
+.md-container {
+  flex-grow: 0 !important;
+}
+
+.invisible-text {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  /* Do NOT use display:none or visibility:hidden */
+}

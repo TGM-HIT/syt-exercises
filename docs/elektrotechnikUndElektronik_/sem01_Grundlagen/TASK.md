@@ -107,7 +107,7 @@ Gruppengrösse: 1 Person
 * "Systemtechnik Theorie Unterlagen" elearning; zuletzt besucht 2020-02-15; [online](https://elearning.tgm.ac.at/course/view.php?id=577#section-2)
 * "Franzis Handbuch - Elektronik"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3513)
 * "Elektronik-Fibel"; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=3512)
-* "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 1.1. - 1.2.; [online](https://elearning.tgm.ac.at/mod/resource/view.php?id=4624)
+* "Elektrotechnische Grundlagen–Elektronik 1" Heinz Meister; Vogel-Verlag; Kapitel 1.1. - 1.2.; [online](https://elearning.tgm.ac.at/pluginfile.php/20539/mod_resource/content/1/Elektrotechnische%20Grundlagen%20Elektronik%201%20-%20Heinz%20Meister%20-%20Kpitel%201_1%20bis%201_2.pdf)
 * G. Buchholz u. a., Fachkunde Industrieelektronik und Informationstechnik: Geräte- und Systemtechnik, Automatisierungstechnik, 14. überarbeitete und Erweiterte Auflage. in Europa Lehrmittel. Haan-Gruiten: Verlag Europa-Lehrmittel Nourney, Vollmer & Co. KG, 2024.
 * "woisderstrom.at"; [online](https://woisderstrom.at/)
 * "electricitymaps.com"; [online](https://app.electricitymaps.com/map/fifteen_minutes)

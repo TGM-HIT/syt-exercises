@@ -24,7 +24,7 @@ Die folgende Pipeline soll verstanden und umgesetzt werden:
 + Testerstellung und -wartung
 
 ## Detailierte Aufgabenstellung
-Es sollen Testcases für die Aufgabe [GK911 Informationssysteme "ReST Backend"](https://tgm-hit.github.io/insy-exercises/sem09/sem09_rest_backend/TASK/). Der nächste Schritt ist die Konfiguration eines Github-Actions Deployments. Dafür ist die Beschreibung in [Building and testing Java with Gradle](https://docs.github.com/en/actions/tutorials/build-and-test-code/java-with-gradle) als Startpunkt sehr nützlich.
+Es sollen Testcases für die Aufgabe [Informationssysteme "ReST Backend"](https://tgm-hit.github.io/insy-exercises/sem09/sem09_rest_backend/TASK/). Der nächste Schritt ist die Konfiguration eines Github-Actions Deployments. Dafür ist die Beschreibung in [Building and testing Java with Gradle](https://docs.github.com/en/actions/tutorials/build-and-test-code/java-with-gradle) als Startpunkt sehr nützlich.
 
 Nach dem Einbinden der Backend-Tests sollen nun auch die E2E-Tests integriert werden. Das `README.md` soll ein Coverage Badge enthalten, welches die Testcases widerspiegelt. Dabei können folgende Metriken verwendet werden: Line-Of-Codes (LOC), Decision / Condition. Das Workflow-Status Badge soll die Umsetzung des CI/CD Workflows anzeigen.
 
@@ -73,7 +73,8 @@ Gruppengröße: 2-3 Person(en)
 ## Quellen
 - "How to build a CI/CD pipeline with GitHub Actions in four simple steps" [github.blog](https://github.blog/enterprise-software/ci-cd/build-ci-cd-pipeline-github-actions-four-steps/)
 - "What is CI/CD?" [github.com](https://github.com/resources/articles/ci-cd)
+- "Github Actions - Workflows" [github.com](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflows)
 
 ---
-**Version** *20261007v4*
+**Version** *20261009v5*
 

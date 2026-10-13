@@ -1,0 +1,33 @@
+<timingstationData>
+  <timingstationID>001</timingstationID>
+  <timestamp>2021-09-12 08:52:39.077</timestamp>
+  <distance>1</distance>
+  <unitDistance>km</unitDistance>
+  <altitude>177</altitude>
+  <unitAltitude>m</unitAltitude>
+  <weatherData>
+   <windspeed>5.46</windspeed>
+   <unitWindspeed>kmH</unitWindspeed>
+   <temperature>25.78</temperature>
+   <unitTemperature>C</unitTemperature>
+   <precipitation>0</precipitation>
+   <unitPrecipitation>ml</unitPrecipitation>
+   <atmosphericPressure>999.0</atmosphericPressure>
+   <unitAtmosphericPressure>hPa</unitAtmosphericPressure>
+  </weatherData>
+  <competitionData>
+    <unitTiming>hh:mm:ss</unitTiming>
+    <party>
+      <partyID>1587</partyID>
+      <timing>00:25:33</timing>
+    </party>
+    <party>
+      <partyID>1437</partyID>
+      <timing>00:27:01</timing>
+    </party>
+    <party>
+      <partyID>1222</partyID>
+      <timing>00:28:59</timing>
+    </party>
+  </competitionData>
+</timingstationData>

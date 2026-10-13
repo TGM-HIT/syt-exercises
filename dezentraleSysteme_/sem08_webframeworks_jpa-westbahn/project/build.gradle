@@ -1,0 +1,26 @@
+plugins {
+	id 'java'
+	id 'application'
+	id 'eclipse'
+	id 'idea'
+}
+
+dependencies {
+	compile 'com.google.guava:guava:23.0'
+	testCompile 'junit:junit:4.12'
+	compile group: 'org.apache.log4j', name: 'com.springsource.org.apache.log4j', version: '1.2.16'
+	compile group: 'javax.validation', name: 'validation-api', version: '2.0.1.Final'
+	compile group: 'org.hibernate.validator', name: 'hibernate-validator', version: '6.0.10.Final'
+	compile group: 'org.hibernate', name: 'hibernate-core', version: '5.4.1.Final'
+	compile group: 'org.hibernate', name: 'hibernate-entitymanager', version: '5.4.1.Final'	
+	runtime group: 'org.hibernate', name: 'hibernate-core', version: '5.4.1.Final'
+	runtime group: 'org.hibernate', name: 'hibernate-entitymanager', version: '5.4.1.Final'
+	compile group: 'com.h2database', name: 'h2', version: '1.4.197'
+}
+
+repositories {
+	jcenter()
+}
+
+mainClassName = 'main.Main'
+

@@ -241,8 +241,8 @@ Gruppengröße: 1 Person
 - [7 Tipps gegen Fake News"; jugendportal](https://www.jugendportal.at/factorfake/fake-news-erkennen) - letzter Abruf 19.10.2026
 - [WEB_Wahr_oder_falsch_im_Internet.pdf](https://www.saferinternet.at/fileadmin/categorized/Materialien/WEB_Wahr_oder_falsch_im_Internet.pdf) - letzter Abruf 19.10.2026
 - [Falschmeldungen erkennen - Fake News Quiz - SRF school - SRF](https://www.srf.ch/sendungen/school/medien-und-informatik/falschmeldungen-erkennen-fake-news-quiz) - letzter Abruf 19.10.2026
-- Bundesministerium für Bildung, Wissenschaft und Forschung (BMBWF): "Die Verwendung KI-basierter Tools beim Erstellen abschließender Arbeiten - Potenziale, Risiken und beurteilungsrelevante Aspekte. Informationen für Betreuer/innen abschließender Arbeiten an AHS und BMHS", Stand: 14.11.2023, Wien 2023. PDF-Datei (ki_abarb.pdf), URL: [bitte ergänzen] - letzter Abruf 22.10.2026
-- tgm - Technologisches Gewerbemuseum: "Literatur und Promptverzeichnis", Foliensatz "Promptverzeichnis (Beispiele)" und "Literaturverzeichnis (Beispiele)", IT-Sicherheit / Semester 3, Stand: 27.02.2026. PDF-Datei, URL: [bitte ergänzen] - letzter Abruf 22.10.2026
+- Bundesministerium für Bildung, Wissenschaft und Forschung (BMBWF): "Die Verwendung KI-basierter Tools beim Erstellen abschließender Arbeiten - Potenziale, Risiken und beurteilungsrelevante Aspekte. Informationen für Betreuer/innen abschließender Arbeiten an AHS und BMHS", Stand: 14.11.2023, Wien 2023. PDF-Datei (ki_abarb.pdf), URL: [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem01_DatenorganisationUndInternetrecherche/ki_abarb.pdf) - letzter Abruf 22.10.2026
+- tgm - Technologisches Gewerbemuseum: "Literatur und Promptverzeichnis", Foliensatz "Promptverzeichnis (Beispiele)" und "Literaturverzeichnis (Beispiele)", IT-Sicherheit / Semester 3, Stand: 27.02.2026. PDF-Datei, URL: [online](https://github.com/TGM-HIT/syt-exercises/blob/main/docs/grundlagenDerInformatik_/sem01_DatenorganisationUndInternetrecherche/Literatur%20und%20Promptverzeichnis.pdf) - letzter Abruf 22.10.2026
 
 ------
 

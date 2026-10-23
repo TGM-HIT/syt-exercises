@@ -18,6 +18,8 @@ Repository: []()
  - [ ] Konfiguration eines bestehenden Projekts im eigenen CI/CD Tool
 
 ### Kommentare
+* Beschreibung des Compiling und Deployment Prozesses nicht beschrieben
+
 * Actions Konfiguration nicht beschrieben
 * Testreports nicht beschrieben
 * Wie können die Ergebnisse eingesehen werden?

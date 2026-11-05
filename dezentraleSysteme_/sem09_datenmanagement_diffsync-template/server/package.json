@@ -1,0 +1,26 @@
+{
+  "name": "hands-on-sync-server",
+  "version": "1.0.0",
+  "description": "Hands on Sync Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "diffsync": "2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinW1998/diffsync-template.git"
+  },
+  "keywords": [
+    "sync"
+  ],
+  "author": "Kevin Waldock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinW1998/diffsync-template/issues"
+  },
+  "homepage": "https://github.com/KevinW1998/diffsync-template#readme"
+}

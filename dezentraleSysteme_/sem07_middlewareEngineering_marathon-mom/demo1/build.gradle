@@ -1,0 +1,28 @@
+plugins {
+	id 'org.springframework.boot' version '2.4.0'
+	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+	id 'java'
+}
+
+group = 'sectionpark'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-activemq'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+bootRun {
+	if (project.hasProperty('args')) {
+		args project.args.split(',')
+	}
+}
+
+test {
+	useJUnitPlatform()
+}

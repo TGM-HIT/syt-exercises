@@ -2,7 +2,7 @@
 Gruppengrösse: 1-2 Person(en)
 
 ### Grundanforderungen **überwiegend erfüllt**
-- [ ] MinIO deployen und Kubernetes Umgebung aufsetzen
+- [ ] RustFS deployen und Kubernetes Umgebung aufsetzen
 - [ ] Einsatzgebiete von Object Storage dokumentieren
 
 ### Grundanforderungen **zur Gänze erfüllt**

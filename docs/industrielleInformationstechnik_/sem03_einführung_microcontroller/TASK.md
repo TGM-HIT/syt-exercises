@@ -26,7 +26,7 @@ Das Ziel ist es den Aufbau von Mikrocontrollern zu verstehen und diese bei versc
 
 #### Übung 1: Blink
 
-Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](https://elearning.tgm.ac.at/mod/page/view.php?id=90535). 
+Es soll der **ESP32** verwendet werden um ein Blinklicht zu implementieren. Dabei soll eine externe LED am digitalen Port 8 angeschlossen werden und in einer Frequenz von 2 Hz zum Blinken gebracht werden. Dafür muss das erstellte Programm auf den Mikrocontroller übertragen werden. Dies kann entweder mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software) als Desktop-Applikation erfolgen. Stelle zuerst sicher, dass du das Board in der IDE [richtig installiert hast](Microcontroller_Installation.md).
 
 Als Basis kann das Beispiel aus den Arduino Tutorials herangezogen werden [6]. Wenn mit dem Online-Editor gearbeitet wird, muss das Example bei den Basics ausgewählt werden:
 

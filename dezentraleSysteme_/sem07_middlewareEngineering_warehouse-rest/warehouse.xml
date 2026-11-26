@@ -1,0 +1,39 @@
+<warehouseData>
+  <warehouseID>001</warehouseID>
+  <warehouseName>Linz Bahnhof</warehouseName>
+  <warehouseAddress>Bahnhofsstrasse 27/9</warehouseAddress>
+  <warehousePostalCode>Linz</warehousePostalCode>
+  <warehouseCity>Linz</warehouseCity>
+  <warehouseCountry>Austria</warehouseCountry>
+  <timestamp>2021-09-12 08:52:39.077</timestamp>
+  <productData>
+    <product>
+      <productID>00-443175</productID>
+      <productName>Bio Orangensaft Sonne</productName>
+      <productCategory>Getraenk</productCategory>
+      <productQuantity>2500</productQuantity>
+      <productUnit>Packung 1L</productUnit>
+    </product>
+    <product>
+      <productID>00-871895</productID>
+      <productName>Bio Apfelsaft Gold</productName>
+      <productCategory>Getraenk</productCategory>
+      <productQuantity>3420</productQuantity>
+      <productUnit>Packung 1L</productUnit>
+    </product>
+    <product>
+      <productID>01-926885</productID>
+      <productName>Ariel Waschmittel Color</productName>
+      <productCategory>Waschmittel</productCategory>
+      <productQuantity>478</productQuantity>
+      <productUnit>Packung 3KG</productUnit>
+    </product>
+    <product>
+      <productID>00-316253</productID>
+      <productName>Persil Discs Color</productName>
+      <productCategory>Waschmittel</productCategory>
+      <productQuantity>1430</productQuantity>
+      <productUnit>Packung 700G</productUnit>
+    </product>
+  </productData>
+</warehouseData>

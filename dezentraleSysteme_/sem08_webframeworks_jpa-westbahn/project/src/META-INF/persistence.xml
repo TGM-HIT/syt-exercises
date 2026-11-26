@@ -1,0 +1,33 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+             http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
+  version="2.1">
+
+  <persistence-unit name="westbahn">
+    <description> Hibernate JPA Configuration Example</description>
+    <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+      <!-- TODO List all perstiting Classdefinitions -->
+
+    <properties>
+      <!--
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/westbahn?serverTimezone=UTC" />
+      <property name="javax.persistence.jdbc.user" value="westbahnUser" />
+      <property name="javax.persistence.jdbc.password" value="westbahnPassword" />
+      -->    
+      <property name="javax.persistence.jdbc.driver" value="org.h2.Driver" />
+      <property name="javax.persistence.jdbc.url"    value="jdbc:h2:file:./db/testing" />
+      <property name="javax.persistence.jdbc.user" value="sa" />
+      <property name="javax.persistence.jdbc.password" value="" />
+      <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+  
+      <property name="hibernate.show_sql" value="false" />
+      <property name="hibernate.hbm2ddl.auto" value="create-drop" />
+    
+    </properties>
+
+  </persistence-unit>
+
+</persistence>

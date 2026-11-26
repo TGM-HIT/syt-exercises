@@ -1,0 +1,163 @@
+
+By the end of this chapter, you should be able to:
+            Explore the filesystem and its hierarchy.
+            Explain the filesystem architecture.
+            Compare files and identify different file types.
+            Back up and compress data.
+
+## Filesystem
+Aufbau - Root Directory
+Filesystem-Types (ext3,ext4,...)
+gparted
+mount points /dev/sda
+mount umount
+Netzwerkshares
+/etc/fstab
+
+## Filesystem Architecture
+/usr/bin
+/bin
+/proc
+/dev
+/var
+/etc
+    und dort passwd shadow und group, sowie fstab und resolv.conf
+/boot
+/lib und /lib64 sowie /lib/modules
+/run/media /mnt
+/opt /sys /srv /tmp /usr/*
+
+## Comparing Files and File Types
+diff diff3
+patch
+File-Endungen nicht gemapped - file.txt .exe etc.
+file
+dd
+Copy a text file to /tmp. For example, copy /etc/group to /tmp.
+student:/tmp> dd if=/tmp/group of=/tmp/GROUP conv=ucase.
+
+## Backing Up and Compressing Data
+rsync -r
+$ rsync --progress -avrxH  --delete sourcedir destdir
+gzip bzip2 xz zip
+
+$ tar cvf mydir.tar mydir ; gzip mydir.tar
+$ gunzip mydir.tar.gz ; tar xvf mydir.tar
+
+Effizienz von gzip, bzip2, and xz anhand von /usr/src/linux/include/
+
+dd (MIT FETTER WARNUNG!!!)
+
+gzip compression using the -z option to tar, creating /tmp/backup.tar.gz von Heimverzeichnis
+
+## Recap
+* The filesystem tree starts at what is often called the root directory (or trunk, or /).
+* The  Filesystem Hierarchy Standard (FHS) provides Linux developers and system administrators a standard directory structure for the filesystem.
+* Partitions help to segregate files according to usage, ownership, and type.
+* Filesystems can be mounted anywhere on the main filesystem tree at a mount point. Automatic filesystem mounting can be set up by editing /etc/fstab.
+* NFS (Network File System) is a useful method for sharing files and data through the network systems.
+* Filesystems like /proc are called pseudo filesystems because they exist only in memory.
+* /root (slash-root) is the home directory for the root user.
+
+
+
+By the end of this chapter, you should be able to:
+            Use and configure user accounts and user groups.
+            Use and set environment variables.
+            Use the previous shell command history.
+            Use keyboard shortcuts.
+            Use and define aliases.
+            Use and set file permissions and ownership.
+
+## Accounts, Users and Groups
+who whoami
+
+~/.bash_profile     ~/.bash_login       ~/.profile 
+you do not perform a full system login; only a file named ~/.bashrc file is read and evaluated
+
+alias
+
+/etc/passwd and /etc/group
+
+id useradd userdel groupadd groupdel usermod
+
+Who is root, and why am I sudo?
+/etc/sudoers
+
+alias with cd to loooooong directory name (projectX)
+OR git log --stat
+
+## Environment Variables 
+
+env set export
+echo $SHELL
+export VARIABLE=value
+~/.bashrc and add the line export VARIABLE=value --> don't forget source
+PYTHONPATH=. python3 script.py
+echo $HOME
+$PATH
+$SHELL
+
+Prompt Statement (PS)
+
+Create a small file /tmp/ls, which contains just the line:
+echo HELLO, this is the phony ls program.
+Then, make it executable by doing:
+$ chmod +x /tmp/ls
+Changing the Command Line Prompt
+
+
+## Recalling Previous Commands
+history
+~/.bash_history
+set | grep HIST
+up/down !! Ctrl-R
+! !$ !n !string
+
+Ctrl-??? L D Z C H A W U E
+Tab TabTab
+
+Once you find the command in your history, how do you easily issue the command again without having to type it all in at the prompt?
+
+## File Permissions 
+chown chgrp chmod
+rwx: rwx: rwx
+ u:   g:   o
+ 
+ digit is the sum of:
+
+            4 if read permission is desired
+            2 if write permission is desired
+            1 if execute permission is desired.
+
+Tasks to be performed:
+
+    View the files present in the current directory in the long listing format.
+    By default the permissions for a file will be rw-rw-r--, change the permissions of the sample2.sh file to
+    rwxr--r-x, using the rwx notation.
+    View the files present in the current directory in the long listing format.
+    By default the permissions for a file will be rw-rw-r--, change the permissions of the script1.sh file to
+    rwxr-x--x, using 421 method.
+    View the files present in the current directory in the long listing format.
+
+
+
+You have completed Chapter 12. Let's summarize the key concepts covered:
+
+* Linux is a multi-user system.
+* To find the currently logged on users, you can use the who command.
+* To find the current user ID, you can use the whoami command.
+* The root account has full access to the system. It is never sensible to grant full root access to a user.
+* You can assign root privileges to regular user accounts on a temporary basis using the sudo command.
+* The shell program (bash) uses multiple startup files to create the user environment. Each file affects the interactive environment in a different way. /etc/profile provides the global settings.
+* Advantages of startup files include that they customize the user's prompt, set the user's terminal type, set the command-line shortcuts and aliases, and set the default text editor, etc.
+* An environment variable is a character string that contains data used by one or more applications. The built-in shell variables can be customized to suit your requirements.
+* The history command recalls a list of previous commands, which can be edited and recycled.
+* In Linux, various keyboard shortcuts can be used at the command prompt instead of long actual commands.
+* You can customize commands by creating aliases. Adding an alias to ˜/.bashrc will make it available for other shells.
+* File permissions can be changed by typing chmod permissions filename.
+* File ownership is changed by typing chown owner filename.
+* File group ownership is changed by typing chgrp group filename.
+
+
+

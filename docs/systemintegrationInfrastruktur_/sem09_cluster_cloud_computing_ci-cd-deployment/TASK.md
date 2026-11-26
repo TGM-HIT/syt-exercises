@@ -74,7 +74,12 @@ Gruppengröße: 2-3 Person(en)
 - "How to build a CI/CD pipeline with GitHub Actions in four simple steps" [github.blog](https://github.blog/enterprise-software/ci-cd/build-ci-cd-pipeline-github-actions-four-steps/)
 - "What is CI/CD?" [github.com](https://github.com/resources/articles/ci-cd)
 - "Github Actions - Workflows" [github.com](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflows)
+- "The Practical Test Pyramid" [martinfowler.com](https://martinfowler.com/articles/practical-test-pyramid.html)
+- "Maintainability sensors for coding agents" [martinfowler.com](https://martinfowler.com/articles/sensors-for-coding-agents.html)
+- "Software Testing Guide" [martinfowler.com](https://martinfowler.com/testing/)
+- "CI/CD Best Practices" [jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+- "CI/CD Best Practices" [baeldung](https://www.baeldung.com/ops/ci-cd-best-practices)
 
 ---
-**Version** *20261009v5*
+**Version** *20261126v6*
 

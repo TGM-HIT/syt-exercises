@@ -17,7 +17,7 @@ Es soll ein Load Balancer mit mindestens 2 unterschiedlichen Load-Balancing Meth
 
 Folgende Load Balancing Methoden stehen zur Auswahl:
 
-+ Weighted Round-Round
++ Weighted Round-Robin
 + Least Connection
 + Weighted Least Connection
 + Agent Based Adaptive Balancing / Server Probes
